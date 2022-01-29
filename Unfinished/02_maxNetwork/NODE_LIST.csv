@@ -1,0 +1,175 @@
+uniqueID,x,y,nodeName,type,subtype,varname,description,neighbours,maxclass,text,parent,subpatch,abstraction,patchX,patchY,patchW,patchH,inlets,outlets,size,col,inletIdx,outletIdx
+obj-147_flucoma performance.maxpat_5379,0,0,subpatcher,physical,digital,undefined,undefined,,newobj,p gain,_flucoma performance.maxpat,0,0,53.873718,1159.709839,41,22,1,1,10,0.2550.4670.6981,0,0
+obj-140_flucoma performance.maxpat_5847,0,0,message,physical,digital,undefined,undefined,,message,2,_flucoma performance.maxpat,0,0,1218,640,29.5,22,2,1,10,0.2550.4670.6981,0,0
+obj-139_flucoma performance.maxpat_5682,0,0,sel 0 1,physical,digital,undefined,undefined,,newobj,sel 0 1,_flucoma performance.maxpat,0,0,1183,584.3168328359375,44,22,3,3,10,0.2550.4670.6981,0,0
+obj-138_flucoma performance.maxpat_5390,0,0,message,physical,digital,undefined,undefined,,message,0.25,_flucoma performance.maxpat,0,0,1169,640,32,22,2,1,10,0.2550.4670.6981,0,0
+obj-131_flucoma performance.maxpat_4235,0,0,ezdac~,physical,digital,undefined,undefined,,ezdac~,,_flucoma performance.maxpat,0,0,1199,1011,45,45,2,0,10,0.2550.4670.6981,0,0
+obj-130_flucoma performance.maxpat_6708,0,0,sig~ 1,physical,digital,undefined,undefined,,newobj,sig~ 1,_flucoma performance.maxpat,0,0,1183,866,41,22,1,1,10,0.2550.4670.6981,0,0
+obj-121_flucoma performance.maxpat_8323,0,0,groove~ #0cloud @loop 1,physical,digital,undefined,undefined,,newobj,groove~ #0cloud @loop 1,_flucoma performance.maxpat,0,0,1183,932.9163818359375,146,22,3,2,10,0.2550.4670.6981,0,0
+obj-112_flucoma performance.maxpat_1854,0,0,waveform~,physical,digital,undefined,undefined,,waveform~,,_flucoma performance.maxpat,0,0,941,1347.1951296718748,256,64,5,6,10,0.2550.4670.6981,0,0
+obj-76_flucoma performance.maxpat_768,0,0,route attackbang attacktoggle,physical,digital,undefined,undefined,,newobj,route attackbang attacktoggle,_flucoma performance.maxpat,0,0,1010.5,1058.945587,168,22,3,3,10,0.2550.4670.6981,0,0
+obj-79_flucoma performance.maxpat_6341,0,0,subpatcher,physical,digital,undefined,undefined,,newobj,p onsetdetect,_flucoma performance.maxpat,0,0,1010.5,1022.5,83,22,1,1,10,0.2550.4670.6981,0,0
+obj-83_flucoma performance.maxpat_9589,0,0,change,physical,digital,undefined,undefined,,newobj,change,_flucoma performance.maxpat,0,0,1010.5,1107.391144,50,22,1,3,10,0.2550.4670.6981,0,0
+obj-84_flucoma performance.maxpat_5694,0,0,t 0,physical,digital,undefined,undefined,,newobj,t 0,_flucoma performance.maxpat,0,0,1105.5,1224.054443,24,22,1,1,10,0.2550.4670.6981,0,0
+obj-86_flucoma performance.maxpat_7094,0,0,t 1,physical,digital,undefined,undefined,,newobj,t 1,_flucoma performance.maxpat,0,0,1059,1179.0544129999998,24,22,1,1,10,0.2550.4670.6981,0,0
+obj-89_flucoma performance.maxpat_6485,0,0,t 0 1,physical,digital,undefined,undefined,,newobj,t 0 1,_flucoma performance.maxpat,0,0,1090,1179.0544129999998,61,22,1,2,10,0.2550.4670.6981,0,0
+obj-104_flucoma performance.maxpat_3106,0,0,sel 0,physical,digital,undefined,undefined,,newobj,sel 0,_flucoma performance.maxpat,0,0,1059,1147.0544129999998,50,22,2,2,10,0.2550.4670.6981,0,0
+obj-90_flucoma performance.maxpat_6885,0,0,gate,physical,digital,undefined,undefined,,newobj,gate,_flucoma performance.maxpat,0,0,1059,1224.054443,34,22,2,1,10,0.2550.4670.6981,0,0
+obj-96_flucoma performance.maxpat_5287,0,0,message,physical,digital,undefined,undefined,,message,$1 5,_flucoma performance.maxpat,0,0,1010.5,1143.8367309999999,32,22,2,1,10,0.2550.4670.6981,0,0
+obj-99_flucoma performance.maxpat_3331,0,0,line~,physical,digital,undefined,undefined,,newobj,line~,_flucoma performance.maxpat,0,0,1010.5,1180.282318,36,22,2,2,10,0.2550.4670.6981,0,0
+obj-102_flucoma performance.maxpat_5944,0,0,*~,physical,digital,undefined,undefined,,newobj,*~,_flucoma performance.maxpat,0,0,984,1224.054443,45.5,22,2,1,10,0.2550.4670.6981,0,0
+obj-103_flucoma performance.maxpat_3606,0,0,message,physical,digital,undefined,undefined,,message,clear,_flucoma performance.maxpat,0,0,842,1257.809204,37,22,2,1,10,0.2550.4670.6981,0,0
+obj-108_flucoma performance.maxpat_288,0,0,buffer~ #0cloud 1000,physical,digital,undefined,undefined,,newobj,buffer~ #0cloud 1000,_flucoma performance.maxpat,0,0,842,1289.809174,123,22,1,2,10,0.2550.4670.6981,0,0
+obj-111_flucoma performance.maxpat_8708,0,0,record~ #0cloud @append 1 @loop 1,physical,digital,undefined,undefined,,newobj,record~ #0cloud @append 1 @loop 1,_flucoma performance.maxpat,0,0,984,1289.809174,211,22,3,1,10,0.2550.4670.6981,0,0
+obj-105_flucoma performance.maxpat_8153,0,0,umenu,physical,digital,undefined,undefined,,umenu,,_flucoma performance.maxpat,0,0,921.3561502740882,539,72,22,1,3,10,0.2550.4670.6981,0,0
+obj-80_flucoma performance.maxpat_274,0,0,message,physical,digital,undefined,undefined,,message,treble $1,_flucoma performance.maxpat,0,0,886,611,55,22,2,1,10,0.2550.4670.6981,0,0
+obj-78_flucoma performance.maxpat_5727,0,0,toggle,physical,digital,undefined,undefined,,toggle,,_flucoma performance.maxpat,0,0,895.3561502740882,539,24,24,1,1,10,0.2550.4670.6981,0,0
+obj-44_flucoma performance.maxpat_1026,0,0,flonum,physical,digital,undefined,undefined,,flonum,,_flucoma performance.maxpat,0,0,1245.4894716074218,490,53,22,1,2,10,0.2550.4670.6981,0,0
+obj-39_flucoma performance.maxpat_8696,0,0,flonum,physical,digital,undefined,undefined,,flonum,,_flucoma performance.maxpat,0,0,1009.3561502740882,460,50,22,1,2,10,0.2550.4670.6981,0,0
+obj-40_flucoma performance.maxpat_9593,0,0,loadmess 0.1,physical,digital,undefined,undefined,,newobj,loadmess 0.1,_flucoma performance.maxpat,0,0,1067.6089786074217,453,80,22,1,1,10,0.2550.4670.6981,0,0
+obj-47_flucoma performance.maxpat_4569,0,0,subpatcher,physical,digital,undefined,undefined,,newobj,p directionOfMovement,_flucoma performance.maxpat,0,0,895.3561502740882,496,133,22,2,1,10,0.2550.4670.6981,0,0
+obj-50_flucoma performance.maxpat_9839,0,0,unjoin 2,physical,digital,undefined,undefined,,newobj,unjoin 2,_flucoma performance.maxpat,0,0,1245.4894716074218,449.602844,74,22,1,3,10,0.2550.4670.6981,0,0
+obj-62_flucoma performance.maxpat_3075,0,0,unjoin 3,physical,digital,undefined,undefined,,newobj,unjoin 3,_flucoma performance.maxpat,0,0,872.6894836074216,446,53,22,1,4,10,0.2550.4670.6981,0,0
+obj-66_flucoma performance.maxpat_8197,0,0,route /euler /linear /sensors /button /battery,physical,digital,undefined,undefined,,newobj,route /euler /linear /sensors /button /battery,_flucoma performance.maxpat,0,0,872.6894836074216,409.205688,485,22,6,6,10,0.2550.4670.6981,0,0
+obj-69_flucoma performance.maxpat_5842,0,0,udpreceive 8000,physical,digital,undefined,undefined,,newobj,udpreceive 8000,_flucoma performance.maxpat,0,0,872.6894836074216,368.808533,97,22,1,1,10,0.2550.4670.6981,0,0
+obj-82_flucoma performance.maxpat_49,0,0,live.text,physical,digital,live.text[5],live.text[5],,live.text,SOLNOID,_flucoma performance.maxpat,0,0,298,310.15231283593744,40,20,1,2,10,0.2550.4670.6981,0,0
+obj-81_flucoma performance.maxpat_3663,0,0,subpatcher,physical,digital,undefined,undefined,,newobj,p solenoids,_flucoma performance.maxpat,0,0,298,352.48593099999994,69,22,2,0,10,0.2550.4670.6981,0,0
+obj-45_flucoma performance.maxpat_341,0,0,message,physical,digital,undefined,undefined,,message,database,_flucoma performance.maxpat,0,0,537.1666257382813,223.8168910000001,92,22,2,1,10,0.2550.4670.6981,0,0
+obj-42_flucoma performance.maxpat_3295,0,0,route symbol,physical,digital,undefined,undefined,,newobj,route symbol,_flucoma performance.maxpat,0,0,441,223.8168910000001,77,22,2,2,10,0.2550.4670.6981,0,0
+obj-37_flucoma performance.maxpat_1815,0,0,coll buffersLoaded,physical,digital,undefined,undefined,,newobj,coll buffersLoaded,_flucoma performance.maxpat,0,0,441,191.65695300000016,106,22,1,4,10,0.2550.4670.6981,0,0
+obj-33_flucoma performance.maxpat_9773,0,0,s samplesLoaded,physical,digital,undefined,undefined,,newobj,s samplesLoaded,_flucoma performance.maxpat,0,0,411.66662573828125,271.15231283593744,103,22,1,0,10,0.2550.4670.6981,0,0
+obj-15_flucoma performance.maxpat_1741,0,0,umenu,physical,digital,undefined,undefined,,umenu,,_flucoma performance.maxpat,0,0,411.66662573828125,150.70324800000014,100,22,1,3,10,0.2550.4670.6981,0,0
+obj-35_flucoma performance.maxpat_1783,0,0,message,physical,digital,undefined,undefined,,message,8,_flucoma performance.maxpat,0,0,719.1666257382813,1241.6140443281251,29.5,22,2,1,10,0.2550.4670.6981,0,0
+obj-34_flucoma performance.maxpat_18,0,0,message,physical,digital,undefined,undefined,,message,0,_flucoma performance.maxpat,0,0,674,1241.6140443281251,29.5,22,2,1,10,0.2550.4670.6981,0,0
+obj-8_flucoma performance.maxpat_849,0,0,voiceExclude 8 8,physical,digital,undefined,undefined,,newobj,voiceExclude 8 8,_flucoma performance.maxpat,0,0,649.6666257382813,1320,99,22,2,2,10,0.2550.4670.6981,0,0
+obj-11_flucoma performance.maxpat_6146,0,0,comment,physical,digital,undefined,undefined,,comment,-,_flucoma performance.maxpat,0,0,77,137,299.37371800000005,20,1,0,10,0.2550.4670.6981,0,0
+obj-32_flucoma performance.maxpat_2417,0,0,*~ 0.5,physical,digital,undefined,undefined,,newobj,*~ 0.5,_flucoma performance.maxpat,0,0,613.0806882617189,1145.055573,40,22,2,1,10,0.2550.4670.6981,0,0
+obj-29_flucoma performance.maxpat_2803,0,0,gate~ 2 1,physical,digital,undefined,undefined,,newobj,gate~ 2 1,_flucoma performance.maxpat,0,0,241,814,104,22,2,2,10,0.2550.4670.6981,0,0
+obj-18_flucoma performance.maxpat_2791,0,0,bpatcher,physical,digital,fx_dirt[3],fx_dirt[3],,bpatcher,,_flucoma performance.maxpat,0,0,289.6666257382813,619.8607664058168,185,169,2,2,10,0.2550.4670.6981,0,0
+obj-1_flucoma performance.maxpat_523,0,0,poly~ simplePlayer~ 32 args metals,physical,digital,undefined,undefined,,newobj,poly~ simplePlayer~ 32 args metals,_flucoma performance.maxpat,0,0,213.873718,403.04150383593765,199,22,2,5,10,0.2550.4670.6981,0,0
+obj-126_flucoma performance.maxpat_8061,0,0,live.line,physical,digital,undefined,undefined,,live.line,,_flucoma performance.maxpat,0,0,269.873718,1006.9877928359374,20,37,1,0,10,0.2550.4670.6981,0,0
+obj-125_flucoma performance.maxpat_2140,0,0,live.line,physical,digital,undefined,undefined,,live.line,,_flucoma performance.maxpat,0,0,245.873718,1006.9877928359374,20,37,1,0,10,0.2550.4670.6981,0,0
+obj-123_flucoma performance.maxpat_4413,0,0,comment,physical,digital,undefined,undefined,,comment,samples,_flucoma performance.maxpat,0,0,334.37371826171875,579.8168328359374,109,31,1,0,10,0.2550.4670.6981,0,0
+obj-115_flucoma performance.maxpat_834,0,0,subpatcher,physical,digital,undefined,undefined,,newobj,p faderGain,_flucoma performance.maxpat,0,0,357.66662573828125,1104.055573,71,22,2,1,10,0.2550.4670.6981,0,0
+obj-106_flucoma performance.maxpat_6647,0,0,subpatcher,physical,digital,undefined,undefined,,newobj,p mode,_flucoma performance.maxpat,0,0,433.66662573828125,1104.055573,49,22,0,1,10,0.2550.4670.6981,0,0
+obj-101_flucoma performance.maxpat_624,0,0,subpatcher,physical,digital,undefined,undefined,,newobj,p mode,_flucoma performance.maxpat,0,0,54,779.0274346718749,49,22,0,1,10,0.2550.4670.6981,0,0
+obj-97_flucoma performance.maxpat_8287,0,0,subpatcher,physical,digital,undefined,undefined,,newobj,p mode,_flucoma performance.maxpat,0,0,357.66662573828125,1031.29718,49,22,0,1,10,0.2550.4670.6981,0,0
+obj-87_flucoma performance.maxpat_9303,0,0,gate~ 1 1,physical,digital,undefined,undefined,,newobj,gate~ 1 1,_flucoma performance.maxpat,0,0,433.66662573828125,1145.055573,68,22,2,1,10,0.2550.4670.6981,0,0
+obj-67_flucoma performance.maxpat_954,0,0,gate~ 2 1,physical,digital,undefined,undefined,,newobj,gate~ 2 1,_flucoma performance.maxpat,0,0,357.66662573828125,1065.5830501019955,144,22,2,2,10,0.2550.4670.6981,0,0
+obj-28_flucoma performance.maxpat_7788,0,0,gate~ 2 1,physical,digital,undefined,undefined,,newobj,gate~ 2 1,_flucoma performance.maxpat,0,0,54,814,104,22,2,2,10,0.2550.4670.6981,0,0
+obj-25_flucoma performance.maxpat_7831,0,0,comment,physical,digital,undefined,undefined,,comment,samples,_flucoma performance.maxpat,0,0,548.6666257382813,1117.055573,53,20,1,0,10,0.2550.4670.6981,0,0
+obj-26_flucoma performance.maxpat_5795,0,0,dac~ 1 2,physical,digital,undefined,undefined,,newobj,dac~ 1 2,_flucoma performance.maxpat,0,0,244.77406306542935,1541.1213398359382,55,22,2,0,10,0.2550.4670.6981,0,0
+obj-59_flucoma performance.maxpat_9966,0,0,live.text,physical,digital,live.text[6],live.text[6],,live.text,SAMPLES,_flucoma performance.maxpat,0,0,53.873718,310.15231283593744,40,20,1,2,10,0.2550.4670.6981,0,0
+obj-21_flucoma performance.maxpat_6107,0,0,subpatcher,physical,digital,undefined,undefined,,newobj,p dicerControl,_flucoma performance.maxpat,0,0,344.9030150000001,1350.2353841640634,83,22,1,1,10,0.2550.4670.6981,0,0
+obj-20_flucoma performance.maxpat_394,0,0,live.text,physical,digital,live.text[2],live.text[2],,live.text,KICK,_flucoma performance.maxpat,0,0,311.77406332714804,1304.3599871640633,40,20,1,2,10,0.2550.4670.6981,0,0
+obj-13_flucoma performance.maxpat_472,0,0,subpatcher,physical,digital,undefined,undefined,,newobj,p kickSamples,_flucoma performance.maxpat,0,0,244.77406332714804,1350.2353841640634,86,22,2,1,10,0.2550.4670.6981,0,0
+obj-16_flucoma performance.maxpat_8785,0,0,adc~ 1,physical,digital,undefined,undefined,,newobj,adc~ 1,_flucoma performance.maxpat,0,0,244.77406332714804,1304.3599871640633,45,22,1,1,10,0.2550.4670.6981,0,0
+obj-100_flucoma performance.maxpat_1551,0,0,flonum,physical,digital,undefined,undefined,,flonum,,_flucoma performance.maxpat,0,0,313.27406332714804,1456.6213398359382,50,22,1,2,10,0.2550.4670.6981,0,0
+obj-6_flucoma performance.maxpat_4288,0,0,*~ 1,physical,digital,undefined,undefined,,newobj,*~ 1,_flucoma performance.maxpat,0,0,244.77406306542935,1494.6213398359382,87.5000002617187,22,2,1,10,0.2550.4670.6981,0,0
+obj-7_flucoma performance.maxpat_2248,0,0,poly~ hpssPlayer~ 8 @args gamelan @steal 1,physical,digital,poly~,poly~,,newobj,poly~ hpssPlayer~ 8 @args gamelan @steal 1,_flucoma performance.maxpat,0,0,244.77406306542935,1396.4964618359386,256,22,1,5,10,0.2550.4670.6981,0,0
+obj-10_flucoma performance.maxpat_1134,0,0,spectrumdraw~,physical,digital,undefined,undefined,,spectrumdraw~,,_flucoma performance.maxpat,0,0,365.27406332714804,1456.6213398359382,154.23474126171902,65,4,1,10,0.2550.4670.6981,0,0
+obj-158_flucoma performance.maxpat_6071,0,0,live.line,physical,digital,undefined,undefined,,live.line,,_flucoma performance.maxpat,0,0,415.87371800000005,18.821411000000012,5,71,1,0,10,0.2550.4670.6981,0,0
+obj-157_flucoma performance.maxpat_6277,0,0,comment,physical,digital,undefined,undefined,,comment,Modes:
+green = normal
+yellow = mic/samples
+red = samples cut,_flucoma performance.maxpat,0,0,499.2929074765625,60.749982000000074,122,60,1,0,10,0.2550.4670.6981,0,0
+obj-155_flucoma performance.maxpat_7735,0,0,subpatcher,physical,digital,undefined,undefined,,newobj,p mode,_flucoma performance.maxpat,0,0,657.9595332148438,46.24954300000013,49,22,0,0,10,0.2550.4670.6981,0,0
+obj-88_flucoma performance.maxpat_962,0,0,subpatcher,physical,digital,undefined,undefined,,newobj,p dicerControl,_flucoma performance.maxpat,0,0,283,233.00381383593742,83,22,0,1,10,0.2550.4670.6981,0,0
+obj-49_flucoma performance.maxpat_9709,0,0,matrix~ 2 1 1. @ramp 50,physical,digital,undefined,undefined,,newobj,matrix~ 2 1 1. @ramp 50,_flucoma performance.maxpat,0,0,124.873718,271.15231283593744,141,22,2,2,10,0.2550.4670.6981,0,0
+obj-75_flucoma performance.maxpat_4835,0,0,subpatcher,physical,digital,undefined,undefined,,newobj,p dicerControl,_flucoma performance.maxpat,0,0,219.873718,938.9163818359375,83,22,1,1,10,0.2550.4670.6981,0,0
+obj-73_flucoma performance.maxpat_8324,0,0,comment,physical,digital,undefined,undefined,,comment,record,_flucoma performance.maxpat,0,0,121.373718,1337.3476871640628,86,31,1,0,10,0.2550.4670.6981,0,0
+obj-70_flucoma performance.maxpat_7378,0,0,number~,physical,digital,undefined,undefined,,number~,,_flucoma performance.maxpat,0,0,53.873718,1379.695374328125,112,22,2,2,10,0.2550.4670.6981,0,0
+obj-68_flucoma performance.maxpat_8172,0,0,toggle,physical,digital,undefined,undefined,,toggle,,_flucoma performance.maxpat,0,0,76.16540499999991,1302.3599871640633,24,24,1,1,10,0.2550.4670.6981,0,0
+obj-64_flucoma performance.maxpat_3657,0,0,message,physical,digital,undefined,undefined,,message,open wave,_flucoma performance.maxpat,0,0,121.373718,1304.3599871640633,67,22,2,1,10,0.2550.4670.6981,0,0
+obj-60_flucoma performance.maxpat_8877,0,0,sfrecord~,physical,digital,undefined,undefined,,newobj,sfrecord~,_flucoma performance.maxpat,0,0,53.873718,1341.8476871640626,59,22,1,1,10,0.2550.4670.6981,0,0
+obj-58_flucoma performance.maxpat_218,0,0,subpatcher,physical,digital,undefined,undefined,,newobj,p blend,_flucoma performance.maxpat,0,0,482.66662573828125,834.0555728359379,119,22,3,1,10,0.2550.4670.6981,0,0
+obj-41_flucoma performance.maxpat_7638,0,0,subpatcher,physical,digital,undefined,undefined,,newobj,p load,_flucoma performance.maxpat,0,0,155.33197026171865,938.9163818359375,41,22,0,1,10,0.2550.4670.6981,0,0
+obj-31_flucoma performance.maxpat_9361,0,0,comment,physical,digital,undefined,undefined,,comment,FluCoMa gig,_flucoma performance.maxpat,0,0,20.665404999999907,18.821411000000012,398,71,1,0,10,0.2550.4670.6981,0,0
+obj-30_flucoma performance.maxpat_79,0,0,subpatcher,physical,digital,undefined,undefined,,newobj,p level,_flucoma performance.maxpat,0,0,53.873718,938.9163818359375,63,22,2,1,10,0.2550.4670.6981,0,0
+obj-19_flucoma performance.maxpat_1904,0,0,subpatcher,physical,digital,undefined,undefined,,newobj,p matching,_flucoma performance.maxpat,0,0,53.873718,392.65231299999994,67,22,1,2,10,0.2550.4670.6981,0,0
+obj-12_flucoma performance.maxpat_2352,0,0,subpatcher,physical,digital,undefined,undefined,,newobj,p samples,_flucoma performance.maxpat,0,0,430.16662573828125,60.749982000000074,63,22,1,0,10,0.2550.4670.6981,0,0
+obj-9_flucoma performance.maxpat_7105,0,0,bpatcher,physical,digital,fx_cloiud,fx_cloiud,,bpatcher,,_flucoma performance.maxpat,0,0,53.873718,982.9163818359375,185,169,2,2,10,0.2550.4670.6981,0,0
+obj-92_flucoma performance.maxpat_7922,0,0,*~ 0.5,physical,digital,undefined,undefined,,newobj,*~ 0.5,_flucoma performance.maxpat,0,0,523.3736570000001,1145.055573,40,22,2,1,10,0.2550.4670.6981,0,0
+obj-4_flucoma performance.maxpat_4945,0,0,subpatcher,physical,digital,undefined,undefined,,newobj,p load,_flucoma performance.maxpat,0,0,165.373718,485.17205834375056,41,22,0,1,10,0.2550.4670.6981,0,0
+obj-151_flucoma performance.maxpat_2103,0,0,subpatcher,physical,digital,undefined,undefined,,newobj,p load,_flucoma performance.maxpat,0,0,729.3332514765625,634.7472836718749,41,22,0,1,10,0.2550.4670.6981,0,0
+obj-85_flucoma performance.maxpat_7908,0,0,subpatcher,physical,digital,undefined,undefined,,newobj,p schmitt,_flucoma performance.maxpat,0,0,433.66662573828125,1183.0555728359382,198.41406252343768,22,3,1,10,0.2550.4670.6981,0,0
+obj-72_flucoma performance.maxpat_8032,0,0,subpatcher,physical,digital,undefined,undefined,,newobj,p dicerControl,_flucoma performance.maxpat,0,0,97.873718,871.1344293359377,83,22,0,1,10,0.2550.4670.6981,0,0
+obj-141_flucoma performance.maxpat_3414,0,0,bpatcher,physical,digital,fx_dirt[2],fx_dirt[2],,bpatcher,,_flucoma performance.maxpat,0,0,532.6666257382813,634.7472836718749,185,169,2,2,10,0.2550.4670.6981,0,0
+obj-132_flucoma performance.maxpat_6099,0,0,bpatcher,physical,digital,fx_dirt[1],fx_dirt[1],,bpatcher,,_flucoma performance.maxpat,0,0,53.873718,524.577698,185,169,2,2,10,0.2550.4670.6981,0,0
+obj-187_flucoma performance.maxpat_1893,0,0,subpatcher,physical,digital,undefined,undefined,,newobj,p dicerControl,_flucoma performance.maxpat,0,0,698.6666257382813,391.81683283593736,83,22,1,1,10,0.2550.4670.6981,0,0
+obj-186_flucoma performance.maxpat_9575,0,0,subpatcher,physical,digital,undefined,undefined,,newobj,p dicerControl,_flucoma performance.maxpat,0,0,219.873718,485.17205834375056,83,22,1,1,10,0.2550.4670.6981,0,0
+obj-185_flucoma performance.maxpat_1054,0,0,subpatcher,physical,digital,undefined,undefined,,newobj,p dicerControl,_flucoma performance.maxpat,0,0,157.873718,352.48593099999994,83,22,1,1,10,0.2550.4670.6981,0,0
+obj-129_flucoma performance.maxpat_6919,0,0,comment,physical,digital,undefined,undefined,,comment,level,_flucoma performance.maxpat,0,0,147.873718,903.1484983359376,33,20,1,0,10,0.2550.4670.6981,0,0
+obj-152_flucoma performance.maxpat_2369,0,0,!- 1.,physical,digital,undefined,undefined,,newobj,!- 1.,_flucoma performance.maxpat,0,0,907.5316009345702,726.7774346718749,29.5,22,2,1,10,0.2550.4670.6981,0,0
+obj-148_flucoma performance.maxpat_3342,0,0,multislider,physical,digital,undefined,undefined,,multislider,,_flucoma performance.maxpat,0,0,907.5543975419919,758.1941029379328,195.27017213085935,69.66666346788406,1,2,10,0.2550.4670.6981,0,0
+obj-143_flucoma performance.maxpat_8280,0,0,comment,physical,digital,undefined,undefined,,comment,+,_flucoma performance.maxpat,0,0,875.8561706074215,773.0274346718749,33,40,1,0,10,0.2550.4670.6981,0,0
+obj-144_flucoma performance.maxpat_3254,0,0,live.button,physical,digital,live.button[1],live.button[1],,live.button,,_flucoma performance.maxpat,0,0,882.3561706074215,783.0274346718749,20,20,1,1,10,0.2550.4670.6981,0,0
+obj-142_flucoma performance.maxpat_6681,0,0,comment,physical,digital,undefined,undefined,,comment,+,_flucoma performance.maxpat,0,0,1101.8245696728513,773.0274346718749,33,40,1,0,10,0.2550.4670.6981,0,0
+obj-135_flucoma performance.maxpat_1277,0,0,live.button,physical,digital,live.button,live.button,,live.button,,_flucoma performance.maxpat,0,0,1108.3245696728513,783.0274346718749,20,20,1,1,10,0.2550.4670.6981,0,0
+obj-128_flucoma performance.maxpat_5261,0,0,panel,physical,digital,undefined,undefined,,panel,,_flucoma performance.maxpat,0,0,907.5543975419919,788.0274346718749,195.27017213085935,10,1,0,10,0.2550.4670.6981,0,0
+obj-122_flucoma performance.maxpat_2962,0,0,panel,physical,digital,undefined,undefined,,panel,,_flucoma performance.maxpat,0,0,872.6894836074216,726.7774346718749,265,132.5,1,0,10,0.2550.4670.6981,0,0
+obj-120_flucoma performance.maxpat_1124,0,0,subpatcher,physical,digital,undefined,undefined,,newobj,p dicer,_flucoma performance.maxpat,0,0,657.9595332148438,16.656891000000087,45,22,0,0,10,0.2550.4670.6981,0,0
+obj-61_flucoma performance.maxpat_197,0,0,comment,physical,digital,undefined,undefined,,comment,mic,_flucoma performance.maxpat,0,0,858.5565182148439,179.6661690000002,30,17,1,0,10,0.2550.4670.6981,0,0
+obj-65_flucoma performance.maxpat_8547,0,0,comment,physical,digital,undefined,undefined,,comment,con-
+tact,_flucoma performance.maxpat,0,0,816.2635494765627,176.6661690000002,41,27,1,0,10,0.2550.4670.6981,0,0
+obj-93_flucoma performance.maxpat_8592,0,0,comment,physical,digital,undefined,undefined,,comment,cloud,_flucoma performance.maxpat,0,0,899.0565182148439,181.6661690000002,36,17,1,0,10,0.2550.4670.6981,0,0
+obj-107_flucoma performance.maxpat_8844,0,0,comment,physical,digital,undefined,undefined,,comment,Dirt,_flucoma performance.maxpat,0,0,968.0565182148439,176.6661690000002,29,20,1,0,10,0.2550.4670.6981,0,0
+obj-109_flucoma performance.maxpat_722,0,0,comment,physical,digital,undefined,undefined,,comment,Mode,_flucoma performance.maxpat,0,0,852.4595332148438,70.6661690000002,41,20,1,0,10,0.2550.4670.6981,0,0
+obj-110_flucoma performance.maxpat_4216,0,0,comment,physical,digital,undefined,undefined,,comment,S Fold,_flucoma performance.maxpat,0,0,796.0565182148439,123.23697000000016,47,20,1,0,10,0.2550.4670.6981,0,0
+obj-114_flucoma performance.maxpat_5999,0,0,fpic,physical,digital,undefined,undefined,,fpic,,_flucoma performance.maxpat,0,0,704.9595332148438,16.656891000000087,340,229.16000000000003,1,1,10,0.2550.4670.6981,0,0
+obj-116_flucoma performance.maxpat_1623,0,0,panel,physical,digital,undefined,undefined,,panel,,_flucoma performance.maxpat,0,0,787.9595332148438,46.24954300000013,176.5,176,1,0,10,0.2550.4670.6981,0,0
+obj-117_flucoma performance.maxpat_3560,0,0,panel,physical,digital,undefined,undefined,,panel,,_flucoma performance.maxpat,0,0,945.0565182148439,140.71243300000015,91.471588,89.90741,1,0,10,0.2550.4670.6981,0,0
+obj-118_flucoma performance.maxpat_1425,0,0,panel,physical,digital,undefined,undefined,,panel,,_flucoma performance.maxpat,0,0,761.0565182148439,109.74954300000013,105.715157,103.90741,1,0,10,0.2550.4670.6981,0,0
+obj-119_flucoma performance.maxpat_2899,0,0,panel,physical,digital,undefined,undefined,,panel,,_flucoma performance.maxpat,0,0,724.3413692148438,132.71243300000015,97.575974,95.537109,1,0,10,0.2550.4670.6981,0,0
+obj-56_flucoma performance.maxpat_8714,0,0,gate,physical,digital,undefined,undefined,,newobj,gate,_flucoma performance.maxpat,0,0,53.873718,352.48593099999994,90,22,2,1,10,0.2550.4670.6981,0,0
+obj-54_flucoma performance.maxpat_9207,0,0,scope~,physical,digital,undefined,undefined,,scope~,,_flucoma performance.maxpat,0,0,186.873718,712.8667291718748,49,41.8214109999999,2,0,10,0.2550.4670.6981,0,0
+obj-52_flucoma performance.maxpat_6401,0,0,spectrumdraw~,physical,digital,undefined,undefined,,spectrumdraw~,,_flucoma performance.maxpat,0,0,107.873718,712.8667291718748,77,41.82141100000001,4,1,10,0.2550.4670.6981,0,0
+obj-98_flucoma performance.maxpat_8322,0,0,subpatcher,physical,digital,undefined,undefined,,newobj,p fader,_flucoma performance.maxpat,0,0,830.5316009345702,682.7472836718749,96,22,0,2,10,0.2550.4670.6981,0,0
+obj-95_flucoma performance.maxpat_8488,0,0,comment,physical,digital,undefined,undefined,,comment,load samples,_flucoma performance.maxpat,0,0,478.66662573828125,18.821411000000012,167,31,1,0,10,0.2550.4670.6981,0,0
+obj-94_flucoma performance.maxpat_3827,0,0,live.text,physical,digital,live.text[4],live.text[4],,live.text,LOAD,_flucoma performance.maxpat,0,0,430.16662573828125,24.321411000000012,40,20,1,2,10,0.2550.4670.6981,0,0
+obj-159_flucoma performance.maxpat_8433,0,0,comment,physical,digital,undefined,undefined,,comment,node filter,_flucoma performance.maxpat,0,0,637.6666257382813,1002.9877928359374,131,31,1,0,10,0.2550.4670.6981,0,0
+obj-46_flucoma performance.maxpat_5777,0,0,live.text,physical,digital,live.text[1],live.text[1],,live.text,EQ,_flucoma performance.maxpat,0,0,505.66662573828125,908.9163818359375,40,20,1,2,10,0.2550.4670.6981,0,0
+obj-48_flucoma performance.maxpat_1541,0,0,filtergraph~,physical,digital,undefined,undefined,,filtergraph~,,_flucoma performance.maxpat,0,0,569.0696407382814,932.9163818359375,64,33,8,7,10,0.2550.4670.6981,0,0
+obj-51_flucoma performance.maxpat_3646,0,0,attrui,physical,digital,undefined,undefined,,attrui,,_flucoma performance.maxpat,0,0,637.6666257382813,873.9877928359375,150,22,1,1,10,0.2550.4670.6981,0,0
+obj-27_flucoma performance.maxpat_6190,0,0,attrui,physical,digital,undefined,undefined,,attrui,,_flucoma performance.maxpat,0,0,637.6666257382813,926.4877928359374,150,22,1,1,10,0.2550.4670.6981,0,0
+obj-77_flucoma performance.maxpat_2655,0,0,attrui,physical,digital,undefined,undefined,,attrui,,_flucoma performance.maxpat,0,0,637.6666257382813,900.2377928359374,150,22,1,1,10,0.2550.4670.6981,0,0
+obj-36_flucoma performance.maxpat_7147,0,0,attrui,physical,digital,undefined,undefined,,attrui,,_flucoma performance.maxpat,0,0,637.6666257382813,952.7377928359374,150,22,1,1,10,0.2550.4670.6981,0,0
+obj-53_flucoma performance.maxpat_2533,0,0,attrui,physical,digital,undefined,undefined,,attrui,,_flucoma performance.maxpat,0,0,637.6666257382813,978.9877928359374,150,22,1,1,10,0.2550.4670.6981,0,0
+obj-55_flucoma performance.maxpat_4862,0,0,subpatcher,physical,digital,undefined,undefined,,newobj,p enable,_flucoma performance.maxpat,0,0,505.66662573828125,943.9163818359375,57,22,1,1,10,0.2550.4670.6981,0,0
+obj-57_flucoma performance.maxpat_5900,0,0,spectrumdraw~,physical,digital,undefined,undefined,,spectrumdraw~,,_flucoma performance.maxpat,0,0,505.66662573828125,1006.9877928359374,72.27406332714804,29.678589000000102,4,1,10,0.2550.4670.6981,0,0
+obj-63_flucoma performance.maxpat_8440,0,0,cascade~,physical,digital,undefined,undefined,,newobj,cascade~,_flucoma performance.maxpat,0,0,482.66662573828125,977.1663818359375,105.4030150000001,22,2,1,10,0.2550.4670.6981,0,0
+obj-182_flucoma performance.maxpat_2609,0,0,live.meter~,physical,digital,undefined,undefined,,live.meter~,,_flucoma performance.maxpat,0,0,173.9570920000001,1195.055572835938,144,8,1,2,10,0.2550.4670.6981,0,0
+obj-127_flucoma performance.maxpat_2002,0,0,spectrumdraw~,physical,digital,undefined,undefined,,spectrumdraw~,,_flucoma performance.maxpat,0,0,155.33197026171865,1214.2386471640618,162.62512173828145,49.375397164063315,4,1,10,0.2550.4670.6981,0,0
+obj-43_flucoma performance.maxpat_9312,0,0,subpatcher,physical,digital,undefined,undefined,,newobj,p clipping,_flucoma performance.maxpat,0,0,532.6666257382813,310.15231283593744,59,22,1,1,10,0.2550.4670.6981,0,0
+obj-38_flucoma performance.maxpat_5558,0,0,subpatcher,physical,digital,undefined,undefined,,newobj,p inputFilter,_flucoma performance.maxpat,0,0,532.6666257382813,348.81683283593736,194,22,3,1,10,0.2550.4670.6981,0,0
+obj-14_flucoma performance.maxpat_5698,0,0,live.text,physical,digital,live.text[3],live.text[3],,live.text,EQ,_flucoma performance.maxpat,0,0,620.1666257382813,310.15231283593744,40,20,1,2,10,0.2550.4670.6981,0,0
+obj-17_flucoma performance.maxpat_2724,0,0,comment,physical,digital,undefined,undefined,,comment,input filter,_flucoma performance.maxpat,0,0,620.1666257382813,271.15231283593744,131,31,1,0,10,0.2550.4670.6981,0,0
+obj-91_flucoma performance.maxpat_948,0,0,live.numbox,physical,digital,live.numbox[10],live.numbox[10],,live.numbox,,_flucoma performance.maxpat,0,0,707.6666257382813,310.15231283593744,52,17,1,2,10,0.2550.4670.6981,0,0
+obj-5_flucoma performance.maxpat_144,0,0,bpatcher,physical,digital,fx_dirt,fx_dirt,,bpatcher,,_flucoma performance.maxpat,0,0,532.6666257382813,426.81683283593736,185,169,2,2,10,0.2550.4670.6981,0,0
+obj-3_flucoma performance.maxpat_4243,0,0,adc~ 1 2,physical,digital,undefined,undefined,,newobj,adc~ 1 2,_flucoma performance.maxpat,0,0,124.873718,233.00381383593742,141,22,1,2,10,0.2550.4670.6981,0,0
+obj-2_flucoma performance.maxpat_2960,0,0,ezdac~,physical,digital,undefined,undefined,,ezdac~,,_flucoma performance.maxpat,0,0,83.5,1214.2386471640618,45,45,2,0,10,0.2550.4670.6981,0,0
+obj-71_flucoma performance.maxpat_89,0,0,flonum,physical,digital,undefined,undefined,,flonum,,_flucoma performance.maxpat,0,0,97.873718,902.1484983359376,50,22,1,2,10,0.2550.4670.6981,0,0
+obj-134_flucoma performance.maxpat_9044,0,0,subpatcher,physical,digital,undefined,undefined,,newobj,p onsetDescriptors,_flucoma performance.maxpat,0,0,124.873718,310.15231283593744,109,22,1,3,10,0.2550.4670.6981,0,0
+obj-113_flucoma performance.maxpat_3897,0,0,poly~ simplePlayer~ 32 args metals,physical,digital,undefined,undefined,,newobj,poly~ simplePlayer~ 32 args metals,_flucoma performance.maxpat,0,0,53.873718,436.04150383593765,199,22,2,5,10,0.2550.4670.6981,0,0
+obj-22_flucoma performance.maxpat_2841,0,0,panel,physical,digital,undefined,undefined,,panel,,_flucoma performance.maxpat,0,0,20.665404999999907,18.821411000000012,398,71,1,0,10,0.2550.4670.6981,0,0
+obj-23_flucoma performance.maxpat_1942,0,0,panel,physical,digital,undefined,undefined,,panel,,_flucoma performance.maxpat,0,0,20.665404999999907,18.821411000000012,398,71,1,0,10,0.2550.4670.6981,0,0
+obj-24_flucoma performance.maxpat_9820,0,0,panel,physical,digital,undefined,undefined,,panel,,_flucoma performance.maxpat,0,0,20.665404999999907,18.821411000000012,398,71,1,0,10,0.2550.4670.6981,0,0
+obj-74_flucoma performance.maxpat_6411,0,0,panel,physical,digital,undefined,undefined,,panel,,_flucoma performance.maxpat,0,0,20.665404999999907,18.821411000000012,398,71,1,0,10,0.2550.4670.6981,0,0
+obj-137undefined_956,0,0,pack f 50,physical,digital,undefined,undefined,,newobj,pack f 50,undefined,0,0,104.5,97.2901611328125,57,22,2,1,10,0.2550.4670.6981,0,0
+obj-136undefined_4858,0,0,*~,physical,digital,undefined,undefined,,newobj,*~,undefined,0,0,50,176.0374448046873,73.5,22,2,1,10,0.2550.4670.6981,0,0
+obj-133undefined_5800,0,0,line~ 1,physical,digital,undefined,undefined,,newobj,line~ 1,undefined,0,0,104.5,131.0993651328124,44,22,2,2,10,0.2550.4670.6981,0,0
+obj-124undefined_690,0,0,subpatcher,physical,digital,undefined,undefined,,newobj,p expression,undefined,0,0,104.5,63.03744480468731,77,22,0,1,10,0.2550.4670.6981,0,0
+obj-145undefined_4245,0,0,inlet,physical,digital,undefined,undefined,,inlet,,undefined,0,0,50,40.0000001328126,30,30,0,1,10,0.2550.4670.6981,0,0
+obj-146undefined_9220,0,0,outlet,physical,digital,undefined,undefined,,outlet,,undefined,0,0,50,229.18444813281258,30,30,1,0,10,0.2550.4670.6981,0,1
+obj-50undefined_3760,0,0,comment,physical,digital,undefined,undefined,,comment,functions,undefined,0,0,321,348,154,42,1,0,10,0.2550.4670.6981,0,0
+obj-10undefined_1914,0,0,comment,physical,digital,undefined,undefined,,comment,reset,undefined,0,0,400.5,242,37,20,1,0,10,0.2550.4670.6981,0,0
+obj-15undefined_7555,0,0,comment,physical,digital,undefined,undefined,,comment,calibrate,undefined,0,0,315,242,56,20,1,0,10,0.2550.4670.6981,0,0
+obj-16undefined_9343,0,0,message,physical,digital,undefined,undefined,,message,10 110,undefined,0,0,394,267,50,22,2,1,10,0.2550.4670.6981,0,0
+obj-17undefined_3085,0,0,message,physical,digital,undefined,undefined,,message,13 69,undefined,0,0,321,267,44,22,2,1,10,0.2550.4670.6981,0,0
+obj-23undefined_3475,0,0,pgmout 11 @name Teensy Expression,physical,digital,undefined,undefined,,newobj,pgmout 11 @name Teensy Expression,undefined,0,0,321,312,222,22,2,0,10,0.2550.4670.6981,0,0
+obj-29undefined_1560,0,0,/ 16383.,physical,digital,undefined,undefined,,newobj,/ 16383.,undefined,0,0,40,201.5,54,22,2,1,10,0.2550.4670.6981,0,0
+obj-30undefined_9760,0,0,|,physical,digital,undefined,undefined,,newobj,|,undefined,0,0,40,159.5,172,22,2,1,10,0.2550.4670.6981,0,0
+obj-31undefined_1225,0,0,<< 7,physical,digital,undefined,undefined,,newobj,<< 7,undefined,0,0,193,109.5,35,22,2,1,10,0.2550.4670.6981,0,0
+obj-33undefined_4148,0,0,ctlin 33 11 @name Teensy Expression,physical,digital,undefined,undefined,,newobj,ctlin 33 11 @name Teensy Expression,undefined,0,0,40,70,220,22,1,1,10,0.2550.4670.6981,0,0
+obj-34undefined_7632,0,0,ctlin 1 11 @name Teensy Expression,physical,digital,undefined,undefined,,newobj,ctlin 1 11 @name Teensy Expression,undefined,0,0,190,17,214,22,1,1,10,0.2550.4670.6981,0,0
+obj-93undefined_5058,0,0,outlet,physical,digital,undefined,undefined,,outlet,,undefined,0,0,40,279,30,30,1,0,10,0.2550.4670.6981,0,0
