@@ -1,0 +1,6411 @@
+{
+    "raw_mic_seg_raw_mic-001.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            0,
+            161650
+        ],
+        "coords": [
+            -2.2696412414760845,
+            24.535627917021493
+        ]
+    },
+    "raw_mic_seg_raw_mic-002.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            161650,
+            223568
+        ],
+        "coords": [
+            -3.417674276517858,
+            5.170806792241705
+        ]
+    },
+    "raw_mic_seg_raw_mic-003.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            223568,
+            372912
+        ],
+        "coords": [
+            -3.3778099110073065,
+            -1.946915728312189
+        ]
+    },
+    "raw_mic_seg_raw_mic-004.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            372912,
+            442151
+        ],
+        "coords": [
+            38.497369916251166,
+            2.84356639111108
+        ]
+    },
+    "raw_mic_seg_raw_mic-005.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            442151,
+            501077
+        ],
+        "coords": [
+            -16.123089604273915,
+            4.948586046028693
+        ]
+    },
+    "raw_mic_seg_raw_mic-006.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            501077,
+            551321
+        ],
+        "coords": [
+            -78.15402654294239,
+            1.1569601902385005
+        ]
+    },
+    "raw_mic_seg_raw_mic-007.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            551321,
+            618344
+        ],
+        "coords": [
+            23.38682740670626,
+            4.138367256792172
+        ]
+    },
+    "raw_mic_seg_raw_mic-008.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            618344,
+            794122
+        ],
+        "coords": [
+            -3.1640155833733017,
+            18.61496679387865
+        ]
+    },
+    "raw_mic_seg_raw_mic-009.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            794122,
+            998630
+        ],
+        "coords": [
+            -2.650341562073658,
+            36.016047548992915
+        ]
+    },
+    "raw_mic_seg_raw_mic-010.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            998630,
+            1068202
+        ],
+        "coords": [
+            33.39795179953469,
+            3.2735295501564052
+        ]
+    },
+    "raw_mic_seg_raw_mic-011.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            1068202,
+            1116910
+        ],
+        "coords": [
+            -94.0845047755992,
+            -0.8723510520610726
+        ]
+    },
+    "raw_mic_seg_raw_mic-012.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            1116910,
+            1166843
+        ],
+        "coords": [
+            -77.48063446054469,
+            1.2737724478483727
+        ]
+    },
+    "raw_mic_seg_raw_mic-013.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            1166843,
+            1230244
+        ],
+        "coords": [
+            -0.031015178516608125,
+            5.235577342760248
+        ]
+    },
+    "raw_mic_seg_raw_mic-014.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            1230244,
+            1281057
+        ],
+        "coords": [
+            -74.54812210617231,
+            1.1742425693107634
+        ]
+    },
+    "raw_mic_seg_raw_mic-015.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            1281057,
+            1347116
+        ],
+        "coords": [
+            17.378224356226532,
+            4.479856161667547
+        ]
+    },
+    "raw_mic_seg_raw_mic-016.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            1347116,
+            1482866
+        ],
+        "coords": [
+            -3.481158257936718,
+            -6.1299972154051705
+        ]
+    },
+    "raw_mic_seg_raw_mic-017.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            1482866,
+            1629458
+        ],
+        "coords": [
+            -3.150304759602873,
+            -3.911489988658004
+        ]
+    },
+    "raw_mic_seg_raw_mic-018.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            1629458,
+            1748134
+        ],
+        "coords": [
+            -3.507428875396446,
+            -27.15011988428832
+        ]
+    },
+    "raw_mic_seg_raw_mic-019.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            1748134,
+            1913470
+        ],
+        "coords": [
+            -2.4343272034777375,
+            15.92145532353592
+        ]
+    },
+    "raw_mic_seg_raw_mic-020.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            1913470,
+            1977111
+        ],
+        "coords": [
+            7.267934423610617,
+            4.970099355802204
+        ]
+    },
+    "raw_mic_seg_raw_mic-021.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            1977111,
+            2057502
+        ],
+        "coords": [
+            56.86714005834717,
+            0.21027661886587845
+        ]
+    },
+    "raw_mic_seg_raw_mic-022.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            2057502,
+            2181761
+        ],
+        "coords": [
+            -3.589849853665693,
+            -22.911856356472676
+        ]
+    },
+    "raw_mic_seg_raw_mic-023.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            2181761,
+            2498308
+        ],
+        "coords": [
+            -1.4586769174912269,
+            69.5512113463124
+        ]
+    },
+    "raw_mic_seg_raw_mic-024.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            2498308,
+            2712682
+        ],
+        "coords": [
+            -2.0508802935423964,
+            37.070580449637006
+        ]
+    },
+    "raw_mic_seg_raw_mic-025.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            2712682,
+            2769234
+        ],
+        "coords": [
+            -19.13502518666204,
+            5.094581729065718
+        ]
+    },
+    "raw_mic_seg_raw_mic-026.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            2769234,
+            2830388
+        ],
+        "coords": [
+            -20.667589890659098,
+            5.200277252390261
+        ]
+    },
+    "raw_mic_seg_raw_mic-027.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            2830388,
+            2930524
+        ],
+        "coords": [
+            -3.3161127517472195,
+            -48.12679834037401
+        ]
+    },
+    "raw_mic_seg_raw_mic-028.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            2930524,
+            3016583
+        ],
+        "coords": [
+            65.08127002904185,
+            -1.3456948238503776
+        ]
+    },
+    "raw_mic_seg_raw_mic-029.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            3016583,
+            3086671
+        ],
+        "coords": [
+            28.19588583522679,
+            3.7255690854339525
+        ]
+    },
+    "raw_mic_seg_raw_mic-030.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            3086671,
+            3160007
+        ],
+        "coords": [
+            35.815991519898326,
+            2.9378614591147145
+        ]
+    },
+    "raw_mic_seg_raw_mic-031.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            3160007,
+            3303997
+        ],
+        "coords": [
+            -3.5185865520009636,
+            -3.4820442603724535
+        ]
+    },
+    "raw_mic_seg_raw_mic-032.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            3303997,
+            3488052
+        ],
+        "coords": [
+            -2.4368957090599914,
+            18.65479976751215
+        ]
+    },
+    "raw_mic_seg_raw_mic-033.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            3488052,
+            3622297
+        ],
+        "coords": [
+            -3.4198167253462253,
+            -8.68324721363892
+        ]
+    },
+    "raw_mic_seg_raw_mic-034.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            3622297,
+            3676142
+        ],
+        "coords": [
+            -53.02202922567548,
+            3.723132091371569
+        ]
+    },
+    "raw_mic_seg_raw_mic-035.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            3676142,
+            3782234
+        ],
+        "coords": [
+            -3.4275975973473085,
+            -37.950505348299394
+        ]
+    },
+    "raw_mic_seg_raw_mic-036.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            3782234,
+            3987404
+        ],
+        "coords": [
+            -2.869711753843806,
+            29.203511432145135
+        ]
+    },
+    "raw_mic_seg_raw_mic-037.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            3987404,
+            4123815
+        ],
+        "coords": [
+            -3.2965211527976583,
+            -17.29576799508115
+        ]
+    },
+    "raw_mic_seg_raw_mic-038.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            4123815,
+            4173600
+        ],
+        "coords": [
+            -77.64596384037793,
+            -0.8985983714801015
+        ]
+    },
+    "raw_mic_seg_raw_mic-039.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            4173600,
+            4232859
+        ],
+        "coords": [
+            -13.488657768655843,
+            5.25840932446905
+        ]
+    },
+    "raw_mic_seg_raw_mic-040.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            4232859,
+            4342470
+        ],
+        "coords": [
+            -3.4582386557945095,
+            -34.749458831209346
+        ]
+    },
+    "raw_mic_seg_raw_mic-041.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            4342470,
+            4416889
+        ],
+        "coords": [
+            43.254148218525266,
+            2.0247572554433346
+        ]
+    },
+    "raw_mic_seg_raw_mic-042.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            4416889,
+            4493203
+        ],
+        "coords": [
+            40.993566336583825,
+            2.2496154403823008
+        ]
+    },
+    "raw_mic_seg_raw_mic-043.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            4493203,
+            4780126
+        ],
+        "coords": [
+            -1.7941222083014268,
+            62.842188652373345
+        ]
+    },
+    "raw_mic_seg_raw_mic-044.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            4780126,
+            4837761
+        ],
+        "coords": [
+            -23.627605613028752,
+            4.848941779319875
+        ]
+    },
+    "raw_mic_seg_raw_mic-045.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            4837761,
+            4902976
+        ],
+        "coords": [
+            16.1212535172598,
+            4.217305167469851
+        ]
+    },
+    "raw_mic_seg_raw_mic-046.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            4902976,
+            5000676
+        ],
+        "coords": [
+            -3.132569720089932,
+            -51.42699490912609
+        ]
+    },
+    "raw_mic_seg_raw_mic-047.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            5000676,
+            5131672
+        ],
+        "coords": [
+            -3.3395788363260355,
+            -14.343520640928864
+        ]
+    },
+    "raw_mic_seg_raw_mic-048.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            5131672,
+            5845743
+        ],
+        "coords": [
+            0.5286153625521651,
+            110.63401548356673
+        ]
+    },
+    "raw_mic_seg_raw_mic-049.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            5845743,
+            6092518
+        ],
+        "coords": [
+            -1.9454929189136483,
+            50.591929944083255
+        ]
+    },
+    "raw_mic_seg_raw_mic-050.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            6092518,
+            6267531
+        ],
+        "coords": [
+            -2.801797327720839,
+            20.04554538749288
+        ]
+    },
+    "raw_mic_seg_raw_mic-051.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            6267531,
+            6316504
+        ],
+        "coords": [
+            -84.69669006344476,
+            -1.8517618590756508
+        ]
+    },
+    "raw_mic_seg_raw_mic-052.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            6316504,
+            6385942
+        ],
+        "coords": [
+            32.94480459518955,
+            3.2742150789084925
+        ]
+    },
+    "raw_mic_seg_raw_mic-053.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            6385942,
+            6570376
+        ],
+        "coords": [
+            -2.8706657080659888,
+            26.452486289765226
+        ]
+    },
+    "raw_mic_seg_raw_mic-054.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            6570376,
+            6638839
+        ],
+        "coords": [
+            30.94437602579263,
+            3.5078112037127975
+        ]
+    },
+    "raw_mic_seg_raw_mic-055.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            6638839,
+            6712662
+        ],
+        "coords": [
+            41.90772565118818,
+            2.2693741092594477
+        ]
+    },
+    "raw_mic_seg_raw_mic-056.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            6712662,
+            6764071
+        ],
+        "coords": [
+            -77.1367232961454,
+            0.9390321649137295
+        ]
+    },
+    "raw_mic_seg_raw_mic-057.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            6764071,
+            6823060
+        ],
+        "coords": [
+            -23.331000979943365,
+            5.11608694895813
+        ]
+    },
+    "raw_mic_seg_raw_mic-058.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            6823060,
+            6879071
+        ],
+        "coords": [
+            -39.09751716203562,
+            4.588620236175644
+        ]
+    },
+    "raw_mic_seg_raw_mic-059.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            6879071,
+            6941850
+        ],
+        "coords": [
+            7.305005378118215,
+            4.921217654887319
+        ]
+    },
+    "raw_mic_seg_raw_mic-060.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            6941850,
+            6992988
+        ],
+        "coords": [
+            -74.76640855493174,
+            1.6353794634812737
+        ]
+    },
+    "raw_mic_seg_raw_mic-061.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            6992988,
+            7108554
+        ],
+        "coords": [
+            -3.6055201154730407,
+            -28.8017590268683
+        ]
+    },
+    "raw_mic_seg_raw_mic-062.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            7108554,
+            7204359
+        ],
+        "coords": [
+            -3.121460831901142,
+            -60.600312498885714
+        ]
+    },
+    "raw_mic_seg_raw_mic-063.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            7204359,
+            7353493
+        ],
+        "coords": [
+            -3.4321915913446888,
+            -3.2688731183689477
+        ]
+    },
+    "raw_mic_seg_raw_mic-064.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            7353493,
+            7512101
+        ],
+        "coords": [
+            -3.226589790880909,
+            -5.465364904734544
+        ]
+    },
+    "raw_mic_seg_raw_mic-065.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            7512101,
+            7619275
+        ],
+        "coords": [
+            -3.2370132498134616,
+            -47.05764732839537
+        ]
+    },
+    "raw_mic_seg_raw_mic-066.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            7619275,
+            9117423
+        ],
+        "coords": [
+            2.7520757953966335,
+            147.93174967033858
+        ]
+    },
+    "raw_mic_seg_raw_mic-067.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            9117423,
+            9176793
+        ],
+        "coords": [
+            -20.22463765511841,
+            5.2705505098654815
+        ]
+    },
+    "raw_mic_seg_raw_mic-068.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            9176793,
+            9251806
+        ],
+        "coords": [
+            39.975803385797924,
+            2.5312323400963934
+        ]
+    },
+    "raw_mic_seg_raw_mic-069.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            9251806,
+            9321605
+        ],
+        "coords": [
+            20.41689345097686,
+            4.167179277684376
+        ]
+    },
+    "raw_mic_seg_raw_mic-070.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            9321605,
+            9370262
+        ],
+        "coords": [
+            -94.08273988046722,
+            -0.8332691731639361
+        ]
+    },
+    "raw_mic_seg_raw_mic-071.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            9370262,
+            9418462
+        ],
+        "coords": [
+            -96.27415181918971,
+            -1.1751921898933968
+        ]
+    },
+    "raw_mic_seg_raw_mic-072.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            9418462,
+            9478859
+        ],
+        "coords": [
+            -11.113335710665742,
+            5.259058013178827
+        ]
+    },
+    "raw_mic_seg_raw_mic-073.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            9478859,
+            9630968
+        ],
+        "coords": [
+            -3.4517645356991116,
+            2.7310205727880916
+        ]
+    },
+    "raw_mic_seg_raw_mic-074.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            9630968,
+            9716141
+        ],
+        "coords": [
+            69.23130449717887,
+            -1.629822240215507
+        ]
+    },
+    "raw_mic_seg_raw_mic-075.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            9716141,
+            9767213
+        ],
+        "coords": [
+            -70.90018683736028,
+            1.9832459350605365
+        ]
+    },
+    "raw_mic_seg_raw_mic-076.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            9767213,
+            9824349
+        ],
+        "coords": [
+            -22.27595738098639,
+            5.187823192592218
+        ]
+    },
+    "raw_mic_seg_raw_mic-077.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            9824349,
+            9891168
+        ],
+        "coords": [
+            26.943874981532794,
+            3.847296250175531
+        ]
+    },
+    "raw_mic_seg_raw_mic-078.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            9891168,
+            10033966
+        ],
+        "coords": [
+            -3.3198363230074834,
+            -4.806605661093038
+        ]
+    },
+    "raw_mic_seg_raw_mic-079.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            10033966,
+            10135423
+        ],
+        "coords": [
+            -2.7095802156098356,
+            -41.7317722363841
+        ]
+    },
+    "raw_mic_seg_raw_mic-080.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            10135423,
+            10199871
+        ],
+        "coords": [
+            7.283519629901064,
+            4.782911080766242
+        ]
+    },
+    "raw_mic_seg_raw_mic-081.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            10199871,
+            10267011
+        ],
+        "coords": [
+            22.31811779480239,
+            4.181237084186991
+        ]
+    },
+    "raw_mic_seg_raw_mic-082.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            10267011,
+            10317771
+        ],
+        "coords": [
+            -76.20472241342267,
+            1.428124819167523
+        ]
+    },
+    "raw_mic_seg_raw_mic-083.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            10317771,
+            10380811
+        ],
+        "coords": [
+            -1.720071420784717,
+            5.221127288613856
+        ]
+    },
+    "raw_mic_seg_raw_mic-084.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            10380811,
+            10439251
+        ],
+        "coords": [
+            -19.121677614377706,
+            5.243208794184763
+        ]
+    },
+    "raw_mic_seg_raw_mic-085.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            10439251,
+            10510640
+        ],
+        "coords": [
+            38.113737566585456,
+            2.7543269949305973
+        ]
+    },
+    "raw_mic_seg_raw_mic-086.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            10510640,
+            10626622
+        ],
+        "coords": [
+            -3.5486010642840213,
+            -27.767825766621996
+        ]
+    },
+    "raw_mic_seg_raw_mic-087.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            10626622,
+            10823961
+        ],
+        "coords": [
+            -2.8494119573241736,
+            28.035620494481925
+        ]
+    },
+    "raw_mic_seg_raw_mic-088.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            10823961,
+            11121534
+        ],
+        "coords": [
+            -1.6343836501632472,
+            63.935866449096416
+        ]
+    },
+    "raw_mic_seg_raw_mic-089.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            11121534,
+            11204741
+        ],
+        "coords": [
+            68.79581549036676,
+            -1.5858403387798203
+        ]
+    },
+    "raw_mic_seg_raw_mic-090.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            11204741,
+            11301728
+        ],
+        "coords": [
+            -3.176082902993298,
+            -58.26638130840634
+        ]
+    },
+    "raw_mic_seg_raw_mic-091.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            11301728,
+            11374121
+        ],
+        "coords": [
+            34.742957483253285,
+            3.048186057707331
+        ]
+    },
+    "raw_mic_seg_raw_mic-092.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            11374121,
+            11481922
+        ],
+        "coords": [
+            -3.517186454192636,
+            -34.68327671273613
+        ]
+    },
+    "raw_mic_seg_raw_mic-093.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            11481922,
+            11531981
+        ],
+        "coords": [
+            -82.37565448904161,
+            0.7878707097845433
+        ]
+    },
+    "raw_mic_seg_raw_mic-094.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            11531981,
+            11590979
+        ],
+        "coords": [
+            -16.513665572274228,
+            5.158956538957896
+        ]
+    },
+    "raw_mic_seg_raw_mic-095.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            11590979,
+            12881657
+        ],
+        "coords": [
+            2.4210247435651486,
+            141.8648153094625
+        ]
+    },
+    "raw_mic_seg_raw_mic-096.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            12881657,
+            12947359
+        ],
+        "coords": [
+            -25.828551186981134,
+            3.894322107906888
+        ]
+    },
+    "raw_mic_seg_raw_mic-097.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            12947359,
+            12997418
+        ],
+        "coords": [
+            -94.14077189499316,
+            -3.1048676799895882
+        ]
+    },
+    "raw_mic_seg_raw_mic-098.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            12997418,
+            13048222
+        ],
+        "coords": [
+            -97.52156374983696,
+            -3.7868603224326653
+        ]
+    },
+    "raw_mic_seg_raw_mic-099.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            13048222,
+            13105730
+        ],
+        "coords": [
+            -45.43650216341719,
+            2.960221861166584
+        ]
+    },
+    "raw_mic_seg_raw_mic-100.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            13105730,
+            13181116
+        ],
+        "coords": [
+            27.793477434395832,
+            2.553169651317733
+        ]
+    },
+    "raw_mic_seg_raw_mic-101.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            13181116,
+            13246967
+        ],
+        "coords": [
+            3.031132325337433,
+            4.8701499815500435
+        ]
+    },
+    "raw_mic_seg_raw_mic-102.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            13246967,
+            13295387
+        ],
+        "coords": [
+            -94.90904926533689,
+            -3.2504928680577088
+        ]
+    },
+    "raw_mic_seg_raw_mic-103.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            13295387,
+            13353640
+        ],
+        "coords": [
+            -33.40608563103128,
+            4.361957011111968
+        ]
+    },
+    "raw_mic_seg_raw_mic-104.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            13353640,
+            13400720
+        ],
+        "coords": [
+            -111.1041836752978,
+            -6.711822839855941
+        ]
+    },
+    "raw_mic_seg_raw_mic-105.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            13400720,
+            13453759
+        ],
+        "coords": [
+            -68.62835618054153,
+            1.6341282830561206
+        ]
+    },
+    "raw_mic_seg_raw_mic-106.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            13453759,
+            13515885
+        ],
+        "coords": [
+            -29.61714063421943,
+            4.671119233909561
+        ]
+    },
+    "raw_mic_seg_raw_mic-107.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            13515885,
+            13613468
+        ],
+        "coords": [
+            -3.136966030582879,
+            -55.38307263312471
+        ]
+    },
+    "raw_mic_seg_raw_mic-108.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            13613468,
+            13663155
+        ],
+        "coords": [
+            -84.15360983689946,
+            -1.2234273240896605
+        ]
+    },
+    "raw_mic_seg_raw_mic-109.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            13663155,
+            13710979
+        ],
+        "coords": [
+            -101.34460160179886,
+            -4.561518221112997
+        ]
+    },
+    "raw_mic_seg_raw_mic-110.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            13710979,
+            13758059
+        ],
+        "coords": [
+            -109.67744917132829,
+            -6.383798855207808
+        ]
+    },
+    "raw_mic_seg_raw_mic-111.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            13758059,
+            13894153
+        ],
+        "coords": [
+            -3.0178165764342197,
+            -15.158954604644167
+        ]
+    },
+    "raw_mic_seg_raw_mic-112.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            13894153,
+            13964697
+        ],
+        "coords": [
+            43.97118067355746,
+            2.2645504482923826
+        ]
+    },
+    "raw_mic_seg_raw_mic-113.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            13964697,
+            14197153
+        ],
+        "coords": [
+            -2.556720869815869,
+            39.008228079000546
+        ]
+    },
+    "raw_mic_seg_raw_mic-114.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            14197153,
+            14341368
+        ],
+        "coords": [
+            -3.443576695461036,
+            -10.790522819709363
+        ]
+    },
+    "raw_mic_seg_raw_mic-115.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            14341368,
+            14389837
+        ],
+        "coords": [
+            -98.64821600835397,
+            -4.001004751948875
+        ]
+    },
+    "raw_mic_seg_raw_mic-116.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            14389837,
+            14442674
+        ],
+        "coords": [
+            -68.29950276569528,
+            1.502322724520586
+        ]
+    },
+    "raw_mic_seg_raw_mic-117.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            14442674,
+            14495511
+        ],
+        "coords": [
+            -62.199787351225964,
+            0.9209908104037012
+        ]
+    },
+    "raw_mic_seg_raw_mic-118.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            14495511,
+            14606233
+        ],
+        "coords": [
+            -2.940657514200067,
+            -36.98157081466678
+        ]
+    },
+    "raw_mic_seg_raw_mic-119.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            14606233,
+            14697660
+        ],
+        "coords": [
+            -2.2675080014308087,
+            -71.03223226087852
+        ]
+    },
+    "raw_mic_seg_raw_mic-120.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            14697660,
+            14796732
+        ],
+        "coords": [
+            -2.657625080308376,
+            -51.870458612071694
+        ]
+    },
+    "raw_mic_seg_raw_mic-121.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            14796732,
+            14983815
+        ],
+        "coords": [
+            -2.476621405325555,
+            26.092751707361654
+        ]
+    },
+    "raw_mic_seg_raw_mic-122.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            14983815,
+            15084036
+        ],
+        "coords": [
+            -2.442755133495508,
+            -64.31450447504913
+        ]
+    },
+    "raw_mic_seg_raw_mic-123.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            15084036,
+            15295778
+        ],
+        "coords": [
+            -2.4820428577155464,
+            39.00172124971636
+        ]
+    },
+    "raw_mic_seg_raw_mic-124.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            15295778,
+            15396718
+        ],
+        "coords": [
+            -2.790213235771065,
+            -47.79931882982485
+        ]
+    },
+    "raw_mic_seg_raw_mic-125.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            15396718,
+            15482549
+        ],
+        "coords": [
+            79.61613993311597,
+            -4.058504719877792
+        ]
+    },
+    "raw_mic_seg_raw_mic-126.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            15482549,
+            15540319
+        ],
+        "coords": [
+            -39.40883302179095,
+            4.619854602702568
+        ]
+    },
+    "raw_mic_seg_raw_mic-127.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            15540319,
+            15600248
+        ],
+        "coords": [
+            -25.402432117900055,
+            5.15061550301542
+        ]
+    },
+    "raw_mic_seg_raw_mic-128.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            15600248,
+            15660177
+        ],
+        "coords": [
+            -23.744670259617248,
+            5.157380585847468
+        ]
+    },
+    "raw_mic_seg_raw_mic-129.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            15660177,
+            15751764
+        ],
+        "coords": [
+            -2.9841187219969507,
+            -59.58778684435793
+        ]
+    },
+    "raw_mic_seg_raw_mic-130.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            15751764,
+            15830400
+        ],
+        "coords": [
+            41.37497211479756,
+            1.8969150180074998
+        ]
+    },
+    "raw_mic_seg_raw_mic-131.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            15830400,
+            15916950
+        ],
+        "coords": [
+            88.9082346363102,
+            -5.263070127910699
+        ]
+    },
+    "raw_mic_seg_raw_mic-132.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            15916950,
+            15985513
+        ],
+        "coords": [
+            27.505005073278657,
+            3.7784192726161976
+        ]
+    },
+    "raw_mic_seg_raw_mic-133.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            15985513,
+            16051917
+        ],
+        "coords": [
+            21.467938541524855,
+            4.1227203546568205
+        ]
+    },
+    "raw_mic_seg_raw_mic-134.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            16051917,
+            16157174
+        ],
+        "coords": [
+            -2.8541404826514736,
+            -56.510899110740205
+        ]
+    },
+    "raw_mic_seg_raw_mic-135.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            16157174,
+            16233651
+        ],
+        "coords": [
+            49.162894617649336,
+            1.1988369870311406
+        ]
+    },
+    "raw_mic_seg_raw_mic-136.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            16233651,
+            16317323
+        ],
+        "coords": [
+            76.27309199159454,
+            -2.710040876722708
+        ]
+    },
+    "raw_mic_seg_raw_mic-137.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            16317323,
+            16372935
+        ],
+        "coords": [
+            -29.954171672876196,
+            4.828109257177463
+        ]
+    },
+    "raw_mic_seg_raw_mic-138.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            16372935,
+            16564532
+        ],
+        "coords": [
+            -2.817985709360594,
+            28.021729504957275
+        ]
+    },
+    "raw_mic_seg_raw_mic-139.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            16564532,
+            16989965
+        ],
+        "coords": [
+            -0.5816516807064201,
+            88.37181144430545
+        ]
+    },
+    "raw_mic_seg_raw_mic-140.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            16989965,
+            17081552
+        ],
+        "coords": [
+            -3.1197440753738648,
+            -58.3810585570746
+        ]
+    },
+    "raw_mic_seg_raw_mic-141.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            17081552,
+            17132127
+        ],
+        "coords": [
+            -78.06730266139894,
+            0.6254520309713334
+        ]
+    },
+    "raw_mic_seg_raw_mic-142.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            17132127,
+            17209324
+        ],
+        "coords": [
+            61.62896661436044,
+            0.05639394770656427
+        ]
+    },
+    "raw_mic_seg_raw_mic-143.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            17209324,
+            17277887
+        ],
+        "coords": [
+            29.161369398493658,
+            3.6020786687335615
+        ]
+    },
+    "raw_mic_seg_raw_mic-144.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            17277887,
+            17344291
+        ],
+        "coords": [
+            19.552432723998784,
+            3.788971323357486
+        ]
+    },
+    "raw_mic_seg_raw_mic-145.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            17344291,
+            17522937
+        ],
+        "coords": [
+            -3.088990475899787,
+            16.386360069385315
+        ]
+    },
+    "raw_mic_seg_raw_mic-146.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            17522937,
+            17809507
+        ],
+        "coords": [
+            -1.6872158787883806,
+            65.15546412797512
+        ]
+    },
+    "raw_mic_seg_raw_mic-147.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            17809507,
+            17880948
+        ],
+        "coords": [
+            52.81689372094996,
+            1.0583430201440205
+        ]
+    },
+    "raw_mic_seg_raw_mic-148.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            17880948,
+            17965340
+        ],
+        "coords": [
+            74.78309012037087,
+            -2.391591297916754
+        ]
+    },
+    "raw_mic_seg_raw_mic-149.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            17965340,
+            18028147
+        ],
+        "coords": [
+            -1.829199121061442,
+            5.092358595582384
+        ]
+    },
+    "raw_mic_seg_raw_mic-150.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            18028147,
+            18108222
+        ],
+        "coords": [
+            58.33566298885707,
+            -0.06507720759020938
+        ]
+    },
+    "raw_mic_seg_raw_mic-151.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            18108222,
+            18272478
+        ],
+        "coords": [
+            -3.2373037050985585,
+            10.726133392969057
+        ]
+    },
+    "raw_mic_seg_raw_mic-152.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            18272478,
+            18405076
+        ],
+        "coords": [
+            -3.466203835389304,
+            -11.862929284242162
+        ]
+    },
+    "raw_mic_seg_raw_mic-153.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            18405076,
+            18514650
+        ],
+        "coords": [
+            -3.190254692975784,
+            -44.52539842784308
+        ]
+    },
+    "raw_mic_seg_raw_mic-154.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            18514650,
+            18698332
+        ],
+        "coords": [
+            -2.8905780124848985,
+            24.747090401868245
+        ]
+    },
+    "raw_mic_seg_raw_mic-155.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            18698332,
+            18775529
+        ],
+        "coords": [
+            30.45055690576711,
+            1.8962280639843705
+        ]
+    },
+    "raw_mic_seg_raw_mic-156.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            18775529,
+            18934029
+        ],
+        "coords": [
+            -3.3067319187620616,
+            6.952222295750463
+        ]
+    },
+    "raw_mic_seg_raw_mic-157.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            18934029,
+            19278592
+        ],
+        "coords": [
+            -0.9091237116344167,
+            75.37722199644425
+        ]
+    },
+    "raw_mic_seg_raw_mic-158.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            19278592,
+            19362282
+        ],
+        "coords": [
+            81.60791925178145,
+            -3.715350124878006
+        ]
+    },
+    "raw_mic_seg_raw_mic-159.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            19362282,
+            19419222
+        ],
+        "coords": [
+            -39.32774086087874,
+            4.580847074816667
+        ]
+    },
+    "raw_mic_seg_raw_mic-160.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            19419222,
+            19477767
+        ],
+        "coords": [
+            -17.710135432310175,
+            5.283708281172813
+        ]
+    },
+    "raw_mic_seg_raw_mic-161.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            19477767,
+            19560387
+        ],
+        "coords": [
+            53.43557159125961,
+            0.7711067244508991
+        ]
+    },
+    "raw_mic_seg_raw_mic-162.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            19560387,
+            19615722
+        ],
+        "coords": [
+            -48.712815796084506,
+            3.526087961447904
+        ]
+    },
+    "raw_mic_seg_raw_mic-163.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            19615722,
+            19676942
+        ],
+        "coords": [
+            -24.492841012445524,
+            4.990165273024895
+        ]
+    },
+    "raw_mic_seg_raw_mic-164.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            19676942,
+            19730672
+        ],
+        "coords": [
+            -50.659899611421295,
+            3.1822136946273023
+        ]
+    },
+    "raw_mic_seg_raw_mic-165.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            19730672,
+            19781727
+        ],
+        "coords": [
+            -75.93010173522462,
+            1.571204938269262
+        ]
+    },
+    "raw_mic_seg_raw_mic-166.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            19781727,
+            19845622
+        ],
+        "coords": [
+            11.54544933860634,
+            4.693612833637717
+        ]
+    },
+    "raw_mic_seg_raw_mic-167.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            19845622,
+            19912727
+        ],
+        "coords": [
+            10.116517230124122,
+            4.449677497635993
+        ]
+    },
+    "raw_mic_seg_raw_mic-168.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            19912727,
+            19983042
+        ],
+        "coords": [
+            32.5872906022761,
+            3.276883719919525
+        ]
+    },
+    "raw_mic_seg_raw_mic-169.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            19983042,
+            20053357
+        ],
+        "coords": [
+            28.009866810701883,
+            3.668997312792172
+        ]
+    },
+    "raw_mic_seg_raw_mic-170.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            20053357,
+            20115647
+        ],
+        "coords": [
+            -3.4128002051157855,
+            5.32299038148869
+        ]
+    },
+    "raw_mic_seg_raw_mic-171.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            20115647,
+            20167237
+        ],
+        "coords": [
+            -69.02096423458117,
+            2.1993278874029136
+        ]
+    },
+    "raw_mic_seg_raw_mic-172.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            20167237,
+            20231667
+        ],
+        "coords": [
+            7.853942538433601,
+            4.918528918761639
+        ]
+    },
+    "raw_mic_seg_raw_mic-173.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            20231667,
+            20313752
+        ],
+        "coords": [
+            70.33875971512337,
+            -1.70219895929549
+        ]
+    },
+    "raw_mic_seg_raw_mic-174.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            20313752,
+            20458968
+        ],
+        "coords": [
+            -2.668251707539365,
+            2.606394866347988
+        ]
+    },
+    "raw_mic_seg_raw_mic-175.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            20458968,
+            20523398
+        ],
+        "coords": [
+            17.879887939063533,
+            4.369597958198512
+        ]
+    },
+    "raw_mic_seg_raw_mic-176.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            20523398,
+            20604948
+        ],
+        "coords": [
+            59.14111349461116,
+            -0.18373805941453744
+        ]
+    },
+    "raw_mic_seg_raw_mic-177.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            20604948,
+            20705224
+        ],
+        "coords": [
+            -3.1604409212793265,
+            -52.64267074620445
+        ]
+    },
+    "raw_mic_seg_raw_mic-178.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            20705224,
+            20809780
+        ],
+        "coords": [
+            -2.9317750653421655,
+            -53.48678768923636
+        ]
+    },
+    "raw_mic_seg_raw_mic-179.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            20809780,
+            21056647
+        ],
+        "coords": [
+            -2.2402021563868573,
+            48.52306650927296
+        ]
+    },
+    "raw_mic_seg_raw_mic-180.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            21056647,
+            21134987
+        ],
+        "coords": [
+            49.90964475097648,
+            0.6997495310323522
+        ]
+    },
+    "raw_mic_seg_raw_mic-181.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            21134987,
+            21212698
+        ],
+        "coords": [
+            67.22817422773663,
+            -0.8520772350019554
+        ]
+    },
+    "raw_mic_seg_raw_mic-182.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            21212698,
+            21265453
+        ],
+        "coords": [
+            -53.035647071224595,
+            3.3241253276440226
+        ]
+    },
+    "raw_mic_seg_raw_mic-183.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            21265453,
+            21322393
+        ],
+        "coords": [
+            -26.867902278502303,
+            4.880371413924671
+        ]
+    },
+    "raw_mic_seg_raw_mic-184.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            21322393,
+            21438719
+        ],
+        "coords": [
+            -2.7845621307018473,
+            -24.894275091933142
+        ]
+    },
+    "raw_mic_seg_raw_mic-185.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            21438719,
+            21501544
+        ],
+        "coords": [
+            4.363469470940315,
+            5.060130842443442
+        ]
+    },
+    "raw_mic_seg_raw_mic-186.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            21501544,
+            21555809
+        ],
+        "coords": [
+            -51.974421475552944,
+            3.1849612484351573
+        ]
+    },
+    "raw_mic_seg_raw_mic-187.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            21555809,
+            21629334
+        ],
+        "coords": [
+            50.522225563250394,
+            1.445272990738093
+        ]
+    },
+    "raw_mic_seg_raw_mic-188.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            21629334,
+            21723725
+        ],
+        "coords": [
+            -2.2368901563609858,
+            -54.53950846981534
+        ]
+    },
+    "raw_mic_seg_raw_mic-189.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            21723725,
+            21772105
+        ],
+        "coords": [
+            -101.74221366928303,
+            -2.234281609255008
+        ]
+    },
+    "raw_mic_seg_raw_mic-190.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            21772105,
+            21826905
+        ],
+        "coords": [
+            -36.64028494547183,
+            4.415307543094099
+        ]
+    },
+    "raw_mic_seg_raw_mic-191.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            21826905,
+            21880635
+        ],
+        "coords": [
+            -50.7684544401566,
+            3.8163162553569814
+        ]
+    },
+    "raw_mic_seg_raw_mic-192.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            21880635,
+            22012476
+        ],
+        "coords": [
+            -3.3247038100116546,
+            -12.89649097020127
+        ]
+    },
+    "raw_mic_seg_raw_mic-193.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            22012476,
+            22324614
+        ],
+        "coords": [
+            -1.0528102030174713,
+            73.81074101464071
+        ]
+    },
+    "raw_mic_seg_raw_mic-194.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            22324614,
+            22399744
+        ],
+        "coords": [
+            54.55468812019332,
+            0.8470785288944502
+        ]
+    },
+    "raw_mic_seg_raw_mic-195.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            22399744,
+            22739167
+        ],
+        "coords": [
+            -1.0157688821098048,
+            73.18165855570925
+        ]
+    },
+    "raw_mic_seg_raw_mic-196.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            22739167,
+            22895083
+        ],
+        "coords": [
+            -3.163189504268438,
+            6.366922129883802
+        ]
+    },
+    "raw_mic_seg_raw_mic-197.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            22895083,
+            23158000
+        ],
+        "coords": [
+            -2.150780550029033,
+            52.310268471504905
+        ]
+    },
+    "raw_mic_seg_raw_mic-198.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            23158000,
+            23223500
+        ],
+        "coords": [
+            17.19307570283326,
+            4.482851828335561
+        ]
+    },
+    "raw_mic_seg_raw_mic-199.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            23223500,
+            23426888
+        ],
+        "coords": [
+            -2.688919694833257,
+            25.72613485538887
+        ]
+    },
+    "raw_mic_seg_raw_mic-200.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            23426888,
+            23513870
+        ],
+        "coords": [
+            95.69959156560171,
+            -6.9214006269035675
+        ]
+    },
+    "raw_mic_seg_raw_mic-201.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            23513870,
+            23593008
+        ],
+        "coords": [
+            64.6297513827915,
+            -0.6820298471099474
+        ]
+    },
+    "raw_mic_seg_raw_mic-202.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            23593008,
+            23762616
+        ],
+        "coords": [
+            -2.952903524843294,
+            10.30860779507082
+        ]
+    },
+    "raw_mic_seg_raw_mic-203.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            23762616,
+            23828157
+        ],
+        "coords": [
+            28.93875683723975,
+            3.313586638050885
+        ]
+    },
+    "raw_mic_seg_raw_mic-204.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            23828157,
+            23882716
+        ],
+        "coords": [
+            -31.486832062712683,
+            4.7607757298677855
+        ]
+    },
+    "raw_mic_seg_raw_mic-205.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            23882716,
+            23956101
+        ],
+        "coords": [
+            39.076186444033574,
+            2.665410957097385
+        ]
+    },
+    "raw_mic_seg_raw_mic-206.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            23956101,
+            24022688
+        ],
+        "coords": [
+            32.14205266478523,
+            3.1579360125886162
+        ]
+    },
+    "raw_mic_seg_raw_mic-207.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            24022688,
+            24103918
+        ],
+        "coords": [
+            69.92763125779504,
+            -1.462413086910757
+        ]
+    },
+    "raw_mic_seg_raw_mic-208.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            24103918,
+            24220185
+        ],
+        "coords": [
+            -3.4378736769073335,
+            -33.34665876922387
+        ]
+    },
+    "raw_mic_seg_raw_mic-209.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            24220185,
+            24283111
+        ],
+        "coords": [
+            9.539897996303269,
+            4.571822736532051
+        ]
+    },
+    "raw_mic_seg_raw_mic-210.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            24283111,
+            24339762
+        ],
+        "coords": [
+            -14.890431415435275,
+            5.064846794730411
+        ]
+    },
+    "raw_mic_seg_raw_mic-211.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            24339762,
+            24397982
+        ],
+        "coords": [
+            -2.537517357514012,
+            4.9518752693301495
+        ]
+    },
+    "raw_mic_seg_raw_mic-212.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            24397982,
+            24503790
+        ],
+        "coords": [
+            -2.853624059461286,
+            -53.38318629818293
+        ]
+    },
+    "raw_mic_seg_raw_mic-213.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            24503790,
+            24567762
+        ],
+        "coords": [
+            16.838101246324367,
+            4.4669904642154075
+        ]
+    },
+    "raw_mic_seg_raw_mic-214.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            24567762,
+            24672001
+        ],
+        "coords": [
+            -2.5555217387060427,
+            -60.02059379671582
+        ]
+    },
+    "raw_mic_seg_raw_mic-215.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            24672001,
+            24739634
+        ],
+        "coords": [
+            8.61592105140705,
+            4.748919406316481
+        ]
+    },
+    "raw_mic_seg_raw_mic-216.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            24739634,
+            24788964
+        ],
+        "coords": [
+            -85.95310606438895,
+            0.19641494733159826
+        ]
+    },
+    "raw_mic_seg_raw_mic-217.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            24788964,
+            25004592
+        ],
+        "coords": [
+            -2.2539218426630714,
+            36.82560149346659
+        ]
+    },
+    "raw_mic_seg_raw_mic-218.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            25004592,
+            25759068
+        ],
+        "coords": [
+            1.0825870194794494,
+            119.57239805035925
+        ]
+    },
+    "raw_mic_seg_raw_mic-219.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            25759068,
+            25831930
+        ],
+        "coords": [
+            26.22394351800038,
+            2.4470397291732584
+        ]
+    },
+    "raw_mic_seg_raw_mic-220.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            25831930,
+            25917134
+        ],
+        "coords": [
+            57.76532015735873,
+            -1.2115850421476926
+        ]
+    },
+    "raw_mic_seg_raw_mic-221.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            25917134,
+            25989985
+        ],
+        "coords": [
+            31.004828404238527,
+            2.2779673746286617
+        ]
+    },
+    "raw_mic_seg_raw_mic-222.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            25989985,
+            26062335
+        ],
+        "coords": [
+            22.696743707172555,
+            2.6410253669580577
+        ]
+    },
+    "raw_mic_seg_raw_mic-223.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            26062335,
+            26145133
+        ],
+        "coords": [
+            58.574465076749476,
+            -0.7654498528445725
+        ]
+    },
+    "raw_mic_seg_raw_mic-224.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            26145133,
+            26257217
+        ],
+        "coords": [
+            -3.2784735662592865,
+            -37.726638958003846
+        ]
+    },
+    "raw_mic_seg_raw_mic-225.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            26257217,
+            26417412
+        ],
+        "coords": [
+            -3.062808460468952,
+            -1.8939170820780393
+        ]
+    },
+    "raw_mic_seg_raw_mic-226.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            26417412,
+            26493412
+        ],
+        "coords": [
+            62.64209312612354,
+            -0.36430812349834013
+        ]
+    },
+    "raw_mic_seg_raw_mic-227.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            26493412,
+            26546925
+        ],
+        "coords": [
+            -41.3252508677745,
+            4.068109073663747
+        ]
+    },
+    "raw_mic_seg_raw_mic-228.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            26546925,
+            26609328
+        ],
+        "coords": [
+            1.2456701109383457,
+            5.127403588023377
+        ]
+    },
+    "raw_mic_seg_raw_mic-229.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            26609328,
+            26747559
+        ],
+        "coords": [
+            -3.2846717488110198,
+            -11.489305663634282
+        ]
+    },
+    "raw_mic_seg_raw_mic-230.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            26747559,
+            26810485
+        ],
+        "coords": [
+            -15.608936662747832,
+            3.6403307706060475
+        ]
+    },
+    "raw_mic_seg_raw_mic-231.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            26810485,
+            26901128
+        ],
+        "coords": [
+            -3.004208359543712,
+            -58.88343718385452
+        ]
+    },
+    "raw_mic_seg_raw_mic-232.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            26901128,
+            26981835
+        ],
+        "coords": [
+            57.79473627482364,
+            0.0785849790222076
+        ]
+    },
+    "raw_mic_seg_raw_mic-233.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            26981835,
+            27032210
+        ],
+        "coords": [
+            -78.92849654614224,
+            1.147560291094839
+        ]
+    },
+    "raw_mic_seg_raw_mic-234.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            27032210,
+            27100366
+        ],
+        "coords": [
+            29.599980913731255,
+            3.6043847925236028
+        ]
+    },
+    "raw_mic_seg_raw_mic-235.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            27100366,
+            27175320
+        ],
+        "coords": [
+            56.40982787472662,
+            0.60202592219578
+        ]
+    },
+    "raw_mic_seg_raw_mic-236.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            27175320,
+            27919128
+        ],
+        "coords": [
+            1.2807102861847979,
+            123.8688890660904
+        ]
+    },
+    "raw_mic_seg_raw_mic-237.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            27919128,
+            28005596
+        ],
+        "coords": [
+            138.75242539718604,
+            -21.130759957958876
+        ]
+    },
+    "raw_mic_seg_raw_mic-238.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            28005596,
+            28198205
+        ],
+        "coords": [
+            -2.6387437780435126,
+            26.33705403142712
+        ]
+    },
+    "raw_mic_seg_raw_mic-239.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            28198205,
+            28345849
+        ],
+        "coords": [
+            -3.2100764029137276,
+            0.7174874847755491
+        ]
+    },
+    "raw_mic_seg_raw_mic-240.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            28345849,
+            28412436
+        ],
+        "coords": [
+            27.606550255063897,
+            3.783758093321954
+        ]
+    },
+    "raw_mic_seg_raw_mic-241.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            28412436,
+            28482161
+        ],
+        "coords": [
+            40.861781587860726,
+            2.602636818443303
+        ]
+    },
+    "raw_mic_seg_raw_mic-242.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            28482161,
+            28546133
+        ],
+        "coords": [
+            15.57746024894532,
+            4.513180265148882
+        ]
+    },
+    "raw_mic_seg_raw_mic-243.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            28546133,
+            28599123
+        ],
+        "coords": [
+            -50.963883666876214,
+            3.7110443009312664
+        ]
+    },
+    "raw_mic_seg_raw_mic-244.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            28599123,
+            28724803
+        ],
+        "coords": [
+            -3.567923267446244,
+            -23.389251548998065
+        ]
+    },
+    "raw_mic_seg_raw_mic-245.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            28724803,
+            28789298
+        ],
+        "coords": [
+            23.409157050135814,
+            3.822772820723619
+        ]
+    },
+    "raw_mic_seg_raw_mic-246.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            28789298,
+            28886739
+        ],
+        "coords": [
+            -3.2265192271379095,
+            -48.731249773316186
+        ]
+    },
+    "raw_mic_seg_raw_mic-247.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            28886739,
+            28941821
+        ],
+        "coords": [
+            -41.52564524601391,
+            3.6354877872229245
+        ]
+    },
+    "raw_mic_seg_raw_mic-248.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            28941821,
+            29032464
+        ],
+        "coords": [
+            -2.7430374938703586,
+            -68.94466993348124
+        ]
+    },
+    "raw_mic_seg_raw_mic-249.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            29032464,
+            29115262
+        ],
+        "coords": [
+            86.32146623660788,
+            -4.717557817590213
+        ]
+    },
+    "raw_mic_seg_raw_mic-250.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            29115262,
+            29207996
+        ],
+        "coords": [
+            -2.885773554811127,
+            -60.90839859261223
+        ]
+    },
+    "raw_mic_seg_raw_mic-251.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            29207996,
+            29273800
+        ],
+        "coords": [
+            11.706310871414429,
+            3.7447264223617633
+        ]
+    },
+    "raw_mic_seg_raw_mic-252.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            29273800,
+            29377669
+        ],
+        "coords": [
+            -3.3093867416204774,
+            -43.812031401430474
+        ]
+    },
+    "raw_mic_seg_raw_mic-253.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            29377669,
+            29480969
+        ],
+        "coords": [
+            -3.0424331302893575,
+            -52.07337290650811
+        ]
+    },
+    "raw_mic_seg_raw_mic-254.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            29480969,
+            29692467
+        ],
+        "coords": [
+            -2.6024412388965956,
+            27.39978251628653
+        ]
+    },
+    "raw_mic_seg_raw_mic-255.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            29692467,
+            29766123
+        ],
+        "coords": [
+            37.60148997717113,
+            2.0373905671389094
+        ]
+    },
+    "raw_mic_seg_raw_mic-256.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            29766123,
+            29824016
+        ],
+        "coords": [
+            -17.653271329420104,
+            5.188221974003365
+        ]
+    },
+    "raw_mic_seg_raw_mic-257.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            29824016,
+            29935767
+        ],
+        "coords": [
+            -3.5105610678632115,
+            -35.259905479015465
+        ]
+    },
+    "raw_mic_seg_raw_mic-258.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            29935767,
+            30072477
+        ],
+        "coords": [
+            -3.2673619942259062,
+            -16.780036431958692
+        ]
+    },
+    "raw_mic_seg_raw_mic-259.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            30072477,
+            30160594
+        ],
+        "coords": [
+            -2.8229745824509385,
+            -65.34823406648123
+        ]
+    },
+    "raw_mic_seg_raw_mic-260.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            30160594,
+            30226358
+        ],
+        "coords": [
+            14.428539592777156,
+            4.3762173841513805
+        ]
+    },
+    "raw_mic_seg_raw_mic-261.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            30226358,
+            30288192
+        ],
+        "coords": [
+            4.3870993648741985,
+            5.031791602045955
+        ]
+    },
+    "raw_mic_seg_raw_mic-262.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            30288192,
+            30378925
+        ],
+        "coords": [
+            -2.713837912016523,
+            -50.87249363622032
+        ]
+    },
+    "raw_mic_seg_raw_mic-263.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            30378925,
+            30456522
+        ],
+        "coords": [
+            52.87239517168014,
+            0.7094845577510288
+        ]
+    },
+    "raw_mic_seg_raw_mic-264.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            30456522,
+            31104494
+        ],
+        "coords": [
+            0.10878711838861739,
+            98.16512706229997
+        ]
+    },
+    "raw_mic_seg_raw_mic-265.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            31104494,
+            31170002
+        ],
+        "coords": [
+            5.452581159352001,
+            5.026550244763455
+        ]
+    },
+    "raw_mic_seg_raw_mic-266.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            31170002,
+            31252854
+        ],
+        "coords": [
+            65.47673456876763,
+            -0.9473268160171529
+        ]
+    },
+    "raw_mic_seg_raw_mic-267.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            31252854,
+            31351259
+        ],
+        "coords": [
+            -3.0937428487099834,
+            -51.54393034482439
+        ]
+    },
+    "raw_mic_seg_raw_mic-268.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            31351259,
+            31573564
+        ],
+        "coords": [
+            -2.6212290376252025,
+            37.69023326131562
+        ]
+    },
+    "raw_mic_seg_raw_mic-269.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            31573564,
+            31627516
+        ],
+        "coords": [
+            -52.680152132759126,
+            3.7346352971508137
+        ]
+    },
+    "raw_mic_seg_raw_mic-270.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            31627516,
+            31991481
+        ],
+        "coords": [
+            -0.6180517224639503,
+            87.87984414863864
+        ]
+    },
+    "raw_mic_seg_raw_mic-271.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            31991481,
+            32122279
+        ],
+        "coords": [
+            -3.591231012747112,
+            -14.91457452146368
+        ]
+    },
+    "raw_mic_seg_raw_mic-272.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            32122279,
+            32313504
+        ],
+        "coords": [
+            -2.3215040195968077,
+            33.81740029935801
+        ]
+    },
+    "raw_mic_seg_raw_mic-273.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            32313504,
+            32397669
+        ],
+        "coords": [
+            45.31045860989134,
+            -0.35459874691771104
+        ]
+    },
+    "raw_mic_seg_raw_mic-274.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            32397669,
+            32480521
+        ],
+        "coords": [
+            57.14277828740703,
+            -0.5116214467148913
+        ]
+    },
+    "raw_mic_seg_raw_mic-275.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            32480521,
+            32562716
+        ],
+        "coords": [
+            58.13106740401815,
+            -0.5620875949629315
+        ]
+    },
+    "raw_mic_seg_raw_mic-276.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            32562716,
+            32618639
+        ],
+        "coords": [
+            -33.10678931042051,
+            3.8135174242351213
+        ]
+    },
+    "raw_mic_seg_raw_mic-277.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            32618639,
+            32855183
+        ],
+        "coords": [
+            -2.318725963028766,
+            47.37427891492559
+        ]
+    },
+    "raw_mic_seg_raw_mic-278.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            32855183,
+            32919644
+        ],
+        "coords": [
+            9.916348757581432,
+            4.347101045230399
+        ]
+    },
+    "raw_mic_seg_raw_mic-279.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            32919644,
+            33005780
+        ],
+        "coords": [
+            81.16743955876275,
+            -3.765260619692991
+        ]
+    },
+    "raw_mic_seg_raw_mic-280.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            33005780,
+            33099797
+        ],
+        "coords": [
+            -3.048457171561419,
+            -60.64991400035235
+        ]
+    },
+    "raw_mic_seg_raw_mic-281.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            33099797,
+            33157690
+        ],
+        "coords": [
+            -23.285272479251038,
+            4.240510515792956
+        ]
+    },
+    "raw_mic_seg_raw_mic-282.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            33157690,
+            33239885
+        ],
+        "coords": [
+            63.59621577487967,
+            -0.8067690306872212
+        ]
+    },
+    "raw_mic_seg_raw_mic-283.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            33239885,
+            33366743
+        ],
+        "coords": [
+            -3.005078916801015,
+            -15.877660869020815
+        ]
+    },
+    "raw_mic_seg_raw_mic-284.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            33366743,
+            33565849
+        ],
+        "coords": [
+            -2.6139978543002913,
+            29.907765805928005
+        ]
+    },
+    "raw_mic_seg_raw_mic-285.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            33565849,
+            33935725
+        ],
+        "coords": [
+            -1.1812129670541738,
+            76.97136216912085
+        ]
+    },
+    "raw_mic_seg_raw_mic-286.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            33935725,
+            34739750
+        ],
+        "coords": [
+            1.3891994023211107,
+            122.05247834148881
+        ]
+    },
+    "raw_mic_seg_raw_mic-287.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            34739750,
+            34796457
+        ],
+        "coords": [
+            -40.91431353431766,
+            4.145562649415284
+        ]
+    },
+    "raw_mic_seg_raw_mic-288.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            34796457,
+            34890346
+        ],
+        "coords": [
+            -3.0880077684729708,
+            -57.36282316377813
+        ]
+    },
+    "raw_mic_seg_raw_mic-289.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            34890346,
+            34958748
+        ],
+        "coords": [
+            13.600858885919028,
+            3.3129193043458383
+        ]
+    },
+    "raw_mic_seg_raw_mic-290.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            34958748,
+            35023209
+        ],
+        "coords": [
+            -1.7183411905312214,
+            3.983970502698906
+        ]
+    },
+    "raw_mic_seg_raw_mic-291.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            35023209,
+            35101463
+        ],
+        "coords": [
+            51.864710409625125,
+            0.4253856990177167
+        ]
+    },
+    "raw_mic_seg_raw_mic-292.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            35101463,
+            35151474
+        ],
+        "coords": [
+            -81.21494102811776,
+            -0.0015298189135476202
+        ]
+    },
+    "raw_mic_seg_raw_mic-293.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            35151474,
+            35223817
+        ],
+        "coords": [
+            33.405776004921876,
+            2.4715750401962717
+        ]
+    },
+    "raw_mic_seg_raw_mic-294.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            35223817,
+            35289198
+        ],
+        "coords": [
+            8.113236816285621,
+            3.9810110725158148
+        ]
+    },
+    "raw_mic_seg_raw_mic-295.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            35289198,
+            35432213
+        ],
+        "coords": [
+            -2.9909038799922754,
+            -7.216514728052204
+        ]
+    },
+    "raw_mic_seg_raw_mic-296.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            35432213,
+            35532798
+        ],
+        "coords": [
+            -2.9058854022480762,
+            -64.64178793723347
+        ]
+    },
+    "raw_mic_seg_raw_mic-297.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            35532798,
+            35691196
+        ],
+        "coords": [
+            -2.3337185321410043,
+            5.86901890416725
+        ]
+    },
+    "raw_mic_seg_raw_mic-298.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            35691196,
+            35743164
+        ],
+        "coords": [
+            -62.77296889167669,
+            2.746250010632072
+        ]
+    },
+    "raw_mic_seg_raw_mic-299.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            35743164,
+            35803684
+        ],
+        "coords": [
+            -15.260116552264485,
+            5.185773528135107
+        ]
+    },
+    "raw_mic_seg_raw_mic-300.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            35803684,
+            35996222
+        ],
+        "coords": [
+            -2.8828299104739776,
+            25.489584346141463
+        ]
+    },
+    "raw_mic_seg_raw_mic-301.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            35996222,
+            36081701
+        ],
+        "coords": [
+            73.9614820969032,
+            -2.5057575554621523
+        ]
+    },
+    "raw_mic_seg_raw_mic-302.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            36081701,
+            36153387
+        ],
+        "coords": [
+            31.362785543254926,
+            2.916075783839613
+        ]
+    },
+    "raw_mic_seg_raw_mic-303.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            36153387,
+            36223102
+        ],
+        "coords": [
+            28.72816675211975,
+            3.1353396053527347
+        ]
+    },
+    "raw_mic_seg_raw_mic-304.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            36223102,
+            36752596
+        ],
+        "coords": [
+            0.17476158335429554,
+            100.45265083158053
+        ]
+    },
+    "raw_mic_seg_raw_mic-305.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            36752596,
+            36834777
+        ],
+        "coords": [
+            80.19208673071664,
+            -3.7319177862055923
+        ]
+    },
+    "raw_mic_seg_raw_mic-306.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            36834777,
+            36915001
+        ],
+        "coords": [
+            46.26498611548527,
+            1.6726550560637687
+        ]
+    },
+    "raw_mic_seg_raw_mic-307.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            36915001,
+            37061563
+        ],
+        "coords": [
+            -3.467674622094942,
+            -12.673960909201794
+        ]
+    },
+    "raw_mic_seg_raw_mic-308.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            37061563,
+            37116172
+        ],
+        "coords": [
+            -32.072683250131,
+            4.759565157816703
+        ]
+    },
+    "raw_mic_seg_raw_mic-309.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            37116172,
+            37190485
+        ],
+        "coords": [
+            51.183803342855775,
+            1.310052938752356
+        ]
+    },
+    "raw_mic_seg_raw_mic-310.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            37190485,
+            37240496
+        ],
+        "coords": [
+            -83.91173638734868,
+            0.6212787586184918
+        ]
+    },
+    "raw_mic_seg_raw_mic-311.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            37240496,
+            37301016
+        ],
+        "coords": [
+            -12.185135692901179,
+            5.321414520050275
+        ]
+    },
+    "raw_mic_seg_raw_mic-312.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            37301016,
+            37366995
+        ],
+        "coords": [
+            12.180473772027726,
+            4.667398489821921
+        ]
+    },
+    "raw_mic_seg_raw_mic-313.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            37366995,
+            37431251
+        ],
+        "coords": [
+            0.8415790730998376,
+            5.172144593377186
+        ]
+    },
+    "raw_mic_seg_raw_mic-314.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            37431251,
+            37481919
+        ],
+        "coords": [
+            -77.83782754292702,
+            1.2314131957447816
+        ]
+    },
+    "raw_mic_seg_raw_mic-315.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            37481919,
+            37616001
+        ],
+        "coords": [
+            -3.5512721658535886,
+            -17.398016413693195
+        ]
+    },
+    "raw_mic_seg_raw_mic-316.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            37616001,
+            37673894
+        ],
+        "coords": [
+            -33.78048384558036,
+            4.117343120156436
+        ]
+    },
+    "raw_mic_seg_raw_mic-317.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            37673894,
+            37805349
+        ],
+        "coords": [
+            -2.99220379886795,
+            -17.007311341501183
+        ]
+    },
+    "raw_mic_seg_raw_mic-318.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            37805349,
+            37869153
+        ],
+        "coords": [
+            -23.82382664000313,
+            4.058615491962226
+        ]
+    },
+    "raw_mic_seg_raw_mic-319.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            37869153,
+            37921135
+        ],
+        "coords": [
+            -75.25519572250792,
+            0.9340037689030235
+        ]
+    },
+    "raw_mic_seg_raw_mic-320.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            37921135,
+            37975087
+        ],
+        "coords": [
+            -59.1754306800425,
+            3.144416644962992
+        ]
+    },
+    "raw_mic_seg_raw_mic-321.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            37975087,
+            38065163
+        ],
+        "coords": [
+            -2.5803550174905356,
+            -72.28387786353579
+        ]
+    },
+    "raw_mic_seg_raw_mic-322.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            38065163,
+            38117145
+        ],
+        "coords": [
+            -68.576893726633,
+            1.649054390249206
+        ]
+    },
+    "raw_mic_seg_raw_mic-323.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            38117145,
+            38267648
+        ],
+        "coords": [
+            -2.4738807217526126,
+            -2.2224474426978342
+        ]
+    },
+    "raw_mic_seg_raw_mic-324.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            38267648,
+            38344588
+        ],
+        "coords": [
+            33.75908305298469,
+            1.3483234443198562
+        ]
+    },
+    "raw_mic_seg_raw_mic-325.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            38344588,
+            38443860
+        ],
+        "coords": [
+            -3.0238952039452895,
+            -53.23947437161594
+        ]
+    },
+    "raw_mic_seg_raw_mic-326.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            38443860,
+            38499126
+        ],
+        "coords": [
+            -48.4898219924566,
+            3.4445923045248725
+        ]
+    },
+    "raw_mic_seg_raw_mic-327.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            38499126,
+            38573439
+        ],
+        "coords": [
+            36.41405591277537,
+            2.216267030855831
+        ]
+    },
+    "raw_mic_seg_raw_mic-328.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            38573439,
+            38631989
+        ],
+        "coords": [
+            -25.819186389447967,
+            5.147742877702477
+        ]
+    },
+    "raw_mic_seg_raw_mic-329.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            38631989,
+            38706302
+        ],
+        "coords": [
+            38.10528499561058,
+            2.729720150161101
+        ]
+    },
+    "raw_mic_seg_raw_mic-330.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            38706302,
+            38762881
+        ],
+        "coords": [
+            -36.18471368462276,
+            4.839945292924311
+        ]
+    },
+    "raw_mic_seg_raw_mic-331.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            38762881,
+            38816833
+        ],
+        "coords": [
+            -53.933139677967546,
+            3.5874362314991273
+        ]
+    },
+    "raw_mic_seg_raw_mic-332.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            38816833,
+            38885892
+        ],
+        "coords": [
+            24.96635042013308,
+            4.001973783699699
+        ]
+    },
+    "raw_mic_seg_raw_mic-333.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            38885892,
+            38952980
+        ],
+        "coords": [
+            18.984909606832538,
+            4.414636095461442
+        ]
+    },
+    "raw_mic_seg_raw_mic-334.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            38952980,
+            39020068
+        ],
+        "coords": [
+            12.843577371228116,
+            4.734745434895542
+        ]
+    },
+    "raw_mic_seg_raw_mic-335.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            39020068,
+            39093724
+        ],
+        "coords": [
+            38.640888149552154,
+            2.7161633611071427
+        ]
+    },
+    "raw_mic_seg_raw_mic-336.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            39093724,
+            39164096
+        ],
+        "coords": [
+            19.802813054587048,
+            4.207591842505882
+        ]
+    },
+    "raw_mic_seg_raw_mic-337.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            39164096,
+            39219362
+        ],
+        "coords": [
+            -46.81097467482893,
+            3.718888183958323
+        ]
+    },
+    "raw_mic_seg_raw_mic-338.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            39219362,
+            39279882
+        ],
+        "coords": [
+            -17.74743786494588,
+            5.2275296793226795
+        ]
+    },
+    "raw_mic_seg_raw_mic-339.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            39279882,
+            39362734
+        ],
+        "coords": [
+            50.09166077482239,
+            1.2142116643161032
+        ]
+    },
+    "raw_mic_seg_raw_mic-340.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            39362734,
+            39434420
+        ],
+        "coords": [
+            20.896774394195937,
+            3.7105187346821493
+        ]
+    },
+    "raw_mic_seg_raw_mic-341.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            39434420,
+            39512017
+        ],
+        "coords": [
+            52.133280156099794,
+            0.8543307423255091
+        ]
+    },
+    "raw_mic_seg_raw_mic-342.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            39512017,
+            39775490
+        ],
+        "coords": [
+            -1.6033684319865797,
+            49.73898968472665
+        ]
+    },
+    "raw_mic_seg_raw_mic-343.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            39775490,
+            40019259
+        ],
+        "coords": [
+            -2.1176518268112368,
+            47.209621553936
+        ]
+    },
+    "raw_mic_seg_raw_mic-344.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            40019259,
+            40157493
+        ],
+        "coords": [
+            -2.21488925931379,
+            -6.102557014700957
+        ]
+    },
+    "raw_mic_seg_raw_mic-345.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            40157493,
+            40221093
+        ],
+        "coords": [
+            17.036826524243487,
+            4.352507409620815
+        ]
+    },
+    "raw_mic_seg_raw_mic-346.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            40221093,
+            40281606
+        ],
+        "coords": [
+            6.640716404281326,
+            4.886792291724669
+        ]
+    },
+    "raw_mic_seg_raw_mic-347.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            40281606,
+            40344097
+        ],
+        "coords": [
+            10.687949035488765,
+            4.659961978183514
+        ]
+    },
+    "raw_mic_seg_raw_mic-348.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            40344097,
+            40407901
+        ],
+        "coords": [
+            11.2734368915205,
+            4.7516970602199855
+        ]
+    },
+    "raw_mic_seg_raw_mic-349.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            40407901,
+            40471705
+        ],
+        "coords": [
+            11.085923961955412,
+            4.776967273937506
+        ]
+    },
+    "raw_mic_seg_raw_mic-350.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            40471705,
+            40553243
+        ],
+        "coords": [
+            70.10413111450538,
+            -1.5972795403839106
+        ]
+    },
+    "raw_mic_seg_raw_mic-351.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            40553243,
+            40630183
+        ],
+        "coords": [
+            64.65718016943941,
+            -0.4371581521462473
+        ]
+    },
+    "raw_mic_seg_raw_mic-352.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            40630183,
+            40684135
+        ],
+        "coords": [
+            -52.78952269452592,
+            3.2163128521210544
+        ]
+    },
+    "raw_mic_seg_raw_mic-353.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            40684135,
+            40741371
+        ],
+        "coords": [
+            -32.311140481554375,
+            4.95447470671069
+        ]
+    },
+    "raw_mic_seg_raw_mic-354.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            40741371,
+            40805175
+        ],
+        "coords": [
+            -0.16366350390704704,
+            5.19856522408154
+        ]
+    },
+    "raw_mic_seg_raw_mic-355.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            40805175,
+            40876204
+        ],
+        "coords": [
+            28.054947993359708,
+            3.7053012642923413
+        ]
+    },
+    "raw_mic_seg_raw_mic-356.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            40876204,
+            40970878
+        ],
+        "coords": [
+            -2.8222696222075188,
+            -67.2956335692433
+        ]
+    },
+    "raw_mic_seg_raw_mic-357.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            40970878,
+            41033369
+        ],
+        "coords": [
+            1.6077195069933496,
+            5.16357700879233
+        ]
+    },
+    "raw_mic_seg_raw_mic-358.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            41033369,
+            41086007
+        ],
+        "coords": [
+            -54.11967438099082,
+            3.5277737088672714
+        ]
+    },
+    "raw_mic_seg_raw_mic-359.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            41086007,
+            41139959
+        ],
+        "coords": [
+            -47.04859348012209,
+            4.092641104818512
+        ]
+    },
+    "raw_mic_seg_raw_mic-360.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            41139959,
+            41193911
+        ],
+        "coords": [
+            -56.144049477529805,
+            3.433152940432214
+        ]
+    },
+    "raw_mic_seg_raw_mic-361.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            41193911,
+            41251804
+        ],
+        "coords": [
+            -36.14439252596296,
+            4.792422001554464
+        ]
+    },
+    "raw_mic_seg_raw_mic-362.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            41251804,
+            41310354
+        ],
+        "coords": [
+            -32.045621322303596,
+            4.86105097418953
+        ]
+    },
+    "raw_mic_seg_raw_mic-363.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            41310354,
+            41384010
+        ],
+        "coords": [
+            32.09854638672572,
+            3.295125479440986
+        ]
+    },
+    "raw_mic_seg_raw_mic-364.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            41384010,
+            41435335
+        ],
+        "coords": [
+            -71.8302675564182,
+            1.8681228608274292
+        ]
+    },
+    "raw_mic_seg_raw_mic-365.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            41435335,
+            41491914
+        ],
+        "coords": [
+            -23.977948702825394,
+            5.1137974380475475
+        ]
+    },
+    "raw_mic_seg_raw_mic-366.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            41491914,
+            41551121
+        ],
+        "coords": [
+            -5.158167477255227,
+            5.155665417629781
+        ]
+    },
+    "raw_mic_seg_raw_mic-367.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            41551121,
+            41607044
+        ],
+        "coords": [
+            -34.86008460079485,
+            4.848063527896767
+        ]
+    },
+    "raw_mic_seg_raw_mic-368.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            41607044,
+            41681357
+        ],
+        "coords": [
+            53.11904001228342,
+            1.10479225441129
+        ]
+    },
+    "raw_mic_seg_raw_mic-369.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            41681357,
+            41734652
+        ],
+        "coords": [
+            -58.44598372206329,
+            2.472796300691818
+        ]
+    },
+    "raw_mic_seg_raw_mic-370.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            41734652,
+            41792545
+        ],
+        "coords": [
+            -21.54626896943369,
+            5.186122276354041
+        ]
+    },
+    "raw_mic_seg_raw_mic-371.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            41792545,
+            41850438
+        ],
+        "coords": [
+            -14.40918090487036,
+            5.098485873933514
+        ]
+    },
+    "raw_mic_seg_raw_mic-372.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            41850438,
+            41910301
+        ],
+        "coords": [
+            0.8108319278378421,
+            5.013220643287612
+        ]
+    },
+    "raw_mic_seg_raw_mic-373.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            41910301,
+            41977389
+        ],
+        "coords": [
+            32.461315621928236,
+            3.277011881503459
+        ]
+    },
+    "raw_mic_seg_raw_mic-374.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            41977389,
+            42043820
+        ],
+        "coords": [
+            29.50087430501081,
+            3.5277354606144695
+        ]
+    },
+    "raw_mic_seg_raw_mic-375.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            42043820,
+            42114192
+        ],
+        "coords": [
+            49.3377571116247,
+            1.5317076068433633
+        ]
+    },
+    "raw_mic_seg_raw_mic-376.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            42114192,
+            42187848
+        ],
+        "coords": [
+            55.976298905839926,
+            0.6467416208972526
+        ]
+    },
+    "raw_mic_seg_raw_mic-377.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            42187848,
+            42256907
+        ],
+        "coords": [
+            37.340063823272004,
+            2.8690982471308013
+        ]
+    },
+    "raw_mic_seg_raw_mic-378.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            42256907,
+            42328593
+        ],
+        "coords": [
+            49.44880559941707,
+            1.5356765447891698
+        ]
+    },
+    "raw_mic_seg_raw_mic-379.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            42328593,
+            42379261
+        ],
+        "coords": [
+            -71.17193123639272,
+            1.900569411248462
+        ]
+    },
+    "raw_mic_seg_raw_mic-380.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            42379261,
+            42440438
+        ],
+        "coords": [
+            2.7479243920737346,
+            5.091663992162341
+        ]
+    },
+    "raw_mic_seg_raw_mic-381.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            42440438,
+            42509497
+        ],
+        "coords": [
+            41.64616167934816,
+            2.5458228645847165
+        ]
+    },
+    "raw_mic_seg_raw_mic-382.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            42509497,
+            42572644
+        ],
+        "coords": [
+            15.103900508531039,
+            4.458304838771039
+        ]
+    },
+    "raw_mic_seg_raw_mic-383.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            42572644,
+            42641703
+        ],
+        "coords": [
+            34.45331617231825,
+            3.1422700213973225
+        ]
+    },
+    "raw_mic_seg_raw_mic-384.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            42641703,
+            42699596
+        ],
+        "coords": [
+            -12.606070229283775,
+            5.179808335046557
+        ]
+    },
+    "raw_mic_seg_raw_mic-385.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            42699596,
+            42763400
+        ],
+        "coords": [
+            25.046387948414978,
+            3.608555225572831
+        ]
+    },
+    "raw_mic_seg_raw_mic-386.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            42763400,
+            42827204
+        ],
+        "coords": [
+            25.360750722067383,
+            3.559593313341946
+        ]
+    },
+    "raw_mic_seg_raw_mic-387.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            42827204,
+            42919908
+        ],
+        "coords": [
+            -2.6031166082500157,
+            -68.16964345009671
+        ]
+    },
+    "raw_mic_seg_raw_mic-388.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            42919908,
+            42986339
+        ],
+        "coords": [
+            30.911505348811666,
+            3.105059232082968
+        ]
+    },
+    "raw_mic_seg_raw_mic-389.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            42986339,
+            43057368
+        ],
+        "coords": [
+            48.77230760086656,
+            1.4877567207656914
+        ]
+    },
+    "raw_mic_seg_raw_mic-390.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            43057368,
+            43121829
+        ],
+        "coords": [
+            26.47543128815282,
+            3.5110803751971447
+        ]
+    },
+    "raw_mic_seg_raw_mic-391.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            43121829,
+            43185633
+        ],
+        "coords": [
+            17.20664033452672,
+            4.438741349121823
+        ]
+    },
+    "raw_mic_seg_raw_mic-392.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            43185633,
+            43236958
+        ],
+        "coords": [
+            -71.64837195964374,
+            1.800736438607889
+        ]
+    },
+    "raw_mic_seg_raw_mic-393.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            43236958,
+            43351993
+        ],
+        "coords": [
+            -2.3425176509258208,
+            -34.47776744209293
+        ]
+    },
+    "raw_mic_seg_raw_mic-394.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            43351993,
+            43409229
+        ],
+        "coords": [
+            -8.008373260838914,
+            4.794032507062882
+        ]
+    },
+    "raw_mic_seg_raw_mic-395.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            43409229,
+            43480915
+        ],
+        "coords": [
+            51.928626881010146,
+            1.1942000048181658
+        ]
+    },
+    "raw_mic_seg_raw_mic-396.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            43480915,
+            43552601
+        ],
+        "coords": [
+            55.18554307772516,
+            0.6789568498030647
+        ]
+    },
+    "raw_mic_seg_raw_mic-397.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            43552601,
+            43604583
+        ],
+        "coords": [
+            -54.018415743945546,
+            3.4500733134187795
+        ]
+    },
+    "raw_mic_seg_raw_mic-398.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            43604583,
+            43684807
+        ],
+        "coords": [
+            91.23344884875138,
+            -5.777207328473427
+        ]
+    },
+    "raw_mic_seg_raw_mic-399.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            43684807,
+            43772913
+        ],
+        "coords": [
+            -2.3549195476973415,
+            -69.22987455654973
+        ]
+    },
+    "raw_mic_seg_raw_mic-400.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            43772913,
+            43840658
+        ],
+        "coords": [
+            40.63792854375403,
+            2.196334249922154
+        ]
+    },
+    "raw_mic_seg_raw_mic-401.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            43840658,
+            43901178
+        ],
+        "coords": [
+            2.410579375544027,
+            4.982465362338084
+        ]
+    },
+    "raw_mic_seg_raw_mic-402.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            43901178,
+            43984030
+        ],
+        "coords": [
+            94.77353338057299,
+            -6.606526303604817
+        ]
+    },
+    "raw_mic_seg_raw_mic-403.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            43984030,
+            44040609
+        ],
+        "coords": [
+            -17.664482374170603,
+            5.203938770356633
+        ]
+    },
+    "raw_mic_seg_raw_mic-404.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            44040609,
+            44130685
+        ],
+        "coords": [
+            -2.92110678384362,
+            -63.818795038258656
+        ]
+    },
+    "raw_mic_seg_raw_mic-405.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            44130685,
+            44192519
+        ],
+        "coords": [
+            -11.931539472964676,
+            3.81680853649544
+        ]
+    },
+    "raw_mic_seg_raw_mic-406.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            44192519,
+            44265518
+        ],
+        "coords": [
+            24.551101030012376,
+            2.510319661335373
+        ]
+    },
+    "raw_mic_seg_raw_mic-407.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            44265518,
+            44315529
+        ],
+        "coords": [
+            -83.84448381055313,
+            -1.204887588812922
+        ]
+    },
+    "raw_mic_seg_raw_mic-408.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            44315529,
+            44363570
+        ],
+        "coords": [
+            -96.76499844442826,
+            -4.27242751179199
+        ]
+    },
+    "raw_mic_seg_raw_mic-409.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            44363570,
+            44435256
+        ],
+        "coords": [
+            24.24861046033265,
+            2.983113983344341
+        ]
+    },
+    "raw_mic_seg_raw_mic-410.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            44435256,
+            44488551
+        ],
+        "coords": [
+            -61.97260849447186,
+            2.338591854995825
+        ]
+    },
+    "raw_mic_seg_raw_mic-411.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            44488551,
+            44545130
+        ],
+        "coords": [
+            -41.207471068555606,
+            4.028656978120053
+        ]
+    },
+    "raw_mic_seg_raw_mic-412.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            44545130,
+            44597112
+        ],
+        "coords": [
+            -70.33555812452586,
+            1.4401157411486956
+        ]
+    },
+    "raw_mic_seg_raw_mic-413.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            44597112,
+            44649094
+        ],
+        "coords": [
+            -68.00252049296925,
+            2.2837316160991814
+        ]
+    },
+    "raw_mic_seg_raw_mic-414.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            44649094,
+            44708301
+        ],
+        "coords": [
+            -25.980188862070108,
+            4.637991279174938
+        ]
+    },
+    "raw_mic_seg_raw_mic-415.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            44708301,
+            44758312
+        ],
+        "coords": [
+            -83.35785596712428,
+            0.00475137388519531
+        ]
+    },
+    "raw_mic_seg_raw_mic-416.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            44758312,
+            44824087
+        ],
+        "coords": [
+            22.896396932950484,
+            4.198060368281574
+        ]
+    },
+    "raw_mic_seg_raw_mic-417.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            44824087,
+            44882637
+        ],
+        "coords": [
+            -2.670051666035375,
+            4.988100756021194
+        ]
+    },
+    "raw_mic_seg_raw_mic-418.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            44882637,
+            44975997
+        ],
+        "coords": [
+            -2.5692250959243665,
+            -64.93002605798337
+        ]
+    },
+    "raw_mic_seg_raw_mic-419.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            44975997,
+            45041115
+        ],
+        "coords": [
+            27.209407058023928,
+            3.599281979524087
+        ]
+    },
+    "raw_mic_seg_raw_mic-420.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            45041115,
+            45094410
+        ],
+        "coords": [
+            -50.6177543803958,
+            3.729304843844577
+        ]
+    },
+    "raw_mic_seg_raw_mic-421.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            45094410,
+            45149676
+        ],
+        "coords": [
+            -31.233953653093835,
+            4.897911778876815
+        ]
+    },
+    "raw_mic_seg_raw_mic-422.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            45149676,
+            45214794
+        ],
+        "coords": [
+            2.6441165725567153,
+            5.042701631632147
+        ]
+    },
+    "raw_mic_seg_raw_mic-423.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            45214794,
+            45297646
+        ],
+        "coords": [
+            50.800579377801405,
+            0.8873296864982155
+        ]
+    },
+    "raw_mic_seg_raw_mic-424.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            45297646,
+            45358166
+        ],
+        "coords": [
+            -19.373554968263875,
+            5.237277370612249
+        ]
+    },
+    "raw_mic_seg_raw_mic-425.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            45358166,
+            45406207
+        ],
+        "coords": [
+            -103.18675628204907,
+            -2.496381427405131
+        ]
+    },
+    "raw_mic_seg_raw_mic-426.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            45406207,
+            45456875
+        ],
+        "coords": [
+            -76.68482705297089,
+            1.4566681815412186
+        ]
+    },
+    "raw_mic_seg_raw_mic-427.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            45456875,
+            45512798
+        ],
+        "coords": [
+            -48.979525265503575,
+            4.013846484171964
+        ]
+    },
+    "raw_mic_seg_raw_mic-428.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            45512798,
+            45570691
+        ],
+        "coords": [
+            -35.32470970593163,
+            3.656389146492927
+        ]
+    },
+    "raw_mic_seg_raw_mic-429.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            45570691,
+            45650915
+        ],
+        "coords": [
+            35.353517506380896,
+            1.9415940029834151
+        ]
+    },
+    "raw_mic_seg_raw_mic-430.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            45650915,
+            45729826
+        ],
+        "coords": [
+            37.004482725321274,
+            0.8176079371062362
+        ]
+    },
+    "raw_mic_seg_raw_mic-431.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            45729826,
+            45804139
+        ],
+        "coords": [
+            29.32871189406981,
+            1.55856844483415
+        ]
+    },
+    "raw_mic_seg_raw_mic-432.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            45804139,
+            45859405
+        ],
+        "coords": [
+            -46.92923581565918,
+            2.648373133036929
+        ]
+    },
+    "raw_mic_seg_raw_mic-433.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            45859405,
+            45935689
+        ],
+        "coords": [
+            28.2384605714865,
+            2.753055766551881
+        ]
+    },
+    "raw_mic_seg_raw_mic-434.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            45935689,
+            46025765
+        ],
+        "coords": [
+            -2.5892397437643515,
+            -73.57632672286196
+        ]
+    },
+    "raw_mic_seg_raw_mic-435.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            46025765,
+            46101392
+        ],
+        "coords": [
+            60.85852742957815,
+            -0.03550182074257043
+        ]
+    },
+    "raw_mic_seg_raw_mic-436.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            46101392,
+            46177676
+        ],
+        "coords": [
+            39.89891113319924,
+            2.4965543660057885
+        ]
+    },
+    "raw_mic_seg_raw_mic-437.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            46177676,
+            46287457
+        ],
+        "coords": [
+            -3.5116404365893805,
+            -35.290433296320906
+        ]
+    },
+    "raw_mic_seg_raw_mic-438.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            46287457,
+            46422853
+        ],
+        "coords": [
+            -3.1859355061459613,
+            -12.431397562519223
+        ]
+    },
+    "raw_mic_seg_raw_mic-439.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            46422853,
+            46487971
+        ],
+        "coords": [
+            11.879185771900525,
+            4.120996054402669
+        ]
+    },
+    "raw_mic_seg_raw_mic-440.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            46487971,
+            46585929
+        ],
+        "coords": [
+            -2.7060275139429963,
+            -52.3415069939987
+        ]
+    },
+    "raw_mic_seg_raw_mic-441.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            46585929,
+            46654988
+        ],
+        "coords": [
+            18.804442497779544,
+            3.0375258623547707
+        ]
+    },
+    "raw_mic_seg_raw_mic-442.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            46654988,
+            46797609
+        ],
+        "coords": [
+            -3.2567407867389355,
+            -4.3424467162251394
+        ]
+    },
+    "raw_mic_seg_raw_mic-443.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            46797609,
+            46892940
+        ],
+        "coords": [
+            -2.995348998270028,
+            -56.836436710206485
+        ]
+    },
+    "raw_mic_seg_raw_mic-444.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            46892940,
+            47017827
+        ],
+        "coords": [
+            -3.396528685437284,
+            -17.101467561094626
+        ]
+    },
+    "raw_mic_seg_raw_mic-445.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            47017827,
+            47080974
+        ],
+        "coords": [
+            3.6155161623589356,
+            4.40346731955093
+        ]
+    },
+    "raw_mic_seg_raw_mic-446.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            47080974,
+            47261033
+        ],
+        "coords": [
+            -2.2186273109184524,
+            33.227792376840874
+        ]
+    },
+    "raw_mic_seg_raw_mic-447.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            47261033,
+            47464737
+        ],
+        "coords": [
+            -1.708918865395099,
+            30.346174899515695
+        ]
+    },
+    "raw_mic_seg_raw_mic-448.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            47464737,
+            47536423
+        ],
+        "coords": [
+            41.09840695745445,
+            2.554514472665222
+        ]
+    },
+    "raw_mic_seg_raw_mic-449.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            47536423,
+            47601541
+        ],
+        "coords": [
+            25.99345092744232,
+            3.890989482118864
+        ]
+    },
+    "raw_mic_seg_raw_mic-450.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            47601541,
+            47671913
+        ],
+        "coords": [
+            46.09377851412235,
+            1.9962281263759833
+        ]
+    },
+    "raw_mic_seg_raw_mic-451.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            47671913,
+            47740315
+        ],
+        "coords": [
+            37.5667015068294,
+            2.8501100122193486
+        ]
+    },
+    "raw_mic_seg_raw_mic-452.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            47740315,
+            47790983
+        ],
+        "coords": [
+            -69.3670889279604,
+            2.0142472221306913
+        ]
+    },
+    "raw_mic_seg_raw_mic-453.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            47790983,
+            47882373
+        ],
+        "coords": [
+            -2.8771202576093597,
+            -56.43634080775712
+        ]
+    },
+    "raw_mic_seg_raw_mic-454.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            47882373,
+            47935668
+        ],
+        "coords": [
+            -50.60917723206145,
+            3.7924682363790247
+        ]
+    },
+    "raw_mic_seg_raw_mic-455.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            47935668,
+            48017206
+        ],
+        "coords": [
+            82.43633281896012,
+            -3.8991149261858893
+        ]
+    },
+    "raw_mic_seg_raw_mic-456.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            48017206,
+            48100714
+        ],
+        "coords": [
+            69.82507139114823,
+            -1.7273658230785987
+        ]
+    },
+    "raw_mic_seg_raw_mic-457.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            48100714,
+            48185536
+        ],
+        "coords": [
+            88.10341981280237,
+            -5.085971051223562
+        ]
+    },
+    "raw_mic_seg_raw_mic-458.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            48185536,
+            48249997
+        ],
+        "coords": [
+            4.184919858500995,
+            3.7617647432847465
+        ]
+    },
+    "raw_mic_seg_raw_mic-459.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            48249997,
+            48347955
+        ],
+        "coords": [
+            -2.999838356147016,
+            -58.87483806833172
+        ]
+    },
+    "raw_mic_seg_raw_mic-460.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            48347955,
+            48397309
+        ],
+        "coords": [
+            -90.00312492193949,
+            -0.3433251044769286
+        ]
+    },
+    "raw_mic_seg_raw_mic-461.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            48397309,
+            48457172
+        ],
+        "coords": [
+            4.213686231097021,
+            4.824198104801168
+        ]
+    },
+    "raw_mic_seg_raw_mic-462.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            48457172,
+            48517692
+        ],
+        "coords": [
+            -10.251758107583935,
+            5.261664622103069
+        ]
+    },
+    "raw_mic_seg_raw_mic-463.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            48517692,
+            48576899
+        ],
+        "coords": [
+            -5.102700763766918,
+            5.085398763360464
+        ]
+    },
+    "raw_mic_seg_raw_mic-464.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            48576899,
+            48631508
+        ],
+        "coords": [
+            -41.67577636065826,
+            3.4988255078166395
+        ]
+    },
+    "raw_mic_seg_raw_mic-465.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            48631508,
+            48701223
+        ],
+        "coords": [
+            36.08618442985193,
+            3.0696544378408674
+        ]
+    },
+    "raw_mic_seg_raw_mic-466.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            48701223,
+            48766998
+        ],
+        "coords": [
+            21.17265657940094,
+            4.266150754590292
+        ]
+    },
+    "raw_mic_seg_raw_mic-467.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            48766998,
+            48838027
+        ],
+        "coords": [
+            39.85728342522813,
+            2.6199285587296197
+        ]
+    },
+    "raw_mic_seg_raw_mic-468.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            48838027,
+            48920879
+        ],
+        "coords": [
+            67.08077409214242,
+            -1.3275558090691828
+        ]
+    },
+    "raw_mic_seg_raw_mic-469.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            48920879,
+            49010299
+        ],
+        "coords": [
+            -2.9171108630287126,
+            -64.80039844779341
+        ]
+    },
+    "raw_mic_seg_raw_mic-470.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            49010299,
+            49070162
+        ],
+        "coords": [
+            -1.7265988577987899,
+            5.189533454843846
+        ]
+    },
+    "raw_mic_seg_raw_mic-471.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            49070162,
+            49142505
+        ],
+        "coords": [
+            38.11214097669256,
+            2.4888993103028616
+        ]
+    },
+    "raw_mic_seg_raw_mic-472.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            49142505,
+            49228641
+        ],
+        "coords": [
+            83.85981247431823,
+            -4.309054121199321
+        ]
+    },
+    "raw_mic_seg_raw_mic-473.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            49228641,
+            49293102
+        ],
+        "coords": [
+            9.985915839758336,
+            4.7084189936578715
+        ]
+    },
+    "raw_mic_seg_raw_mic-474.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            49293102,
+            49383178
+        ],
+        "coords": [
+            -2.981631405861377,
+            -68.4036140249121
+        ]
+    },
+    "raw_mic_seg_raw_mic-475.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            49383178,
+            49501497
+        ],
+        "coords": [
+            -3.0291966696559047,
+            -20.8256816916157
+        ]
+    },
+    "raw_mic_seg_raw_mic-476.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            49501497,
+            49567272
+        ],
+        "coords": [
+            27.734663918622537,
+            3.5997629800133435
+        ]
+    },
+    "raw_mic_seg_raw_mic-477.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            49567272,
+            49633703
+        ],
+        "coords": [
+            24.446227701243814,
+            4.041281966205573
+        ]
+    },
+    "raw_mic_seg_raw_mic-478.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            49633703,
+            49721809
+        ],
+        "coords": [
+            -2.836980806672911,
+            -66.99888173623503
+        ]
+    },
+    "raw_mic_seg_raw_mic-479.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            49721809,
+            49791524
+        ],
+        "coords": [
+            33.01397321611308,
+            3.011723525890112
+        ]
+    },
+    "raw_mic_seg_raw_mic-480.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            49791524,
+            49870435
+        ],
+        "coords": [
+            58.0786972183178,
+            0.15933538108955703
+        ]
+    },
+    "raw_mic_seg_raw_mic-481.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            49870435,
+            49962745
+        ],
+        "coords": [
+            -3.1253826041398565,
+            -52.254125525893215
+        ]
+    },
+    "raw_mic_seg_raw_mic-482.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            49962745,
+            50118502
+        ],
+        "coords": [
+            -3.115623849682003,
+            4.804821354280882
+        ]
+    },
+    "raw_mic_seg_raw_mic-483.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            50118502,
+            50398133
+        ],
+        "coords": [
+            -1.6573562565448623,
+            58.56240293912004
+        ]
+    },
+    "raw_mic_seg_raw_mic-484.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            50398133,
+            50490837
+        ],
+        "coords": [
+            -2.983643945114606,
+            -66.31347421375898
+        ]
+    },
+    "raw_mic_seg_raw_mic-485.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            50490837,
+            50549649
+        ],
+        "coords": [
+            -15.263052225034738,
+            4.598325203872061
+        ]
+    },
+    "raw_mic_seg_raw_mic-486.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            50549649,
+            50616080
+        ],
+        "coords": [
+            11.54260556948497,
+            3.6458679413812476
+        ]
+    },
+    "raw_mic_seg_raw_mic-487.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            50616080,
+            50736370
+        ],
+        "coords": [
+            -3.2366213408245788,
+            -35.464218099553214
+        ]
+    },
+    "raw_mic_seg_raw_mic-488.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            50736370,
+            50838269
+        ],
+        "coords": [
+            -2.9826173695069005,
+            -51.67436082665433
+        ]
+    },
+    "raw_mic_seg_raw_mic-489.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            50838269,
+            50911268
+        ],
+        "coords": [
+            31.531385434929682,
+            1.6699167085496704
+        ]
+    },
+    "raw_mic_seg_raw_mic-490.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            50911268,
+            50972445
+        ],
+        "coords": [
+            -5.5099326766828,
+            4.649094168975426
+        ]
+    },
+    "raw_mic_seg_raw_mic-491.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            50972445,
+            51095099
+        ],
+        "coords": [
+            -3.451621886713139,
+            -24.206064643393077
+        ]
+    },
+    "raw_mic_seg_raw_mic-492.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            51095099,
+            51174667
+        ],
+        "coords": [
+            50.49528880711932,
+            -0.3214681943181468
+        ]
+    },
+    "raw_mic_seg_raw_mic-493.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            51174667,
+            51817492
+        ],
+        "coords": [
+            0.4833884495339235,
+            100.31500075402161
+        ]
+    }
+}

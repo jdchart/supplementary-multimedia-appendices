@@ -1,0 +1,1066 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.8.0",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "shared_name" : "consatnzo_global",
+    "name" : "consatnzo_global",
+    "SUID" : 51,
+    "__Annotations" : [ "" ],
+    "selected" : true
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "88",
+        "shared_name" : "Node 1",
+        "name" : "Rodrigo Constanzo",
+        "SUID" : 88,
+        "type" : [ "Biological" ],
+        "subtype" : [ "Human", "performer", "insturment maker" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 57.54350841511092,
+        "y" : 482.7069355528036
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "87",
+        "shared_name" : "Node 2",
+        "name" : "Kaizo Snare",
+        "SUID" : 87,
+        "type" : [ "Conceptual" ],
+        "subtype" : [ "performance", "music", "piece" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 157.60494192026079,
+        "y" : -149.05609180089306
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "86",
+        "shared_name" : "Node 3",
+        "name" : "FluCoMa Project",
+        "SUID" : 86,
+        "type" : [ "Conceptual" ],
+        "subtype" : [ "institution", "community" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -164.29439856609258,
+        "y" : 482.7069355528037
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "85",
+        "shared_name" : "Node 4",
+        "name" : "FluCoMa Project Comisisoned Composers",
+        "SUID" : 85,
+        "type" : [ "Conceptual" ],
+        "subtype" : [ "community" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 287.99799204324165,
+        "y" : 252.2524519246728
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "84",
+        "shared_name" : "Node 5",
+        "name" : "University of Huddersfield",
+        "SUID" : 84,
+        "type" : [ "Conceptual", "Phhysical" ],
+        "subtype" : [ "institution", "place" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -343.76503531045495,
+        "y" : 352.31388542982285
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "83",
+        "shared_name" : "Node 6",
+        "name" : "HCMF",
+        "SUID" : 83,
+        "type" : [ "Conceptual" ],
+        "subtype" : [ "institution", "festival" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -394.7488821942234,
+        "y" : 252.25245192467293
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "82",
+        "shared_name" : "Node 7",
+        "name" : "Reactive Flows",
+        "SUID" : 82,
+        "type" : [ "Conceptual" ],
+        "subtype" : [ "gig" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -164.2943985660927,
+        "y" : -200.03993868466137
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "81",
+        "shared_name" : "Node 8",
+        "name" : "Bates Mill Blending Shed",
+        "SUID" : 81,
+        "type" : [ "Physical" ],
+        "subtype" : [ "place", "music venue" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -200.98912190537825,
+        "y" : -474.43111219681754
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "80",
+        "shared_name" : "Node 9",
+        "name" : "Olivier Pasquet",
+        "SUID" : 80,
+        "type" : [ "Biological" ],
+        "subtype" : [ "Human", "performer", "instrument maker" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 157.60494192026079,
+        "y" : 431.72308866903523
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "79",
+        "shared_name" : "Node 10",
+        "name" : "Lauren Sarah Hayes",
+        "SUID" : 79,
+        "type" : [ "Biological" ],
+        "subtype" : [ "Human", "performer", "instrument maker" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 305.5658284132338,
+        "y" : 141.33349843407103
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "78",
+        "shared_name" : "Node 11",
+        "name" : "John Burton",
+        "SUID" : 78,
+        "type" : [ "Biological" ],
+        "subtype" : [ "Human", "performer", "instrument maker" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 237.0141451594733,
+        "y" : 352.31388542982273
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "77",
+        "shared_name" : "Node 12",
+        "name" : "Sam Pluta",
+        "SUID" : 77,
+        "type" : [ "Biological" ],
+        "subtype" : [ "Human", "performer", "instrument maker" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 531.5537317368453,
+        "y" : 383.84888228897427
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "76",
+        "shared_name" : "Node 13",
+        "name" : "Hans Tutschku",
+        "SUID" : 76,
+        "type" : [ "Biological" ],
+        "subtype" : [ "Human", "performer", "instrument maker" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 562.3891655553978,
+        "y" : 288.9471752639585
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "75",
+        "shared_name" : "Node 14",
+        "name" : "Richard Devine",
+        "SUID" : 75,
+        "type" : [ "Biological" ],
+        "subtype" : [ "Human", "performer", "instrument maker" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 486.1924288733542,
+        "y" : 472.72807095295167
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "74",
+        "shared_name" : "Node 15",
+        "name" : "Alex Harker",
+        "SUID" : 74,
+        "type" : [ "Biological" ],
+        "subtype" : [ "Human", "performer", "instrument maker" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -264.35583207124256,
+        "y" : 431.72308866903523
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "73",
+        "shared_name" : "Node 16",
+        "name" : "Alice Eldridge",
+        "SUID" : 73,
+        "type" : [ "Biological" ],
+        "subtype" : [ "Human", "performer", "instrument maker" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 577.9329769842506,
+        "y" : 190.37969634061113
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "72",
+        "shared_name" : "Node 17",
+        "name" : "Moon Via Spirit",
+        "SUID" : 72,
+        "type" : [ "Conceptual" ],
+        "subtype" : [ "performance", "music", "piece" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 287.99799204324165,
+        "y" : 30.414544943469366
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "71",
+        "shared_name" : "Node 18",
+        "name" : "Herbig-Haro (HH)",
+        "SUID" : 71,
+        "type" : [ "Conceptual" ],
+        "subtype" : [ "performance", "music", "piece" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 57.54350841511075,
+        "y" : -200.03993868466142
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "70",
+        "shared_name" : "Node 19",
+        "name" : "Line Crossing",
+        "SUID" : 70,
+        "type" : [ "Conceptual" ],
+        "subtype" : [ "performance", "music", "piece" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -53.37544507549097,
+        "y" : -217.6077750546536
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "69",
+        "shared_name" : "Node 20",
+        "name" : "Race to the Bottom",
+        "SUID" : 69,
+        "type" : [ "Conceptual" ],
+        "subtype" : [ "performance", "music", "piece" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -264.3558320712426,
+        "y" : -149.0560918008929
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "68",
+        "shared_name" : "Node 21",
+        "name" : "Owen Green",
+        "SUID" : 68,
+        "type" : [ "Biological" ],
+        "subtype" : [ "Human", "performer", "instrument maker", "developer" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -343.76503531045506,
+        "y" : -69.6468885616805
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "67",
+        "shared_name" : "Node 22",
+        "name" : "Pierre Alexandre Tremblay",
+        "SUID" : 67,
+        "type" : [ "Biological" ],
+        "subtype" : [ "Human", "performer", "instrument maker", "project leader", "developer" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -53.375445075490916,
+        "y" : 500.274771922796
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "66",
+        "shared_name" : "Node 23",
+        "name" : "Gerart Roma",
+        "SUID" : 66,
+        "type" : [ "Biological" ],
+        "subtype" : [ "Human", "performer", "instrument maker", "developer" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -394.7488821942235,
+        "y" : 30.41454494346948
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "65",
+        "shared_name" : "Node 24",
+        "name" : "FluCoMa Toolset 1",
+        "SUID" : 65,
+        "type" : [ "Digital" ],
+        "subtype" : [ "max objects", "supercollider objects", "flucoma" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 237.01414515947306,
+        "y" : -69.64688856168056
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "64",
+        "shared_name" : "Node 25",
+        "name" : "FluCoMa Toolset 2",
+        "SUID" : 64,
+        "type" : [ "Digital" ],
+        "subtype" : [ "max objects", "supercollider objects", "flucoma" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -295.89082893039404,
+        "y" : 726.2626752464073
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "63",
+        "shared_name" : "Node 26",
+        "name" : "BBC",
+        "SUID" : 63,
+        "type" : [ "Conceptual" ],
+        "subtype" : [ "institution" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -295.89082893039404,
+        "y" : -443.59567837826506
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "62",
+        "shared_name" : "Node 27",
+        "name" : "HCMF Audience",
+        "SUID" : 62,
+        "type" : [ "Physical", "Conceptual" ],
+        "subtype" : [ "Humans", "group" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -412.31671856421565,
+        "y" : 141.33349843407115
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "61",
+        "shared_name" : "Node 28",
+        "name" : "ERC",
+        "SUID" : 61,
+        "type" : [ "Conceptual" ],
+        "subtype" : [ "institution", "funding" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -200.98912190537825,
+        "y" : 757.0981090649598
+      },
+      "selected" : false
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "133",
+        "source" : "88",
+        "target" : "87",
+        "shared_name" : "Rodrigo Constanzo (interacts with) Kaizo Snare",
+        "shared_interaction" : "interacts with",
+        "name" : "Rodrigo Constanzo (interacts with) Kaizo Snare",
+        "interaction" : "interacts with",
+        "description" : "Kaizo Snare is the piece that Constanzo produced.",
+        "SUID" : 133,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "132",
+        "source" : "88",
+        "target" : "85",
+        "shared_name" : "Rodrigo Constanzo (interacts with) FluCoMa Project Comisisoned Composers",
+        "shared_interaction" : "interacts with",
+        "name" : "Rodrigo Constanzo (interacts with) FluCoMa Project Comisisoned Composers",
+        "interaction" : "interacts with",
+        "description" : "Constanzo is one of the composers comissioned by FluCoMa",
+        "SUID" : 132,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "131",
+        "source" : "88",
+        "target" : "84",
+        "shared_name" : "Rodrigo Constanzo (interacts with) University of Huddersfield",
+        "shared_interaction" : "interacts with",
+        "name" : "Rodrigo Constanzo (interacts with) University of Huddersfield",
+        "interaction" : "interacts with",
+        "description" : "Constanzo did his PhD at the University of Huddersfield",
+        "SUID" : 131,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "130",
+        "source" : "85",
+        "target" : "86",
+        "shared_name" : "Node 4 (interacts with) Node 3",
+        "shared_interaction" : "interacts with",
+        "name" : "Node 4 (interacts with) Node 3",
+        "interaction" : "interacts with",
+        "description" : "The FluCoMa project comissioned a group of composers to do some performances.",
+        "SUID" : 130,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "129",
+        "source" : "85",
+        "target" : "79",
+        "shared_name" : "FluCoMa Project Comisisoned Composers (interacts with) Lauren Sarah Hayes",
+        "shared_interaction" : "interacts with",
+        "name" : "FluCoMa Project Comisisoned Composers (interacts with) Lauren Sarah Hayes",
+        "interaction" : "interacts with",
+        "description" : "Hayes is one of the composers comissioned by FluCoMa",
+        "SUID" : 129,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "128",
+        "source" : "85",
+        "target" : "75",
+        "shared_name" : "FluCoMa Project Comisisoned Composers (interacts with) Richard Devine",
+        "shared_interaction" : "interacts with",
+        "name" : "FluCoMa Project Comisisoned Composers (interacts with) Richard Devine",
+        "interaction" : "interacts with",
+        "description" : "Devine is one of the composers comissioned by FluCoMa",
+        "SUID" : 128,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "127",
+        "source" : "84",
+        "target" : "86",
+        "shared_name" : "University of Huddersfield (interacts with) FluCoMa Project",
+        "shared_interaction" : "interacts with",
+        "name" : "University of Huddersfield (interacts with) FluCoMa Project",
+        "interaction" : "interacts with",
+        "description" : "The FluCoMa project is based in the University of Huddersfield",
+        "SUID" : 127,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "126",
+        "source" : "83",
+        "target" : "84",
+        "shared_name" : "HCMF (interacts with) University of Huddersfield",
+        "shared_interaction" : "interacts with",
+        "name" : "HCMF (interacts with) University of Huddersfield",
+        "interaction" : "interacts with",
+        "description" : "The University of Huddersfield is intemately tied to HCMF",
+        "SUID" : 126,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "125",
+        "source" : "82",
+        "target" : "86",
+        "shared_name" : "Reactive Flows (interacts with) FluCoMa Project",
+        "shared_interaction" : "interacts with",
+        "name" : "Reactive Flows (interacts with) FluCoMa Project",
+        "interaction" : "interacts with",
+        "description" : "Reactive flows is the first gig organised by the FluCoMa project",
+        "SUID" : 125,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "124",
+        "source" : "82",
+        "target" : "83",
+        "shared_name" : "Reactive Flows (interacts with) HCMF",
+        "shared_interaction" : "interacts with",
+        "name" : "Reactive Flows (interacts with) HCMF",
+        "interaction" : "interacts with",
+        "description" : "The Reactive Flows gig was during the HCMF festival 2019.",
+        "SUID" : 124,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "123",
+        "source" : "82",
+        "target" : "81",
+        "shared_name" : "Reactive Flows (interacts with) Bates Mill Blending Shed",
+        "shared_interaction" : "interacts with",
+        "name" : "Reactive Flows (interacts with) Bates Mill Blending Shed",
+        "interaction" : "interacts with",
+        "description" : "The Reactive Flows gig was held in Bates Mill Blending Shed",
+        "SUID" : 123,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "122",
+        "source" : "82",
+        "target" : "87",
+        "shared_name" : "Reactive Flows (interacts with) Kaizo Snare",
+        "shared_interaction" : "interacts with",
+        "name" : "Reactive Flows (interacts with) Kaizo Snare",
+        "interaction" : "interacts with",
+        "description" : "Kaizo Snare was Constanzo's performance during the Reactive Flows gig",
+        "SUID" : 122,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "121",
+        "source" : "82",
+        "target" : "72",
+        "shared_name" : "Reactive Flows (interacts with) Moon Via Spirit",
+        "shared_interaction" : "interacts with",
+        "name" : "Reactive Flows (interacts with) Moon Via Spirit",
+        "interaction" : "interacts with",
+        "description" : "Moon via Spirit was Hayes' performance during the Reactive Flows gig",
+        "SUID" : 121,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "120",
+        "source" : "82",
+        "target" : "69",
+        "shared_name" : "Reactive Flows (interacts with) Race to the Bottom",
+        "shared_interaction" : "interacts with",
+        "name" : "Reactive Flows (interacts with) Race to the Bottom",
+        "interaction" : "interacts with",
+        "description" : "Race to the Bottom was Green's performance during the Reactive Flows gig",
+        "SUID" : 120,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "119",
+        "source" : "80",
+        "target" : "85",
+        "shared_name" : "Olivier Pasquet (interacts with) FluCoMa Project Comisisoned Composers",
+        "shared_interaction" : "interacts with",
+        "name" : "Olivier Pasquet (interacts with) FluCoMa Project Comisisoned Composers",
+        "interaction" : "interacts with",
+        "description" : "Pasquet is one of the composers comissioned by FluCoMa",
+        "SUID" : 119,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "118",
+        "source" : "79",
+        "target" : "72",
+        "shared_name" : "Lauren Sarah Hayes (interacts with) Moon Via Spirit",
+        "shared_interaction" : "interacts with",
+        "name" : "Lauren Sarah Hayes (interacts with) Moon Via Spirit",
+        "interaction" : "interacts with",
+        "description" : "Moon via Spirit is the piece that Hayes produced.",
+        "SUID" : 118,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "117",
+        "source" : "78",
+        "target" : "85",
+        "shared_name" : "John Burton (interacts with) FluCoMa Project Comisisoned Composers",
+        "shared_interaction" : "interacts with",
+        "name" : "John Burton (interacts with) FluCoMa Project Comisisoned Composers",
+        "interaction" : "interacts with",
+        "description" : "Burton is one of the composers comissioned by FluCoMa",
+        "SUID" : 117,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "116",
+        "source" : "77",
+        "target" : "85",
+        "shared_name" : "Sam Pluta (interacts with) FluCoMa Project Comisisoned Composers",
+        "shared_interaction" : "interacts with",
+        "name" : "Sam Pluta (interacts with) FluCoMa Project Comisisoned Composers",
+        "interaction" : "interacts with",
+        "description" : "Pluta is one of the composers comissioned by FluCoMa",
+        "SUID" : 116,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "115",
+        "source" : "76",
+        "target" : "85",
+        "shared_name" : "Hans Tutschku (interacts with) FluCoMa Project Comisisoned Composers",
+        "shared_interaction" : "interacts with",
+        "name" : "Hans Tutschku (interacts with) FluCoMa Project Comisisoned Composers",
+        "interaction" : "interacts with",
+        "description" : "Tutschku is one of the composers comissioned by FluCoMa",
+        "SUID" : 115,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "114",
+        "source" : "74",
+        "target" : "85",
+        "shared_name" : "Alex Harker (interacts with) FluCoMa Project Comisisoned Composers",
+        "shared_interaction" : "interacts with",
+        "name" : "Alex Harker (interacts with) FluCoMa Project Comisisoned Composers",
+        "interaction" : "interacts with",
+        "description" : "Harker is one of the composers comissioned by FluCoMa",
+        "SUID" : 114,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "113",
+        "source" : "74",
+        "target" : "86",
+        "shared_name" : "Alex Harker (interacts with) FluCoMa Project",
+        "shared_interaction" : "interacts with",
+        "name" : "Alex Harker (interacts with) FluCoMa Project",
+        "interaction" : "interacts with",
+        "description" : "Before being a comissioned composer, Harker was part of the FluCoMa development team",
+        "SUID" : 113,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "112",
+        "source" : "74",
+        "target" : "84",
+        "shared_name" : "Alex Harker (interacts with) University of Huddersfield",
+        "shared_interaction" : "interacts with",
+        "name" : "Alex Harker (interacts with) University of Huddersfield",
+        "interaction" : "interacts with",
+        "description" : "Harker is staff at the University of Huddersfield",
+        "SUID" : 112,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "111",
+        "source" : "73",
+        "target" : "85",
+        "shared_name" : "Alice Eldridge (interacts with) FluCoMa Project Comisisoned Composers",
+        "shared_interaction" : "interacts with",
+        "name" : "Alice Eldridge (interacts with) FluCoMa Project Comisisoned Composers",
+        "interaction" : "interacts with",
+        "description" : "Eldridge is one of the composers comissioned by FluCoMa",
+        "SUID" : 111,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "110",
+        "source" : "71",
+        "target" : "80",
+        "shared_name" : "Herbig-Haro (HH) (interacts with) Olivier Pasquet",
+        "shared_interaction" : "interacts with",
+        "name" : "Herbig-Haro (HH) (interacts with) Olivier Pasquet",
+        "interaction" : "interacts with",
+        "description" : "Herbig-Haro (HH) is the piece that Pasquet produced.",
+        "SUID" : 110,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "109",
+        "source" : "71",
+        "target" : "82",
+        "shared_name" : "Herbig-Haro (HH) (interacts with) Reactive Flows",
+        "shared_interaction" : "interacts with",
+        "name" : "Herbig-Haro (HH) (interacts with) Reactive Flows",
+        "interaction" : "interacts with",
+        "description" : "Herbif-Haro (HH) was Pasquet's performance during the Reactive Flows gig",
+        "SUID" : 109,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "108",
+        "source" : "70",
+        "target" : "78",
+        "shared_name" : "Line Crossing (interacts with) John Burton",
+        "shared_interaction" : "interacts with",
+        "name" : "Line Crossing (interacts with) John Burton",
+        "interaction" : "interacts with",
+        "description" : "Line Crossing is the piece that Burton produced.",
+        "SUID" : 108,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "107",
+        "source" : "70",
+        "target" : "82",
+        "shared_name" : "Line Crossing (interacts with) Reactive Flows",
+        "shared_interaction" : "interacts with",
+        "name" : "Line Crossing (interacts with) Reactive Flows",
+        "interaction" : "interacts with",
+        "description" : "Line Crossing was Burton's performance during the Reactive Flows gig",
+        "SUID" : 107,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "106",
+        "source" : "68",
+        "target" : "69",
+        "shared_name" : "Owen Green (interacts with) Race to the Bottom",
+        "shared_interaction" : "interacts with",
+        "name" : "Owen Green (interacts with) Race to the Bottom",
+        "interaction" : "interacts with",
+        "description" : "Green produced the piece Race to the Bottom for the first FluCoMa gig",
+        "SUID" : 106,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "105",
+        "source" : "68",
+        "target" : "86",
+        "shared_name" : "Owen Green (interacts with) FluCoMa Project",
+        "shared_interaction" : "interacts with",
+        "name" : "Owen Green (interacts with) FluCoMa Project",
+        "interaction" : "interacts with",
+        "description" : "Green is a core memeber of the FluCoMa development team",
+        "SUID" : 105,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "104",
+        "source" : "68",
+        "target" : "84",
+        "shared_name" : "Owen Green (interacts with) University of Huddersfield",
+        "shared_interaction" : "interacts with",
+        "name" : "Owen Green (interacts with) University of Huddersfield",
+        "interaction" : "interacts with",
+        "description" : "Green is staff at the University of Huddersfield",
+        "SUID" : 104,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "103",
+        "source" : "67",
+        "target" : "86",
+        "shared_name" : "Pierre Alexandre Tremblay (interacts with) FluCoMa Project",
+        "shared_interaction" : "interacts with",
+        "name" : "Pierre Alexandre Tremblay (interacts with) FluCoMa Project",
+        "interaction" : "interacts with",
+        "description" : "Tremblay is the leader of the FluCoMa project",
+        "SUID" : 103,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "102",
+        "source" : "67",
+        "target" : "84",
+        "shared_name" : "Pierre Alexandre Tremblay (interacts with) University of Huddersfield",
+        "shared_interaction" : "interacts with",
+        "name" : "Pierre Alexandre Tremblay (interacts with) University of Huddersfield",
+        "interaction" : "interacts with",
+        "description" : "Tremblay is staff at the University of Huddersfield",
+        "SUID" : 102,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "101",
+        "source" : "66",
+        "target" : "86",
+        "shared_name" : "Gerart Roma (interacts with) FluCoMa Project",
+        "shared_interaction" : "interacts with",
+        "name" : "Gerart Roma (interacts with) FluCoMa Project",
+        "interaction" : "interacts with",
+        "description" : "Roma is one of the core developers for the FluCoMa project",
+        "SUID" : 101,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "100",
+        "source" : "66",
+        "target" : "84",
+        "shared_name" : "Gerart Roma (interacts with) University of Huddersfield",
+        "shared_interaction" : "interacts with",
+        "name" : "Gerart Roma (interacts with) University of Huddersfield",
+        "interaction" : "interacts with",
+        "description" : "Roma is staff at the University of Huddersfield",
+        "SUID" : 100,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "99",
+        "source" : "65",
+        "target" : "86",
+        "shared_name" : "FluCoMa Toolset 1 (interacts with) FluCoMa Project",
+        "shared_interaction" : "interacts with",
+        "name" : "FluCoMa Toolset 1 (interacts with) FluCoMa Project",
+        "interaction" : "interacts with",
+        "description" : "FluCoMa produced 2 toolsets",
+        "SUID" : 99,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "98",
+        "source" : "65",
+        "target" : "87",
+        "shared_name" : "FluCoMa Toolset 1 (interacts with) Kaizo Snare",
+        "shared_interaction" : "interacts with",
+        "name" : "FluCoMa Toolset 1 (interacts with) Kaizo Snare",
+        "interaction" : "interacts with",
+        "description" : "The FluCoMa toolset 1 was used in Kaizo Snare",
+        "SUID" : 98,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "97",
+        "source" : "65",
+        "target" : "72",
+        "shared_name" : "FluCoMa Toolset 1 (interacts with) Moon Via Spirit",
+        "shared_interaction" : "interacts with",
+        "name" : "FluCoMa Toolset 1 (interacts with) Moon Via Spirit",
+        "interaction" : "interacts with",
+        "description" : "The FluCoMa toolset 1 was used in Moon via Spirit",
+        "SUID" : 97,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "96",
+        "source" : "65",
+        "target" : "71",
+        "shared_name" : "FluCoMa Toolset 1 (interacts with) Herbig-Haro (HH)",
+        "shared_interaction" : "interacts with",
+        "name" : "FluCoMa Toolset 1 (interacts with) Herbig-Haro (HH)",
+        "interaction" : "interacts with",
+        "description" : "The FluCoMa toolset 1 was used in Herbig-Haro (HH)",
+        "SUID" : 96,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "95",
+        "source" : "65",
+        "target" : "70",
+        "shared_name" : "FluCoMa Toolset 1 (interacts with) Line Crossing",
+        "shared_interaction" : "interacts with",
+        "name" : "FluCoMa Toolset 1 (interacts with) Line Crossing",
+        "interaction" : "interacts with",
+        "description" : "The FluCoMa toolset 1 was used in Line Crossing",
+        "SUID" : 95,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "94",
+        "source" : "65",
+        "target" : "69",
+        "shared_name" : "FluCoMa Toolset 1 (interacts with) Race to the Bottom",
+        "shared_interaction" : "interacts with",
+        "name" : "FluCoMa Toolset 1 (interacts with) Race to the Bottom",
+        "interaction" : "interacts with",
+        "description" : "The FluCoMa toolset 1 was used in Race to the Bottom",
+        "SUID" : 94,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "93",
+        "source" : "64",
+        "target" : "86",
+        "shared_name" : "FluCoMa Toolset 2 (interacts with) FluCoMa Project",
+        "shared_interaction" : "interacts with",
+        "name" : "FluCoMa Toolset 2 (interacts with) FluCoMa Project",
+        "interaction" : "interacts with",
+        "description" : "FluCoMa produced 2 toolsets",
+        "SUID" : 93,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "92",
+        "source" : "63",
+        "target" : "82",
+        "shared_name" : "BBC (interacts with) Reactive Flows",
+        "shared_interaction" : "interacts with",
+        "name" : "BBC (interacts with) Reactive Flows",
+        "interaction" : "interacts with",
+        "description" : "The Reactive Flows gig was recorded by the BBC",
+        "SUID" : 92,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "91",
+        "source" : "62",
+        "target" : "82",
+        "shared_name" : "HCMF Audience (interacts with) Reactive Flows",
+        "shared_interaction" : "interacts with",
+        "name" : "HCMF Audience (interacts with) Reactive Flows",
+        "interaction" : "interacts with",
+        "description" : "The audience at the Reactive Flows gig were mainly all HCMF festival-goers.",
+        "SUID" : 91,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "90",
+        "source" : "62",
+        "target" : "83",
+        "shared_name" : "HCMF Audience (interacts with) HCMF",
+        "shared_interaction" : "interacts with",
+        "name" : "HCMF Audience (interacts with) HCMF",
+        "interaction" : "interacts with",
+        "description" : "The HCMF audience is comprised mainly of contemporary music connaisseurs, students from the University of Huddersfield and contemporary performers and composers.",
+        "SUID" : 90,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "89",
+        "source" : "61",
+        "target" : "86",
+        "shared_name" : "ERC (interacts with) FluCoMa Project",
+        "shared_interaction" : "interacts with",
+        "name" : "ERC (interacts with) FluCoMa Project",
+        "interaction" : "interacts with",
+        "description" : "The FluCoMa project is funded by the ERC",
+        "SUID" : 89,
+        "selected" : false
+      },
+      "selected" : false
+    } ]
+  }
+}

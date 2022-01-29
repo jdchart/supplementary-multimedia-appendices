@@ -1,0 +1,215 @@
+{
+	"segments" : 	{
+		"seg_0" : 		{
+			"name" : "1/3",
+			"start_ms" : 0,
+			"end_ms" : 193699,
+			"len_ms" : 193699,
+			"col" : [ 0.929, 0.929, 0.353, 1 ],
+			"parent" : "null",
+			"children" : "null"
+		}
+,
+		"seg_1" : 		{
+			"name" : "2/3",
+			"start_ms" : 193699,
+			"end_ms" : 401823,
+			"len_ms" : 208124,
+			"col" : [ 0.929, 0.929, 0.353, 1 ],
+			"parent" : "null",
+			"children" : [ "seg_3", "seg_4", "seg_5", "seg_6", "seg_7", "seg_8" ]
+		}
+,
+		"seg_2" : 		{
+			"name" : "3/3",
+			"start_ms" : 401823,
+			"end_ms" : 617160,
+			"len_ms" : 215337,
+			"col" : [ 0.929, 0.929, 0.353, 1 ],
+			"parent" : "null",
+			"children" : [ "seg_9", "seg_10", "seg_11", "seg_12", "seg_13", "seg_14", "seg_15", "seg_16" ]
+		}
+,
+		"seg_3" : 		{
+			"name" : "unnamed_0",
+			"start_ms" : 193699,
+			"end_ms" : 224094,
+			"len_ms" : 208124,
+			"col" : [ 0.929, 0.929, 0.353, 1 ],
+			"parent" : "seg_1",
+			"children" : "null"
+		}
+,
+		"seg_4" : 		{
+			"name" : "unnamed_1",
+			"start_ms" : 224094,
+			"end_ms" : 248821,
+			"len_ms" : 177729,
+			"col" : [ 0.929, 0.929, 0.353, 1 ],
+			"parent" : "seg_1",
+			"children" : "null"
+		}
+,
+		"seg_5" : 		{
+			"name" : "unnamed_2",
+			"start_ms" : 248821,
+			"end_ms" : 289004,
+			"len_ms" : 153002,
+			"col" : [ 0.929, 0.929, 0.353, 1 ],
+			"parent" : "seg_1",
+			"children" : "null"
+		}
+,
+		"seg_6" : 		{
+			"name" : "unnamed_3",
+			"start_ms" : 289004,
+			"end_ms" : 331247,
+			"len_ms" : 112819,
+			"col" : [ 0.929, 0.929, 0.353, 1 ],
+			"parent" : "seg_1",
+			"children" : "null"
+		}
+,
+		"seg_7" : 		{
+			"name" : "unnamed_4",
+			"start_ms" : 331247,
+			"end_ms" : 367823,
+			"len_ms" : 70576,
+			"col" : [ 0.929, 0.929, 0.353, 1 ],
+			"parent" : "seg_1",
+			"children" : "null"
+		}
+,
+		"seg_8" : 		{
+			"name" : "unnamed_5",
+			"start_ms" : 367823,
+			"end_ms" : 401823,
+			"len_ms" : 34000,
+			"col" : [ 0.929, 0.929, 0.353, 1 ],
+			"parent" : "seg_1",
+			"children" : "null"
+		}
+,
+		"seg_9" : 		{
+			"name" : "unnamed_0",
+			"start_ms" : 401823,
+			"end_ms" : 418824,
+			"len_ms" : 215337,
+			"col" : [ 0.929, 0.929, 0.353, 1 ],
+			"parent" : "seg_2",
+			"children" : "null"
+		}
+,
+		"seg_10" : 		{
+			"name" : "unnamed_1",
+			"start_ms" : 418824,
+			"end_ms" : 442006,
+			"len_ms" : 198336,
+			"col" : [ 0.929, 0.929, 0.353, 1 ],
+			"parent" : "seg_2",
+			"children" : "null"
+		}
+,
+		"seg_11" : 		{
+			"name" : "unnamed_2",
+			"start_ms" : 442006,
+			"end_ms" : 468794,
+			"len_ms" : 175154,
+			"col" : [ 0.929, 0.929, 0.353, 1 ],
+			"parent" : "seg_2",
+			"children" : "null"
+		}
+,
+		"seg_12" : 		{
+			"name" : "unnamed_3",
+			"start_ms" : 468794,
+			"end_ms" : 491976,
+			"len_ms" : 148366,
+			"col" : [ 0.929, 0.929, 0.353, 1 ],
+			"parent" : "seg_2",
+			"children" : "null"
+		}
+,
+		"seg_13" : 		{
+			"name" : "unnamed_4",
+			"start_ms" : 491976,
+			"end_ms" : 510522,
+			"len_ms" : 125184,
+			"col" : [ 0.929, 0.929, 0.353, 1 ],
+			"parent" : "seg_2",
+			"children" : [ "seg_20", "seg_17", "seg_18", "seg_19" ]
+		}
+,
+		"seg_14" : 		{
+			"name" : "unnamed_5",
+			"start_ms" : 510522,
+			"end_ms" : 537825,
+			"len_ms" : 106638,
+			"col" : [ 0.929, 0.929, 0.353, 1 ],
+			"parent" : "seg_2",
+			"children" : "null"
+		}
+,
+		"seg_15" : 		{
+			"name" : "unnamed_6",
+			"start_ms" : 537825,
+			"end_ms" : 570795,
+			"len_ms" : 79335,
+			"col" : [ 0.929, 0.929, 0.353, 1 ],
+			"parent" : "seg_2",
+			"children" : "null"
+		}
+,
+		"seg_16" : 		{
+			"name" : "unnamed_7",
+			"start_ms" : 570795,
+			"end_ms" : 617160,
+			"len_ms" : 46365,
+			"col" : [ 0.929, 0.929, 0.353, 1 ],
+			"parent" : "seg_2",
+			"children" : "null"
+		}
+,
+		"seg_17" : 		{
+			"name" : "unnamed_0",
+			"start_ms" : 491976,
+			"end_ms" : 497128,
+			"len_ms" : 18546,
+			"col" : [ 0.929, 0.929, 0.353, 1 ],
+			"parent" : "seg_13",
+			"children" : "null"
+		}
+,
+		"seg_18" : 		{
+			"name" : "unnamed_1",
+			"start_ms" : 497128,
+			"end_ms" : 503310,
+			"len_ms" : 13394,
+			"col" : [ 0.929, 0.929, 0.353, 1 ],
+			"parent" : "seg_13",
+			"children" : "null"
+		}
+,
+		"seg_19" : 		{
+			"name" : "unnamed_2",
+			"start_ms" : 503310,
+			"end_ms" : 510522,
+			"len_ms" : 7212,
+			"col" : [ 0.929, 0.929, 0.353, 1 ],
+			"parent" : "seg_13",
+			"children" : "null"
+		}
+,
+		"seg_20" : 		{
+			"name" : "unnamed_3",
+			"start_ms" : -1,
+			"end_ms" : -1,
+			"len_ms" : 0,
+			"col" : [ 0.929, 0.929, 0.353, 1 ],
+			"parent" : "seg_13",
+			"children" : "null"
+		}
+
+	}
+
+}

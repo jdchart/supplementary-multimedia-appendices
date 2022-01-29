@@ -1,0 +1,275 @@
+{
+    "Gong Lanang-A034_HPSS.wav": {
+        "numchans": 3,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            0,
+            875852
+        ],
+        "coords": [
+            451.99060352405166,
+            2864.6209713461453
+        ]
+    },
+    "Gong Lanang-A050_HPSS.wav": {
+        "numchans": 3,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            875852,
+            1883895
+        ],
+        "coords": [
+            403.7965695078015,
+            2667.4265656409943
+        ]
+    },
+    "Gong Lanang-A070_HPSS.wav": {
+        "numchans": 3,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            1883895,
+            2891938
+        ],
+        "coords": [
+            908.817148999861,
+            2519.660047085646
+        ]
+    },
+    "Gong Lanang-A087_HPSS.wav": {
+        "numchans": 3,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            2891938,
+            3924850
+        ],
+        "coords": [
+            466.51709249846635,
+            2426.3069228903705
+        ]
+    },
+    "Gong Lanang-A103_HPSS.wav": {
+        "numchans": 3,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            3924850,
+            5104806
+        ],
+        "coords": [
+            356.5748070677116,
+            2543.454936975982
+        ]
+    },
+    "Gong Lanang-A117_HPSS.wav": {
+        "numchans": 3,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            5104806,
+            6287574
+        ],
+        "coords": [
+            494.21064947202336,
+            2363.758375125286
+        ]
+    },
+    "Gong Lanang-A127_HPSS.wav": {
+        "numchans": 3,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            6287574,
+            7679369
+        ],
+        "coords": [
+            2967.373503201104,
+            1005.9759361462926
+        ]
+    },
+    "Gong Wadon-A038_HPSS.wav": {
+        "numchans": 3,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            7679369,
+            9071164
+        ],
+        "coords": [
+            488.98694470401097,
+            2666.9109208655454
+        ]
+    },
+    "Gong Wadon-A058_HPSS.wav": {
+        "numchans": 3,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            9071164,
+            10462959
+        ],
+        "coords": [
+            742.6789239481611,
+            1999.4147683583553
+        ]
+    },
+    "Gong Wadon-A077_HPSS.wav": {
+        "numchans": 3,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            10462959,
+            11854754
+        ],
+        "coords": [
+            794.6751626605335,
+            2150.525731408204
+        ]
+    },
+    "Gong Wadon-A098_HPSS.wav": {
+        "numchans": 3,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            11854754,
+            13246549
+        ],
+        "coords": [
+            1003.5306168174711,
+            2291.226339456734
+        ]
+    },
+    "Gong Wadon-A108_HPSS.wav": {
+        "numchans": 3,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            13246549,
+            14638344
+        ],
+        "coords": [
+            406.8195117875965,
+            2286.5849066146748
+        ]
+    },
+    "Gong Wadon-A117_HPSS.wav": {
+        "numchans": 3,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            14638344,
+            16095303
+        ],
+        "coords": [
+            428.470750843515,
+            2664.8819288696773
+        ]
+    },
+    "Gong Wadon-A123_HPSS.wav": {
+        "numchans": 3,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            16095303,
+            17552262
+        ],
+        "coords": [
+            437.4902594547664,
+            2854.17463458179
+        ]
+    },
+    "Gong Wadon-A127_HPSS.wav": {
+        "numchans": 3,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            17552262,
+            19009221
+        ],
+        "coords": [
+            505.7634208852177,
+            2826.0705310650237
+        ]
+    },
+    "Kempur-A055_HPSS.wav": {
+        "numchans": 3,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            19009221,
+            20466180
+        ],
+        "coords": [
+            674.640259328387,
+            2879.803115027753
+        ]
+    },
+    "Kempur-A072_HPSS.wav": {
+        "numchans": 3,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            20466180,
+            21923139
+        ],
+        "coords": [
+            487.47927284039235,
+            2883.204176108313
+        ]
+    },
+    "Kempur-A089_HPSS.wav": {
+        "numchans": 3,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            21923139,
+            23380098
+        ],
+        "coords": [
+            512.2153632786533,
+            2929.62098947651
+        ]
+    },
+    "Kempur-A106_HPSS.wav": {
+        "numchans": 3,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            23380098,
+            24837057
+        ],
+        "coords": [
+            827.7219915974949,
+            2410.88849076651
+        ]
+    },
+    "Kempur-A119_HPSS.wav": {
+        "numchans": 3,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            24837057,
+            26294016
+        ],
+        "coords": [
+            2383.61409421066,
+            932.7922692453982
+        ]
+    },
+    "Kempur-A127_HPSS.wav": {
+        "numchans": 3,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            26294016,
+            27750975
+        ],
+        "coords": [
+            2769.9227266208,
+            1172.587865702443
+        ]
+    }
+}

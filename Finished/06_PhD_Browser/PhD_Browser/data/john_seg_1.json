@@ -1,0 +1,105 @@
+{
+	"segments" : 	{
+		"seg_0" : 		{
+			"name" : "Silence",
+			"start_ms" : 0,
+			"end_ms" : 2060,
+			"len_ms" : 2060,
+			"col" : [ 0.929, 0.929, 0.353, 1 ],
+			"parent" : "null",
+			"children" : "null"
+		}
+,
+		"seg_1" : 		{
+			"name" : "Piece",
+			"start_ms" : 2060,
+			"end_ms" : 599129,
+			"len_ms" : 597069,
+			"col" : [ 0.929, 0.929, 0.353, 1 ],
+			"parent" : "null",
+			"children" : [ "seg_3", "seg_4", "seg_5", "seg_6" ]
+		}
+,
+		"seg_2" : 		{
+			"name" : "Applause",
+			"start_ms" : 599129,
+			"end_ms" : 617160,
+			"len_ms" : 18031,
+			"col" : [ 0.929, 0.929, 0.353, 1 ],
+			"parent" : "null",
+			"children" : "null"
+		}
+,
+		"seg_3" : 		{
+			"name" : "Intro",
+			"start_ms" : 2060,
+			"end_ms" : 32455,
+			"len_ms" : 597069,
+			"col" : [ 0.929, 0.929, 0.353, 1 ],
+			"parent" : "seg_1",
+			"children" : "null"
+		}
+,
+		"seg_4" : 		{
+			"name" : "A",
+			"start_ms" : 32455,
+			"end_ms" : 192669,
+			"len_ms" : 566674,
+			"col" : [ 0.929, 0.929, 0.353, 1 ],
+			"parent" : "seg_1",
+			"children" : [ "seg_7", "seg_8", "seg_9" ]
+		}
+,
+		"seg_5" : 		{
+			"name" : "B",
+			"start_ms" : 192669,
+			"end_ms" : 401823,
+			"len_ms" : 406460,
+			"col" : [ 0.929, 0.929, 0.353, 1 ],
+			"parent" : "seg_1",
+			"children" : "null"
+		}
+,
+		"seg_6" : 		{
+			"name" : "C",
+			"start_ms" : 401823,
+			"end_ms" : 599129,
+			"len_ms" : 197306,
+			"col" : [ 0.929, 0.929, 0.353, 1 ],
+			"parent" : "seg_1",
+			"children" : "null"
+		}
+,
+		"seg_7" : 		{
+			"name" : "a'",
+			"start_ms" : 32455,
+			"end_ms" : 60273,
+			"len_ms" : 160214,
+			"col" : [ 0.929, 0.929, 0.353, 1 ],
+			"parent" : "seg_4",
+			"children" : "null"
+		}
+,
+		"seg_8" : 		{
+			"name" : "a''",
+			"start_ms" : 60273,
+			"end_ms" : 112304,
+			"len_ms" : 132396,
+			"col" : [ 0.929, 0.929, 0.353, 1 ],
+			"parent" : "seg_4",
+			"children" : "null"
+		}
+,
+		"seg_9" : 		{
+			"name" : "a'''",
+			"start_ms" : 112304,
+			"end_ms" : 192669,
+			"len_ms" : 80365,
+			"col" : [ 0.929, 0.929, 0.353, 1 ],
+			"parent" : "seg_4",
+			"children" : "null"
+		}
+
+	}
+
+}

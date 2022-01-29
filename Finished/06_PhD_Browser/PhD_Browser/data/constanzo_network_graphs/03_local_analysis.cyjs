@@ -1,0 +1,5904 @@
+{
+  "format_version" : "1.0",
+  "generated_by" : "cytoscape-3.8.0",
+  "target_cytoscapejs_version" : "~2.1",
+  "data" : {
+    "shared_name" : "Network",
+    "name" : "Network",
+    "SUID" : 849,
+    "__Annotations" : [ "" ],
+    "selected" : true
+  },
+  "elements" : {
+    "nodes" : [ {
+      "data" : {
+        "id" : "1011",
+        "shared_name" : "Node 18",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "human" ],
+        "diffusion_input" : 0.0,
+        "name" : "Pierre Alexandre Tremblay",
+        "SUID" : 1011,
+        "type" : [ "Biological" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -99.7267900234756,
+        "y" : -654.6505963202355
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1010",
+        "shared_name" : "Node 17",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "human" ],
+        "diffusion_input" : 0.0,
+        "name" : "Sound Technician",
+        "SUID" : 1010,
+        "type" : [ "Biological" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 424.24455071119075,
+        "y" : -415.66188810202425
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1009",
+        "shared_name" : "Node 16",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "human", "performer", "instrument maker" ],
+        "diffusion_input" : 0.0,
+        "name" : "Olivier Pasquet",
+        "SUID" : 1009,
+        "type" : [ "Biological" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -866.8682685078056,
+        "y" : 761.5860555662045
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1008",
+        "shared_name" : "Node 16",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "human", "performer", "instrument maker" ],
+        "diffusion_input" : 0.0,
+        "name" : "Owen Green",
+        "SUID" : 1008,
+        "type" : [ "Biological" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -171.58274461527765,
+        "y" : 1089.7560271700388
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1007",
+        "shared_name" : "Node 16",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "human", "performer", "instrument maker" ],
+        "diffusion_input" : 0.0,
+        "name" : "Lauren Sarah Hayes",
+        "SUID" : 1007,
+        "type" : [ "Biological" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -375.3525090568875,
+        "y" : 1051.7242071518808
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1006",
+        "shared_name" : "Node 16",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "human", "performer", "instrument maker" ],
+        "diffusion_input" : 0.0,
+        "name" : "John Burton",
+        "SUID" : 1006,
+        "type" : [ "Biological" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -992.8842012097463,
+        "y" : 609.9313076557436
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1005",
+        "shared_name" : "Node 15",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "human" ],
+        "diffusion_input" : 0.0,
+        "name" : "Sam Gillies",
+        "SUID" : 1005,
+        "type" : [ "Biological" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -346.1312285989095,
+        "y" : 529.2134170359702
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1004",
+        "shared_name" : "Node 14",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "metal" ],
+        "diffusion_input" : 0.0,
+        "name" : "Tripod",
+        "SUID" : 1004,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -435.02490371249377,
+        "y" : 475.3789509059885
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1003",
+        "shared_name" : "Node 13",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "electrical", "adc" ],
+        "diffusion_input" : 0.0,
+        "name" : "Camera",
+        "SUID" : 1003,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -568.685429295714,
+        "y" : 976.9517644579959
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1002",
+        "shared_name" : "Node 12",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "tissue" ],
+        "diffusion_input" : 0.0,
+        "name" : "Beanbags",
+        "SUID" : 1002,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 241.5989912940707,
+        "y" : 512.5060021714763
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1001",
+        "shared_name" : "Node 11",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "electrical" ],
+        "diffusion_input" : 0.0,
+        "name" : "Spot Light",
+        "SUID" : 1001,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 7.170467840184486,
+        "y" : -1152.9494487312165
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1000",
+        "shared_name" : "Node 53",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "plastic", "3d printed" ],
+        "diffusion_input" : 0.0,
+        "name" : "Solenoid #6 Rod Holder",
+        "SUID" : 1000,
+        "diffusion_output_rank" : 60,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 683.1877053536865,
+        "y" : 807.0573226424381
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "999",
+        "shared_name" : "Node 53",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "plastic", "3d printed" ],
+        "diffusion_input" : 0.0,
+        "name" : "Solenoid #6 Rod Holder",
+        "SUID" : 999,
+        "diffusion_output_rank" : 59,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 757.3240789558546,
+        "y" : 734.1101084536958
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "998",
+        "shared_name" : "Node 54",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "metal" ],
+        "diffusion_input" : 0.0,
+        "name" : "Tin Foil",
+        "SUID" : 998,
+        "diffusion_output_rank" : 58,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1139.0871886580658,
+        "y" : 1595.4906790084667
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "997",
+        "shared_name" : "Node 48",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "metal", "instrument" ],
+        "diffusion_input" : 0.0,
+        "name" : "Solenoid #6 Crotale",
+        "SUID" : 997,
+        "diffusion_output_rank" : 65,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 930.4654685419722,
+        "y" : 1314.4622500269804
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "996",
+        "shared_name" : "Node 49",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "wood" ],
+        "diffusion_input" : 0.0,
+        "name" : "Solenoid #6 Base",
+        "SUID" : 996,
+        "diffusion_output_rank" : 64,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 349.353846206313,
+        "y" : 434.82761602732705
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "995",
+        "shared_name" : "Node 50",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "plastic", "3d printed" ],
+        "diffusion_input" : 0.0,
+        "name" : "Solenoid #6 Crotale Holder",
+        "SUID" : 995,
+        "diffusion_output_rank" : 63,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 602.6313369309681,
+        "y" : 872.8461473417875
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "994",
+        "shared_name" : "Node 51",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "metal" ],
+        "diffusion_input" : 0.0,
+        "name" : "Solenoid #6 Metal Rod",
+        "SUID" : 994,
+        "diffusion_output_rank" : 62,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1160.7857733345809,
+        "y" : 1107.899703238044
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "993",
+        "shared_name" : "Node 52",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "plastic" ],
+        "diffusion_input" : 0.0,
+        "name" : "Solenoid #6 Plastic Rod",
+        "SUID" : 993,
+        "diffusion_output_rank" : 61,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1050.4049504157974,
+        "y" : 1216.5099999190602
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "992",
+        "shared_name" : "Node 53",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "plastic", "3d printed" ],
+        "diffusion_input" : 0.0,
+        "name" : "Solenoid #5 Rod Holder",
+        "SUID" : 992,
+        "diffusion_output_rank" : 60,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1773.7999880612983,
+        "y" : 811.3388099321359
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "991",
+        "shared_name" : "Node 53",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "plastic", "3d printed" ],
+        "diffusion_input" : 0.0,
+        "name" : "Solenoid #5 Rod Holder",
+        "SUID" : 991,
+        "diffusion_output_rank" : 59,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1821.9625291589468,
+        "y" : 696.7950352832527
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "990",
+        "shared_name" : "Node 54",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "metal" ],
+        "diffusion_input" : 0.0,
+        "name" : "Tin Foil",
+        "SUID" : 990,
+        "diffusion_output_rank" : 58,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 2866.8535776099347,
+        "y" : 1043.1421742278146
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "989",
+        "shared_name" : "Node 48",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "metal", "instrument" ],
+        "diffusion_input" : 0.0,
+        "name" : "Solenoid #5 Crotale",
+        "SUID" : 989,
+        "diffusion_output_rank" : 65,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 2521.9258650429656,
+        "y" : 966.1485732554062
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "988",
+        "shared_name" : "Node 50",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "plastic", "3d printed" ],
+        "diffusion_input" : 0.0,
+        "name" : "Solenoid #5 Crotale Holder",
+        "SUID" : 988,
+        "diffusion_output_rank" : 63,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 2829.4890444988673,
+        "y" : 1140.2405952735237
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "987",
+        "shared_name" : "Node 51",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "metal" ],
+        "diffusion_input" : 0.0,
+        "name" : "Solenoid #5 Metal Rod",
+        "SUID" : 987,
+        "diffusion_output_rank" : 62,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 2171.9441971009564,
+        "y" : 831.4718042693295
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "986",
+        "shared_name" : "Node 52",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "plastic" ],
+        "diffusion_input" : 0.0,
+        "name" : "Solenoid #5 Plastic Rod",
+        "SUID" : 986,
+        "diffusion_output_rank" : 61,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 2114.8626669111504,
+        "y" : 967.2273890383766
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "985",
+        "shared_name" : "Node 53",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "plastic", "3d printed" ],
+        "diffusion_input" : 0.0,
+        "name" : "Solenoid #4 Rod Holder",
+        "SUID" : 985,
+        "diffusion_output_rank" : 60,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 169.56283483407404,
+        "y" : 1069.185028296376
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "984",
+        "shared_name" : "Node 53",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "plastic", "3d printed" ],
+        "diffusion_input" : 0.0,
+        "name" : "Solenoid #4 Rod Holder",
+        "SUID" : 984,
+        "diffusion_output_rank" : 59,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 367.7523732650509,
+        "y" : 1006.7475413349961
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "983",
+        "shared_name" : "Node 54",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "metal" ],
+        "diffusion_input" : 0.0,
+        "name" : "Tin Foil",
+        "SUID" : 983,
+        "diffusion_output_rank" : 58,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 540.5348284806407,
+        "y" : 1900.9610054907723
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "982",
+        "shared_name" : "Node 48",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "metal", "instrument" ],
+        "diffusion_input" : 0.0,
+        "name" : "Solenoid #4 Crotale",
+        "SUID" : 982,
+        "diffusion_output_rank" : 65,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 435.36660271620093,
+        "y" : 1567.1352361296283
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "981",
+        "shared_name" : "Node 49",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "wood" ],
+        "diffusion_input" : 0.0,
+        "name" : "Solenoid #4 Base",
+        "SUID" : 981,
+        "diffusion_output_rank" : 64,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 119.86192542288148,
+        "y" : 565.6579280461958
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "980",
+        "shared_name" : "Node 50",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "plastic", "3d printed" ],
+        "diffusion_input" : 0.0,
+        "name" : "Solenoid #4 Crotale Holder",
+        "SUID" : 980,
+        "diffusion_output_rank" : 63,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 270.1022479435098,
+        "y" : 1042.5518842764016
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "979",
+        "shared_name" : "Node 51",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "metal" ],
+        "diffusion_input" : 0.0,
+        "name" : "Solenoid #4 Metal Rod",
+        "SUID" : 979,
+        "diffusion_output_rank" : 62,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 580.756789306051,
+        "y" : 1513.8265477502018
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "978",
+        "shared_name" : "Node 52",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "plastic" ],
+        "diffusion_input" : 0.0,
+        "name" : "Solenoid #4 Plastic Rod",
+        "SUID" : 978,
+        "diffusion_output_rank" : 61,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 285.67458764215206,
+        "y" : 1606.7890283371455
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "977",
+        "shared_name" : "Node 53",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "plastic", "3d printed" ],
+        "diffusion_input" : 0.0,
+        "name" : "Solenoid #3 Rod Holder",
+        "SUID" : 977,
+        "diffusion_output_rank" : 60,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 985.4816385521052,
+        "y" : -425.340586193483
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "976",
+        "shared_name" : "Node 53",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "plastic", "3d printed" ],
+        "diffusion_input" : 0.0,
+        "name" : "Solenoid #3 Rod Holder",
+        "SUID" : 976,
+        "diffusion_output_rank" : 59,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 944.5117000684268,
+        "y" : -520.938505048561
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "975",
+        "shared_name" : "Node 54",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "metal" ],
+        "diffusion_input" : 0.0,
+        "name" : "Tin Foil",
+        "SUID" : 975,
+        "diffusion_output_rank" : 58,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1665.1495224975515,
+        "y" : -1077.8519859344258
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "974",
+        "shared_name" : "Node 48",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "metal", "instrument" ],
+        "diffusion_input" : 0.0,
+        "name" : "Solenoid #3 Crotale",
+        "SUID" : 974,
+        "diffusion_output_rank" : 65,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1365.6034483845096,
+        "y" : -896.8211888763998
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "973",
+        "shared_name" : "Node 49",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "wood" ],
+        "diffusion_input" : 0.0,
+        "name" : "Solenoid #3 Base",
+        "SUID" : 973,
+        "diffusion_output_rank" : 64,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 494.53384327005756,
+        "y" : -302.9478438010057
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "972",
+        "shared_name" : "Node 50",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "plastic", "3d printed" ],
+        "diffusion_input" : 0.0,
+        "name" : "Solenoid #3 Crotale Holder",
+        "SUID" : 972,
+        "diffusion_output_rank" : 63,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 894.8881890640157,
+        "y" : -612.3442220709306
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "971",
+        "shared_name" : "Node 51",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "metal" ],
+        "diffusion_input" : 0.0,
+        "name" : "Solenoid #3 Metal Rod",
+        "SUID" : 971,
+        "diffusion_output_rank" : 62,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1439.4873425466326,
+        "y" : -760.7282324208717
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "970",
+        "shared_name" : "Node 52",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "plastic" ],
+        "diffusion_input" : 0.0,
+        "name" : "Solenoid #3 Plastic Rod",
+        "SUID" : 970,
+        "diffusion_output_rank" : 61,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1500.487028733443,
+        "y" : -618.3935532366448
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "969",
+        "shared_name" : "Node 53",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "plastic", "3d printed" ],
+        "diffusion_input" : 0.0,
+        "name" : "Solenoid #2 Rod Holder",
+        "SUID" : 969,
+        "diffusion_output_rank" : 60,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 883.8625089134827,
+        "y" : 569.2903321360627
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "968",
+        "shared_name" : "Node 53",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "plastic", "3d printed" ],
+        "diffusion_input" : 0.0,
+        "name" : "Solenoid #2 Rod Holder",
+        "SUID" : 968,
+        "diffusion_output_rank" : 59,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1024.6721519388125,
+        "y" : 237.54610198926957
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "967",
+        "shared_name" : "Node 54",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "metal" ],
+        "diffusion_input" : 0.0,
+        "name" : "Tin Foil",
+        "SUID" : 967,
+        "diffusion_output_rank" : 58,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1538.2830264555569,
+        "y" : 1202.6980069614985
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "966",
+        "shared_name" : "Node 48",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "metal", "instrument" ],
+        "diffusion_input" : 0.0,
+        "name" : "Solenoid #2 Crotale",
+        "SUID" : 966,
+        "diffusion_output_rank" : 65,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1260.664494868292,
+        "y" : 989.5596694449204
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "965",
+        "shared_name" : "Node 49",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "wood" ],
+        "diffusion_input" : 0.0,
+        "name" : "Solenoid #2 Base",
+        "SUID" : 965,
+        "diffusion_output_rank" : 64,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 522.7228619051236,
+        "y" : 173.85441244243538
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "964",
+        "shared_name" : "Node 50",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "plastic", "3d printed" ],
+        "diffusion_input" : 0.0,
+        "name" : "Solenoid #2 Crotale Holder",
+        "SUID" : 964,
+        "diffusion_output_rank" : 63,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 824.4068023740186,
+        "y" : 654.627996204583
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "963",
+        "shared_name" : "Node 51",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "metal" ],
+        "diffusion_input" : 0.0,
+        "name" : "Solenoid #2 Metal Rod",
+        "SUID" : 963,
+        "diffusion_output_rank" : 62,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1412.5960588586222,
+        "y" : 752.8938423443407
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "962",
+        "shared_name" : "Node 52",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "plastic" ],
+        "diffusion_input" : 0.0,
+        "name" : "Solenoid #2 Plastic Rod",
+        "SUID" : 962,
+        "diffusion_output_rank" : 61,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1349.1874357159381,
+        "y" : 862.501369609568
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "961",
+        "shared_name" : "Node 10",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "place" ],
+        "diffusion_input" : 0.0,
+        "name" : "WC",
+        "SUID" : 961,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 71.31992366568198,
+        "y" : 1638.7415184762162
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "960",
+        "shared_name" : "Node 9",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "tissue" ],
+        "diffusion_input" : 0.0,
+        "name" : "Large Black Curtain",
+        "SUID" : 960,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -15.976387655670358,
+        "y" : 592.3766901158182
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "959",
+        "shared_name" : "Node 69",
+        "diffusion_output_heat" : 3.06050863321E-11,
+        "subtype" : [ "metal", "wood" ],
+        "diffusion_input" : 0.0,
+        "name" : "Stage E",
+        "SUID" : 959,
+        "diffusion_output_rank" : 21,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -581.7972129955941,
+        "y" : 325.31316325694127
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "958",
+        "shared_name" : "Node 69",
+        "diffusion_output_heat" : 3.06050863321E-11,
+        "subtype" : [ "metal", "wood" ],
+        "diffusion_input" : 0.0,
+        "name" : "Stage D",
+        "SUID" : 958,
+        "diffusion_output_rank" : 21,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -238.72405068845035,
+        "y" : 570.7536629770176
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "957",
+        "shared_name" : "Node 69",
+        "diffusion_output_heat" : 3.06050863321E-11,
+        "subtype" : [ "metal", "wood" ],
+        "diffusion_input" : 0.0,
+        "name" : "Stage B",
+        "SUID" : 957,
+        "diffusion_output_rank" : 21,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -125.51862599866709,
+        "y" : 591.8824518759942
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "956",
+        "shared_name" : "Node 69",
+        "diffusion_output_heat" : 3.06050863321E-11,
+        "subtype" : [ "metal", "wood" ],
+        "diffusion_input" : 0.0,
+        "name" : "Stage A",
+        "SUID" : 956,
+        "diffusion_output_rank" : 21,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -511.788361494516,
+        "y" : 409.5658009849751
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "955",
+        "shared_name" : "Node 8",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "place", "venue" ],
+        "diffusion_input" : 0.0,
+        "name" : "Reception Area",
+        "SUID" : 955,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 25.593284402116467,
+        "y" : 1090.645656001722
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "954",
+        "shared_name" : "Node 7",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "place", "venue" ],
+        "diffusion_input" : 0.0,
+        "name" : "Performance Area",
+        "SUID" : 954,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -67.93847772790389,
+        "y" : -30.45951724156169
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "953",
+        "shared_name" : "Node 15",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "harware", "instrument", "metal" ],
+        "diffusion_input" : 0.0,
+        "name" : "Kick Drum Hoops",
+        "SUID" : 953,
+        "diffusion_output_rank" : 86,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 461.549901368159,
+        "y" : -1985.0098635878062
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "952",
+        "shared_name" : "Node 6",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "metal" ],
+        "diffusion_input" : 0.0,
+        "name" : "Kick Pedal Rod",
+        "SUID" : 952,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1855.395234242903,
+        "y" : 921.1829280018603
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "951",
+        "shared_name" : "Node 48",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "metal", "instrument" ],
+        "diffusion_input" : 0.0,
+        "name" : "Crotale",
+        "SUID" : 951,
+        "diffusion_output_rank" : 50,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -772.6321289118417,
+        "y" : -1550.0094038793945
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "950",
+        "shared_name" : "Node 5",
+        "diffusion_output_heat" : 2.18534948339E-9,
+        "subtype" : [ "max", "software" ],
+        "diffusion_input" : 0.0,
+        "name" : "Max Patch",
+        "SUID" : 950,
+        "diffusion_output_rank" : 10,
+        "type" : [ "Digital" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1861.3028021567707,
+        "y" : 584.8884200987236
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "949",
+        "shared_name" : "Node 4",
+        "diffusion_output_heat" : 2.15437219178E-9,
+        "subtype" : [ "dac", "adc", "metal", "electrical" ],
+        "diffusion_input" : 0.0,
+        "name" : "Audio Interface",
+        "SUID" : 949,
+        "diffusion_output_rank" : 11,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1955.5195214440814,
+        "y" : 48.55140343973812
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "948",
+        "shared_name" : "Node 3",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "metal", "instrument" ],
+        "diffusion_input" : 0.0,
+        "name" : "Metal Bowl",
+        "SUID" : 948,
+        "diffusion_output_rank" : 93,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -948.5374845038341,
+        "y" : -1455.2999957742447
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "947",
+        "shared_name" : "Node 3",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "metal", "instrument" ],
+        "diffusion_input" : 0.0,
+        "name" : "Metal Bowl",
+        "SUID" : 947,
+        "diffusion_output_rank" : 92,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1111.9155187061297,
+        "y" : -1340.3209365949024
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "946",
+        "shared_name" : "Node 2",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "metal", "instrument" ],
+        "diffusion_input" : 0.0,
+        "name" : "Flexible Metal Strip",
+        "SUID" : 946,
+        "diffusion_output_rank" : 91,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1328.4665790889694,
+        "y" : -1133.4980050918577
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "945",
+        "shared_name" : "Flexible Metal Board",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "metal", "instrument" ],
+        "diffusion_input" : 0.0,
+        "name" : "Flexible Metal Board",
+        "SUID" : 945,
+        "diffusion_output_rank" : 90,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1260.4420304615833,
+        "y" : -1206.707907981185
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "944",
+        "shared_name" : "Node 1",
+        "diffusion_output_heat" : 2.12416846595E-9,
+        "subtype" : [ "Human", "performer", "instrument maker" ],
+        "diffusion_input" : 0.0,
+        "name" : "Rodrigo Constanzo",
+        "SUID" : 944,
+        "diffusion_output_rank" : 13,
+        "type" : [ "Biologocal" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -647.6511564116491,
+        "y" : -1601.9423234387268
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "943",
+        "shared_name" : "Node 2",
+        "diffusion_output_heat" : 1.28128735888E-7,
+        "subtype" : [ "hardware", "instrument", "tool" ],
+        "diffusion_input" : 0.0,
+        "name" : "Macbook Pro",
+        "SUID" : 943,
+        "diffusion_output_rank" : 8,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1569.8551890263352,
+        "y" : 320.62011067738337
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "942",
+        "shared_name" : "Node 4",
+        "diffusion_output_heat" : 3.8519226924E-13,
+        "subtype" : [ "hardware", "instrument", "plastic" ],
+        "diffusion_input" : 0.0,
+        "name" : "Snare Head Top",
+        "SUID" : 942,
+        "diffusion_output_rank" : 30,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1673.6575590237744,
+        "y" : -507.2102193515279
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "941",
+        "shared_name" : "Node 5",
+        "diffusion_output_heat" : 8.47512192227E-15,
+        "subtype" : [ "harware", "instrument", "metal" ],
+        "diffusion_input" : 0.0,
+        "name" : "Snare Hoops",
+        "SUID" : 941,
+        "diffusion_output_rank" : 35,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2080.7375501218303,
+        "y" : 191.49744743886595
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "940",
+        "shared_name" : "Node 6",
+        "diffusion_output_heat" : 4.34263853898E-15,
+        "subtype" : [ "instrument", "wood", "hardware" ],
+        "diffusion_input" : 0.0,
+        "name" : "Snare Shell",
+        "SUID" : 940,
+        "diffusion_output_rank" : 36,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1727.7726625177506,
+        "y" : 194.43040917361822
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "939",
+        "shared_name" : "Node 7",
+        "diffusion_output_heat" : 4.17194570831E-17,
+        "subtype" : [ "instrument", "hardware", "metal" ],
+        "diffusion_input" : 0.0,
+        "name" : "Snare Tuning Bolts",
+        "SUID" : 939,
+        "diffusion_output_rank" : 45,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2758.632904938717,
+        "y" : 648.3545216355636
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "938",
+        "shared_name" : "Node 8",
+        "diffusion_output_heat" : 4.09888059674E-15,
+        "subtype" : [ "instrument", "metal" ],
+        "diffusion_input" : 0.0,
+        "name" : "Snare Lugs",
+        "SUID" : 938,
+        "diffusion_output_rank" : 37,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2453.4781190836684,
+        "y" : 232.60058904635258
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "937",
+        "shared_name" : "Node 9",
+        "diffusion_output_heat" : 4.35826491475E-17,
+        "subtype" : [ "instrument", "metal" ],
+        "diffusion_input" : 0.0,
+        "name" : "Snare Strainer",
+        "SUID" : 937,
+        "diffusion_output_rank" : 44,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1982.6173868932437,
+        "y" : 628.8049780844218
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "936",
+        "shared_name" : "Node 10",
+        "diffusion_output_heat" : 1.17575319621E-18,
+        "subtype" : [ "insturment", "metal" ],
+        "diffusion_input" : 0.0,
+        "name" : "Snare",
+        "SUID" : 936,
+        "diffusion_output_rank" : 46,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2337.1875552571955,
+        "y" : 750.8909957373817
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "935",
+        "shared_name" : "Node 11",
+        "diffusion_output_heat" : 8.52338595711E-17,
+        "subtype" : [ "hardware", "instrument", "plastic" ],
+        "diffusion_input" : 0.0,
+        "name" : "Snare Head Bottom",
+        "SUID" : 935,
+        "diffusion_output_rank" : 43,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2370.2121324392506,
+        "y" : 647.4313433120071
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "934",
+        "shared_name" : "Node 12",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "instrument", "wood", "hardware" ],
+        "diffusion_input" : 0.0,
+        "name" : "Kick Drum Shell",
+        "SUID" : 934,
+        "diffusion_output_rank" : 89,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -492.01598049582816,
+        "y" : -1650.8863966921963
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "933",
+        "shared_name" : "Node 13",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "hardware", "instrument", "plastic" ],
+        "diffusion_input" : 0.0,
+        "name" : "Kick Drum Head (Batter-side)",
+        "SUID" : 933,
+        "diffusion_output_rank" : 88,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 455.86903041627204,
+        "y" : -2372.600779935123
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "932",
+        "shared_name" : "Node 14",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "hardware", "instrument", "plastic" ],
+        "diffusion_input" : 0.0,
+        "name" : "Kick Drum Head (Front)",
+        "SUID" : 932,
+        "diffusion_output_rank" : 87,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 370.0333914009382,
+        "y" : -1647.1863469353689
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "931",
+        "shared_name" : "Node 16",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "harware", "instrument", "metal" ],
+        "diffusion_input" : 0.0,
+        "name" : "Kick Drum Tuning Bolts",
+        "SUID" : 931,
+        "diffusion_output_rank" : 85,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 559.6033049044659,
+        "y" : -2346.9636314297036
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "930",
+        "shared_name" : "Node 17",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "harware", "instrument", "metal" ],
+        "diffusion_input" : 0.0,
+        "name" : "Kick Drum Lugs",
+        "SUID" : 930,
+        "diffusion_output_rank" : 84,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 657.6567084407749,
+        "y" : -2708.9173992716005
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "929",
+        "shared_name" : "Node 18",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "harware", "instrument", "metal" ],
+        "diffusion_input" : 0.0,
+        "name" : "Kick Drum Legs",
+        "SUID" : 929,
+        "diffusion_output_rank" : 83,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -352.7666512287486,
+        "y" : -1118.8059288128834
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "928",
+        "shared_name" : "Node 19",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "harware", "instrument", "metal" ],
+        "diffusion_input" : 0.0,
+        "name" : "Kick Drum Pipe Clamp",
+        "SUID" : 928,
+        "diffusion_output_rank" : 82,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -815.7569559032386,
+        "y" : -1912.3183120770102
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "927",
+        "shared_name" : "Node 20",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "plastic", "felt", "instrument" ],
+        "diffusion_input" : 0.0,
+        "name" : "Kick Pedal Head",
+        "SUID" : 927,
+        "diffusion_output_rank" : 81,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2186.4057447086434,
+        "y" : 1097.4130104543458
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "926",
+        "shared_name" : "Node 21",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "metal", "mechanical" ],
+        "diffusion_input" : 0.0,
+        "name" : "Kick Pedal Cam",
+        "SUID" : 926,
+        "diffusion_output_rank" : 80,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1564.0925148498982,
+        "y" : 722.6328391155839
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "925",
+        "shared_name" : "Node 22",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "metal", "mechanical" ],
+        "diffusion_input" : 0.0,
+        "name" : "Kick Pedal Drive",
+        "SUID" : 925,
+        "diffusion_output_rank" : 79,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1900.4485176254475,
+        "y" : 831.2434209423012
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "924",
+        "shared_name" : "Node 23",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "metal", "plastic", "mechanical" ],
+        "diffusion_input" : 0.0,
+        "name" : "Kick Pedal Stand",
+        "SUID" : 924,
+        "diffusion_output_rank" : 78,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1086.995621642011,
+        "y" : 446.14045908829775
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "923",
+        "shared_name" : "Node 24",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "metal", "mechanical" ],
+        "diffusion_input" : 0.0,
+        "name" : "Kick Pedal Footboard",
+        "SUID" : 923,
+        "diffusion_output_rank" : 77,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1619.308290994231,
+        "y" : 601.1073457951251
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "922",
+        "shared_name" : "Node 25",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "adc", "electrical" ],
+        "diffusion_input" : 0.0,
+        "name" : "DDrum Shot Trigger",
+        "SUID" : 922,
+        "diffusion_output_rank" : 76,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1956.9763958051763,
+        "y" : -49.02709501868551
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "921",
+        "shared_name" : "Node 26",
+        "diffusion_output_heat" : 1.32315813408E-7,
+        "subtype" : [ "Body part" ],
+        "diffusion_input" : 0.0,
+        "name" : "Left Hand",
+        "SUID" : 921,
+        "diffusion_output_rank" : 7,
+        "type" : [ "Biological" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1736.5265076949186,
+        "y" : -1177.8212676284206
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "920",
+        "shared_name" : "Node 27",
+        "diffusion_output_heat" : 3.06052931861E-11,
+        "subtype" : [ "Body part" ],
+        "diffusion_input" : 0.0,
+        "name" : "Right Hand",
+        "SUID" : 920,
+        "diffusion_output_rank" : 20,
+        "type" : [ "Biological" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1791.4459017370186,
+        "y" : -1093.5433142140612
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "919",
+        "shared_name" : "Node 28",
+        "diffusion_output_heat" : 3.09860591304E-11,
+        "subtype" : [ "Body part" ],
+        "diffusion_input" : 0.0,
+        "name" : "Left Foot",
+        "SUID" : 919,
+        "diffusion_output_rank" : 16,
+        "type" : [ "Biological" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -721.3809140106154,
+        "y" : -1947.1331938137932
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "918",
+        "shared_name" : "Node 29",
+        "diffusion_output_heat" : 3.09860591304E-11,
+        "subtype" : [ "Body part" ],
+        "diffusion_input" : 0.0,
+        "name" : "Right Foot",
+        "SUID" : 918,
+        "diffusion_output_rank" : 15,
+        "type" : [ "Biological" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1947.9581134507239,
+        "y" : -782.8896929367116
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "917",
+        "shared_name" : "Node 30",
+        "diffusion_output_heat" : 6.70634082717E-6,
+        "subtype" : [ "plastic" ],
+        "diffusion_input" : 0.0,
+        "name" : "Dicer Buttons",
+        "SUID" : 917,
+        "diffusion_output_rank" : 5,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 2323.1926951817545,
+        "y" : 175.67566641149799
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "916",
+        "shared_name" : "Node 31",
+        "diffusion_output_heat" : 2.67153589897E-4,
+        "subtype" : [ "plastic" ],
+        "diffusion_input" : 0.0,
+        "name" : "Dicer Casing",
+        "SUID" : 916,
+        "diffusion_output_rank" : 4,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 2312.0125998362287,
+        "y" : 279.109325508035
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "915",
+        "shared_name" : "Node 32",
+        "diffusion_output_heat" : 6.70628189334E-6,
+        "subtype" : [ "electrical" ],
+        "diffusion_input" : 0.0,
+        "name" : "Dicer PCB",
+        "SUID" : 915,
+        "diffusion_output_rank" : 6,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1945.3347906127751,
+        "y" : 187.154239182155
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "914",
+        "shared_name" : "Node 33",
+        "diffusion_output_heat" : 0.00822120459666,
+        "subtype" : [ "plastic", "3d printed" ],
+        "diffusion_input" : 0.0,
+        "name" : "Dicer Mount Base",
+        "SUID" : 914,
+        "diffusion_output_rank" : 3,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2842.7390585361836,
+        "y" : -63.727170390435006
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "913",
+        "shared_name" : "Node 34",
+        "diffusion_output_heat" : 0.164833268363,
+        "subtype" : [ "metal" ],
+        "diffusion_input" : 0.0,
+        "name" : "Dicer Mount Rods",
+        "SUID" : 913,
+        "diffusion_output_rank" : 2,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -3191.706098059928,
+        "y" : -118.21402803844754
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "912",
+        "shared_name" : "Node 35",
+        "diffusion_output_heat" : 0.913332343573,
+        "subtype" : [ "metal" ],
+        "diffusion_input" : 1.0,
+        "name" : "Dicer Mount Springs",
+        "SUID" : 912,
+        "diffusion_output_rank" : 1,
+        "type" : [ "Physical" ],
+        "selected" : true
+      },
+      "position" : {
+        "x" : -3192.912111155731,
+        "y" : -17.622446669007928
+      },
+      "selected" : true
+    }, {
+      "data" : {
+        "id" : "911",
+        "shared_name" : "Node 36",
+        "diffusion_output_heat" : 0.913332343573,
+        "subtype" : [ "plastic", "3d printed" ],
+        "diffusion_input" : 1.0,
+        "name" : "Dicer Mount Rod Base",
+        "SUID" : 911,
+        "diffusion_output_rank" : 0,
+        "type" : [ "Physical" ],
+        "selected" : true
+      },
+      "position" : {
+        "x" : -2826.2186880455065,
+        "y" : 273.70373065384405
+      },
+      "selected" : true
+    }, {
+      "data" : {
+        "id" : "910",
+        "shared_name" : "Node 37",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "tissue", "plastic" ],
+        "diffusion_input" : 0.0,
+        "name" : "Scrunchies",
+        "SUID" : 910,
+        "diffusion_output_rank" : 75,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2835.2652756200637,
+        "y" : 175.76219274050015
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "909",
+        "shared_name" : "Node 38",
+        "diffusion_output_heat" : 3.85067706193E-13,
+        "subtype" : [ "metal" ],
+        "diffusion_input" : 0.0,
+        "name" : "Snare Drum Mount",
+        "SUID" : 909,
+        "diffusion_output_rank" : 32,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1182.7524824375023,
+        "y" : 120.58595572385764
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "908",
+        "shared_name" : "Node 39",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "metal", "electrical", "adc" ],
+        "diffusion_input" : 0.0,
+        "name" : "Kick Drum Mic",
+        "SUID" : 908,
+        "diffusion_output_rank" : 74,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 226.22173288101993,
+        "y" : -1116.3208207672533
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "907",
+        "shared_name" : "Node 40",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "plastic" ],
+        "diffusion_input" : 0.0,
+        "name" : "Kick Drum Mic Stand",
+        "SUID" : 907,
+        "diffusion_output_rank" : 73,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -254.91591091431619,
+        "y" : -1139.8126798904184
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "906",
+        "shared_name" : "Node 41",
+        "diffusion_output_heat" : 8.51787834827E-15,
+        "subtype" : [ "metal", "electrical", "adc" ],
+        "diffusion_input" : 0.0,
+        "name" : "Snare Drum Mic",
+        "SUID" : 906,
+        "diffusion_output_rank" : 34,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1146.4065174042348,
+        "y" : -350.6652126885539
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "905",
+        "shared_name" : "Node 42",
+        "diffusion_output_heat" : 3.85109747834E-13,
+        "subtype" : [ "plastic" ],
+        "diffusion_input" : 0.0,
+        "name" : "Snare Drum Mic Stand",
+        "SUID" : 905,
+        "diffusion_output_rank" : 31,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1183.4975140683755,
+        "y" : -175.90035208211884
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "904",
+        "shared_name" : "Node 43",
+        "diffusion_output_heat" : 8.64026809156E-17,
+        "subtype" : [ "electrical" ],
+        "diffusion_input" : 0.0,
+        "name" : "BMBS Mixing Table",
+        "SUID" : 904,
+        "diffusion_output_rank" : 42,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 191.42559905832178,
+        "y" : -599.1028814627832
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "903",
+        "shared_name" : "Node 44",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "electrical" ],
+        "diffusion_input" : 0.0,
+        "name" : "Sub Speaker",
+        "SUID" : 903,
+        "diffusion_output_rank" : 72,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 344.45211862806,
+        "y" : -1077.149058622946
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "902",
+        "shared_name" : "Node 44",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "electrical" ],
+        "diffusion_input" : 0.0,
+        "name" : "Sub Speaker",
+        "SUID" : 902,
+        "diffusion_output_rank" : 71,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 536.5929067781285,
+        "y" : -979.2307252507527
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "901",
+        "shared_name" : "Node 45",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "electrical" ],
+        "diffusion_input" : 0.0,
+        "name" : "Speaker",
+        "SUID" : 901,
+        "diffusion_output_rank" : 70,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 439.85694762770544,
+        "y" : -1034.3364051057638
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "900",
+        "shared_name" : "Node 45",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "electrical" ],
+        "diffusion_input" : 0.0,
+        "name" : "Speaker",
+        "SUID" : 900,
+        "diffusion_output_rank" : 69,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 622.0758545940481,
+        "y" : -919.000580552814
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "899",
+        "shared_name" : "Node 46",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "metal" ],
+        "diffusion_input" : 0.0,
+        "name" : "Speaker Stand",
+        "SUID" : 899,
+        "diffusion_output_rank" : 68,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 688.1124889126706,
+        "y" : -1525.120661394929
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "898",
+        "shared_name" : "Node 46",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "metal" ],
+        "diffusion_input" : 0.0,
+        "name" : "Speaker Stand",
+        "SUID" : 898,
+        "diffusion_output_rank" : 67,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 832.1415836477449,
+        "y" : -1443.0744269441348
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "897",
+        "shared_name" : "Node 47",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "electrical" ],
+        "diffusion_input" : 0.0,
+        "name" : "Stage Monitor",
+        "SUID" : 897,
+        "diffusion_output_rank" : 66,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 104.38580557471079,
+        "y" : -1142.1831076111464
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "896",
+        "shared_name" : "Node 48",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "metal", "instrument" ],
+        "diffusion_input" : 0.0,
+        "name" : "Solenoid #1 Crotale",
+        "SUID" : 896,
+        "diffusion_output_rank" : 65,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1548.0811329358921,
+        "y" : -471.0337084398592
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "895",
+        "shared_name" : "Node 49",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "wood" ],
+        "diffusion_input" : 0.0,
+        "name" : "Solenoid #1 Base",
+        "SUID" : 895,
+        "diffusion_output_rank" : 64,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 547.6590366421862,
+        "y" : -138.46275932885607
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "894",
+        "shared_name" : "Node 50",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "plastic", "3d printed" ],
+        "diffusion_input" : 0.0,
+        "name" : "Solenoid #1 Crotale Holder",
+        "SUID" : 894,
+        "diffusion_output_rank" : 63,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1017.4478279418098,
+        "y" : -326.36755610608986
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "893",
+        "shared_name" : "Node 51",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "metal" ],
+        "diffusion_input" : 0.0,
+        "name" : "Solenoid #1 Metal Rod",
+        "SUID" : 893,
+        "diffusion_output_rank" : 62,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1601.5434744826548,
+        "y" : -166.30873970242743
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "892",
+        "shared_name" : "Node 52",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "plastic" ],
+        "diffusion_input" : 0.0,
+        "name" : "Solenoid #1 Plastic Rod",
+        "SUID" : 892,
+        "diffusion_output_rank" : 61,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1581.8628607839373,
+        "y" : -319.90820603551094
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "891",
+        "shared_name" : "Node 53",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "plastic", "3d printed" ],
+        "diffusion_input" : 0.0,
+        "name" : "Solenoid #1 Rod Holder",
+        "SUID" : 891,
+        "diffusion_output_rank" : 60,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1040.1370481382583,
+        "y" : -224.86535299869155
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "890",
+        "shared_name" : "Node 53",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "plastic", "3d printed" ],
+        "diffusion_input" : 0.0,
+        "name" : "Solenoid #1 Rod Holder",
+        "SUID" : 890,
+        "diffusion_output_rank" : 59,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1053.3553707717251,
+        "y" : -121.70153232721754
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "889",
+        "shared_name" : "Node 54",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "metal" ],
+        "diffusion_input" : 0.0,
+        "name" : "Tin Foil",
+        "SUID" : 889,
+        "diffusion_output_rank" : 58,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1885.7568724775806,
+        "y" : -563.0939871977129
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "888",
+        "shared_name" : "Node 55",
+        "diffusion_output_heat" : 3.09817998447E-11,
+        "subtype" : [ "metal", "plastic", "sponge" ],
+        "diffusion_input" : 0.0,
+        "name" : "Stool",
+        "SUID" : 888,
+        "diffusion_output_rank" : 17,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -457.2977395304194,
+        "y" : -1085.9330437918966
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "887",
+        "shared_name" : "Node 56",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "plastic" ],
+        "diffusion_input" : 0.0,
+        "name" : "Expression Pedal Footboard",
+        "SUID" : 887,
+        "diffusion_output_rank" : 57,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1057.8879912650077,
+        "y" : -1270.6771439970248
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "886",
+        "shared_name" : "Node 57",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "electrical" ],
+        "diffusion_input" : 0.0,
+        "name" : "Teensy Microcontroller",
+        "SUID" : 886,
+        "diffusion_output_rank" : 56,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1132.7045582716446,
+        "y" : -1198.398428360541
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "885",
+        "shared_name" : "Node 58",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "plastic" ],
+        "diffusion_input" : 0.0,
+        "name" : "Expression Pedal Casing",
+        "SUID" : 885,
+        "diffusion_output_rank" : 55,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 713.7155558690213,
+        "y" : -839.5589992347569
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "884",
+        "shared_name" : "Node 59",
+        "diffusion_output_heat" : 2.98724034215E-11,
+        "subtype" : [ "metal", "electrical" ],
+        "diffusion_input" : 0.0,
+        "name" : "Linear Potentiometer",
+        "SUID" : 884,
+        "diffusion_output_rank" : 23,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 2293.378195752359,
+        "y" : 398.7066132302034
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "883",
+        "shared_name" : "Node 60",
+        "diffusion_output_heat" : 7.61826214466E-13,
+        "subtype" : [ "plastic", "3d printed" ],
+        "diffusion_input" : 0.0,
+        "name" : "Crossfader Knob",
+        "SUID" : 883,
+        "diffusion_output_rank" : 25,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 662.093601673238,
+        "y" : -2316.7344707511443
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "882",
+        "shared_name" : "Node 61",
+        "diffusion_output_heat" : 7.53557625735E-13,
+        "subtype" : [ "plastic", "3d printed" ],
+        "diffusion_input" : 0.0,
+        "name" : "Plastic Shim",
+        "SUID" : 882,
+        "diffusion_output_rank" : 26,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 2662.3339259836494,
+        "y" : 465.7638211164172
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "881",
+        "shared_name" : "Node 62",
+        "diffusion_output_heat" : 2.09467302281E-9,
+        "subtype" : [ "metal", "electrical" ],
+        "diffusion_input" : 0.0,
+        "name" : "Teensy Microcontroller",
+        "SUID" : 881,
+        "diffusion_output_rank" : 14,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 1908.941644042211,
+        "y" : 408.3684492215787
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "880",
+        "shared_name" : "Node 63",
+        "diffusion_output_heat" : 3.05928512174E-11,
+        "subtype" : [ "adc", "metal", "electrical" ],
+        "diffusion_input" : 0.0,
+        "name" : "Adafruit ADC",
+        "SUID" : 880,
+        "diffusion_output_rank" : 22,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 2271.305859664962,
+        "y" : 506.13710031711537
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "879",
+        "shared_name" : "Node 64",
+        "diffusion_output_heat" : 2.98681514284E-11,
+        "subtype" : [ "plastic", "3d printed" ],
+        "diffusion_input" : 0.0,
+        "name" : "Crossfader Casing",
+        "SUID" : 879,
+        "diffusion_output_rank" : 24,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : 2248.823339040716,
+        "y" : 596.1302084665494
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "878",
+        "shared_name" : "Node 34",
+        "diffusion_output_heat" : 4.09597479453E-15,
+        "subtype" : [ "metal" ],
+        "diffusion_input" : 0.0,
+        "name" : "Crossfader Mount Rods",
+        "SUID" : 878,
+        "diffusion_output_rank" : 40,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -3122.7807511096967,
+        "y" : 627.9960125852898
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "877",
+        "shared_name" : "Node 35",
+        "diffusion_output_heat" : 4.09597479453E-15,
+        "subtype" : [ "metal" ],
+        "diffusion_input" : 0.0,
+        "name" : "Crossfader Mount Springs",
+        "SUID" : 877,
+        "diffusion_output_rank" : 39,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -3142.3918879013495,
+        "y" : 529.3272534782101
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "876",
+        "shared_name" : "Node 36",
+        "diffusion_output_heat" : 1.62301452334E-16,
+        "subtype" : [ "plastic", "3d printed" ],
+        "diffusion_input" : 0.0,
+        "name" : "Crossfader Mount Rod Base",
+        "SUID" : 876,
+        "diffusion_output_rank" : 41,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2789.6983541576315,
+        "y" : 510.510144622422
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "875",
+        "shared_name" : "Node 37",
+        "diffusion_output_heat" : 4.09599907624E-15,
+        "subtype" : [ "tissue", "plastic" ],
+        "diffusion_input" : 0.0,
+        "name" : "Scrunchies",
+        "SUID" : 875,
+        "diffusion_output_rank" : 38,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2813.7068406595367,
+        "y" : 371.26314470787236
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "874",
+        "shared_name" : "Node 33",
+        "diffusion_output_heat" : 3.64639256874E-13,
+        "subtype" : [ "plastic", "3d printed" ],
+        "diffusion_input" : 0.0,
+        "name" : "Crossfader Mount Base",
+        "SUID" : 874,
+        "diffusion_output_rank" : 33,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2840.8352380490282,
+        "y" : 77.5615760717896
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "873",
+        "shared_name" : "Node 65",
+        "diffusion_output_heat" : 3.89323964374E-13,
+        "subtype" : [ "plastic", "3d printed" ],
+        "diffusion_input" : 0.0,
+        "name" : "Cable Clip",
+        "SUID" : 873,
+        "diffusion_output_rank" : 29,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2462.602784750936,
+        "y" : -190.40593536307168
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "872",
+        "shared_name" : "Node 66",
+        "diffusion_output_heat" : 2.21479511615E-9,
+        "subtype" : [ "plastic", "3d printed" ],
+        "diffusion_input" : 0.0,
+        "name" : "Condenser Mic Casing",
+        "SUID" : 872,
+        "diffusion_output_rank" : 9,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2397.25305804232,
+        "y" : -608.6407915272963
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "871",
+        "shared_name" : "Node 67",
+        "diffusion_output_heat" : 3.09734509138E-11,
+        "subtype" : [ "electrical", "adc" ],
+        "diffusion_input" : 0.0,
+        "name" : "Condenser Mic",
+        "SUID" : 871,
+        "diffusion_output_rank" : 19,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2022.6421050251774,
+        "y" : -559.3817510632085
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "870",
+        "shared_name" : "Node 68",
+        "diffusion_output_heat" : 3.09815960022E-11,
+        "subtype" : [ "metal", "plastic" ],
+        "diffusion_input" : 0.0,
+        "name" : "Condenser Mic Cable",
+        "SUID" : 870,
+        "diffusion_output_rank" : 18,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2370.977823588006,
+        "y" : -705.7444729604596
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "869",
+        "shared_name" : "Node 69",
+        "diffusion_output_heat" : 3.06050863321E-11,
+        "subtype" : [ "metal", "wood" ],
+        "diffusion_input" : 0.0,
+        "name" : "Stage C",
+        "SUID" : 869,
+        "diffusion_output_rank" : 21,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -626.8748593185821,
+        "y" : -310.12918190743085
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "868",
+        "shared_name" : "Node 70",
+        "diffusion_output_heat" : 2.15436797717E-9,
+        "subtype" : [ "wood" ],
+        "diffusion_input" : 0.0,
+        "name" : "Table",
+        "SUID" : 868,
+        "diffusion_output_rank" : 12,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -862.6504739106839,
+        "y" : -826.7370085240799
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "867",
+        "shared_name" : "Node 71",
+        "diffusion_output_heat" : 3.93458268749E-13,
+        "subtype" : [ "felt" ],
+        "diffusion_input" : 0.0,
+        "name" : "Felt Pad",
+        "SUID" : 867,
+        "diffusion_output_rank" : 28,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -2053.955288583954,
+        "y" : -425.88615645187497
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "866",
+        "shared_name" : "Node 48",
+        "diffusion_output_heat" : 3.93458268749E-13,
+        "subtype" : [ "metal", "instrument" ],
+        "diffusion_input" : 0.0,
+        "name" : "Crotale",
+        "SUID" : 866,
+        "diffusion_output_rank" : 27,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1982.3664987389916,
+        "y" : -690.452208388646
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "865",
+        "shared_name" : "Node 72",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "plastic" ],
+        "diffusion_input" : 0.0,
+        "name" : "Bow",
+        "SUID" : 865,
+        "diffusion_output_rank" : 54,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1031.9422572379708,
+        "y" : -1400.2484473655816
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "864",
+        "shared_name" : "Node 73",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "tissue" ],
+        "diffusion_input" : 0.0,
+        "name" : "Black Table Cloth",
+        "SUID" : 864,
+        "diffusion_output_rank" : 53,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1188.1725924853154,
+        "y" : -1275.7307841282907
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "863",
+        "shared_name" : "Node 74",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "metal" ],
+        "diffusion_input" : 0.0,
+        "name" : "Whisk",
+        "SUID" : 863,
+        "diffusion_output_rank" : 52,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -861.9980918887505,
+        "y" : -1505.2796178500148
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "862",
+        "shared_name" : "Node 48",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "metal", "instrument" ],
+        "diffusion_input" : 0.0,
+        "name" : "Crotale",
+        "SUID" : 862,
+        "diffusion_output_rank" : 50,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1392.0040951207984,
+        "y" : -1056.3616767275298
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "861",
+        "shared_name" : "Node 76",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "plastic" ],
+        "diffusion_input" : 0.0,
+        "name" : "Thick Comb",
+        "SUID" : 861,
+        "diffusion_output_rank" : 49,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1586.098620279111,
+        "y" : -738.1422014785711
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "860",
+        "shared_name" : "Node 76",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "plastic" ],
+        "diffusion_input" : 0.0,
+        "name" : "Small Comb",
+        "SUID" : 860,
+        "diffusion_output_rank" : 48,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1541.1930531516628,
+        "y" : -827.4199654401906
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "859",
+        "shared_name" : "Node 76",
+        "diffusion_output_heat" : 0.0,
+        "subtype" : [ "plastic" ],
+        "diffusion_input" : 0.0,
+        "name" : "Small Comb",
+        "SUID" : 859,
+        "diffusion_output_rank" : 47,
+        "type" : [ "Physical" ],
+        "selected" : false
+      },
+      "position" : {
+        "x" : -1471.2750881235515,
+        "y" : -944.9382528736455
+      },
+      "selected" : false
+    } ],
+    "edges" : [ {
+      "data" : {
+        "id" : "1236",
+        "source" : "1011",
+        "target" : "904",
+        "shared_name" : "Pierre Alexandre Tremblay (interacts with) BMBS Mixing Table",
+        "shared_interaction" : "interacts with",
+        "name" : "Pierre Alexandre Tremblay (interacts with) BMBS Mixing Table",
+        "interaction" : "interacts with",
+        "description" : "Tremblay is operating the mixing table.",
+        "SUID" : 1236,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1235",
+        "source" : "1010",
+        "target" : "904",
+        "shared_name" : "Sound Technician (interacts with) BMBS Mixing Table",
+        "shared_interaction" : "interacts with",
+        "name" : "Sound Technician (interacts with) BMBS Mixing Table",
+        "interaction" : "interacts with",
+        "description" : "the sound technician is operating the mixing table",
+        "SUID" : 1235,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1234",
+        "source" : "1006",
+        "target" : "959",
+        "shared_name" : "John Burton (interacts with) Stage E",
+        "shared_interaction" : "interacts with",
+        "name" : "John Burton (interacts with) Stage E",
+        "interaction" : "interacts with",
+        "description" : "Burton is positioned on Stage E.",
+        "SUID" : 1234,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1233",
+        "source" : "1005",
+        "target" : "954",
+        "shared_name" : "Sam Gillies (interacts with) Performance Area",
+        "shared_interaction" : "interacts with",
+        "name" : "Sam Gillies (interacts with) Performance Area",
+        "interaction" : "interacts with",
+        "description" : "Sam Gillies is stood in the center of the performance area.",
+        "SUID" : 1233,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1232",
+        "source" : "1005",
+        "target" : "1003",
+        "shared_name" : "Sam Gillies (interacts with) Camera",
+        "shared_interaction" : "interacts with",
+        "name" : "Sam Gillies (interacts with) Camera",
+        "interaction" : "interacts with",
+        "description" : "Sam Gillies is operating the camera.",
+        "SUID" : 1232,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1231",
+        "source" : "1004",
+        "target" : "954",
+        "shared_name" : "Tripod (interacts with) Performance Area",
+        "shared_interaction" : "interacts with",
+        "name" : "Tripod (interacts with) Performance Area",
+        "interaction" : "interacts with",
+        "description" : "The tripod is place at the center of the performance area.",
+        "SUID" : 1231,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1230",
+        "source" : "1003",
+        "target" : "1004",
+        "shared_name" : "Camera (interacts with) Tripod",
+        "shared_interaction" : "interacts with",
+        "name" : "Camera (interacts with) Tripod",
+        "interaction" : "interacts with",
+        "description" : "The camera is placed on the tripod",
+        "SUID" : 1230,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1229",
+        "source" : "1002",
+        "target" : "954",
+        "shared_name" : "Beanbags (interacts with) Performance Area",
+        "shared_interaction" : "interacts with",
+        "name" : "Beanbags (interacts with) Performance Area",
+        "interaction" : "interacts with",
+        "description" : "Beanbags are placed in the center of the performance area.",
+        "SUID" : 1229,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1228",
+        "source" : "1001",
+        "target" : "904",
+        "shared_name" : "Spot Light (interacts with) BMBS Mixing Table",
+        "shared_interaction" : "interacts with",
+        "name" : "Spot Light (interacts with) BMBS Mixing Table",
+        "interaction" : "interacts with",
+        "description" : "The spot light is controlled at the miwing table.",
+        "SUID" : 1228,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1227",
+        "source" : "1001",
+        "target" : "869",
+        "shared_name" : "Spot Light (interacts with) Stage C",
+        "shared_interaction" : "interacts with",
+        "name" : "Spot Light (interacts with) Stage C",
+        "interaction" : "interacts with",
+        "description" : "The spot light illuminates the stage.",
+        "SUID" : 1227,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1226",
+        "source" : "997",
+        "target" : "995",
+        "shared_name" : "Solenoid #1 Crotale (interacts with) Solenoid #1 Crotale Holder",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Crotale (interacts with) Solenoid #1 Crotale Holder",
+        "interaction" : "interacts with",
+        "description" : "The ctroale is held aloft by the crotale holder in such a way that it can resonate when struck.",
+        "SUID" : 1226,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1225",
+        "source" : "997",
+        "target" : "998",
+        "shared_name" : "Solenoid #1 Crotale (interacts with) Tin Foil",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Crotale (interacts with) Tin Foil",
+        "interaction" : "interacts with",
+        "description" : "At a point in the performance, the tin foil is placed over the solenoid.",
+        "SUID" : 1225,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1224",
+        "source" : "996",
+        "target" : "954",
+        "shared_name" : "Solenoid #1 Base (interacts with) Performance Area",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Base (interacts with) Performance Area",
+        "interaction" : "interacts with",
+        "description" : "The solenoid is positioned around the performance area.",
+        "SUID" : 1224,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1223",
+        "source" : "996",
+        "target" : "1000",
+        "shared_name" : "Solenoid #1 Base (interacts with) Solenoid #1 Rod Holder",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Base (interacts with) Solenoid #1 Rod Holder",
+        "interaction" : "interacts with",
+        "description" : "The rod holder is fixed to the solenoid base.",
+        "SUID" : 1223,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1222",
+        "source" : "996",
+        "target" : "999",
+        "shared_name" : "Solenoid #1 Base (interacts with) Solenoid #1 Rod Holder",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Base (interacts with) Solenoid #1 Rod Holder",
+        "interaction" : "interacts with",
+        "description" : "The rod holder is fixed to the solenoid base.",
+        "SUID" : 1222,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1221",
+        "source" : "996",
+        "target" : "995",
+        "shared_name" : "Solenoid #1 Base (interacts with) Solenoid #1 Crotale Holder",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Base (interacts with) Solenoid #1 Crotale Holder",
+        "interaction" : "interacts with",
+        "description" : "The crotale holder is fixed to the solenoid base.",
+        "SUID" : 1221,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1220",
+        "source" : "994",
+        "target" : "999",
+        "shared_name" : "Solenoid #1 Metal Rod (interacts with) Solenoid #1 Rod Holder",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Metal Rod (interacts with) Solenoid #1 Rod Holder",
+        "interaction" : "interacts with",
+        "description" : "The metal rod is encased and pushed up and down by the rod holder.",
+        "SUID" : 1220,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1219",
+        "source" : "994",
+        "target" : "997",
+        "shared_name" : "Solenoid #1 Metal Rod (interacts with) Solenoid #1 Crotale",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Metal Rod (interacts with) Solenoid #1 Crotale",
+        "interaction" : "interacts with",
+        "description" : "The metal rod strikes the crotale to make it resonate.",
+        "SUID" : 1219,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1218",
+        "source" : "993",
+        "target" : "1000",
+        "shared_name" : "Solenoid #1 Plastic Rod (interacts with) Solenoid #1 Rod Holder",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Plastic Rod (interacts with) Solenoid #1 Rod Holder",
+        "interaction" : "interacts with",
+        "description" : "The plastic rod is encased and pushed up and down by the rod holder.",
+        "SUID" : 1218,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1217",
+        "source" : "993",
+        "target" : "997",
+        "shared_name" : "Solenoid #1 Plastic Rod (interacts with) Solenoid #1 Crotale",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Plastic Rod (interacts with) Solenoid #1 Crotale",
+        "interaction" : "interacts with",
+        "description" : "Stage C is positioned at the back left of the performance area (from the entrance).",
+        "SUID" : 1217,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1216",
+        "source" : "989",
+        "target" : "988",
+        "shared_name" : "Solenoid #1 Crotale (interacts with) Solenoid #1 Crotale Holder",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Crotale (interacts with) Solenoid #1 Crotale Holder",
+        "interaction" : "interacts with",
+        "description" : "The ctroale is held aloft by the crotale holder in such a way that it can resonate when struck.",
+        "SUID" : 1216,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1215",
+        "source" : "989",
+        "target" : "990",
+        "shared_name" : "Solenoid #1 Crotale (interacts with) Tin Foil",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Crotale (interacts with) Tin Foil",
+        "interaction" : "interacts with",
+        "description" : "At a point in the performance, the tin foil is placed over the solenoid.",
+        "SUID" : 1215,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1214",
+        "source" : "987",
+        "target" : "991",
+        "shared_name" : "Solenoid #1 Metal Rod (interacts with) Solenoid #1 Rod Holder",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Metal Rod (interacts with) Solenoid #1 Rod Holder",
+        "interaction" : "interacts with",
+        "description" : "The metal rod is encased and pushed up and down by the rod holder.",
+        "SUID" : 1214,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1213",
+        "source" : "987",
+        "target" : "989",
+        "shared_name" : "Solenoid #1 Metal Rod (interacts with) Solenoid #1 Crotale",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Metal Rod (interacts with) Solenoid #1 Crotale",
+        "interaction" : "interacts with",
+        "description" : "The metal rod strikes the crotale to make it resonate.",
+        "SUID" : 1213,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1212",
+        "source" : "986",
+        "target" : "992",
+        "shared_name" : "Solenoid #1 Plastic Rod (interacts with) Solenoid #1 Rod Holder",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Plastic Rod (interacts with) Solenoid #1 Rod Holder",
+        "interaction" : "interacts with",
+        "description" : "The plastic rod is encased and pushed up and down by the rod holder.",
+        "SUID" : 1212,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1211",
+        "source" : "986",
+        "target" : "989",
+        "shared_name" : "Solenoid #1 Plastic Rod (interacts with) Solenoid #1 Crotale",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Plastic Rod (interacts with) Solenoid #1 Crotale",
+        "interaction" : "interacts with",
+        "description" : "Stage C is positioned at the back left of the performance area (from the entrance).",
+        "SUID" : 1211,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1210",
+        "source" : "982",
+        "target" : "980",
+        "shared_name" : "Solenoid #1 Crotale (interacts with) Solenoid #1 Crotale Holder",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Crotale (interacts with) Solenoid #1 Crotale Holder",
+        "interaction" : "interacts with",
+        "description" : "The ctroale is held aloft by the crotale holder in such a way that it can resonate when struck.",
+        "SUID" : 1210,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1209",
+        "source" : "982",
+        "target" : "983",
+        "shared_name" : "Solenoid #1 Crotale (interacts with) Tin Foil",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Crotale (interacts with) Tin Foil",
+        "interaction" : "interacts with",
+        "description" : "At a point in the performance, the tin foil is placed over the solenoid.",
+        "SUID" : 1209,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1208",
+        "source" : "981",
+        "target" : "954",
+        "shared_name" : "Solenoid #1 Base (interacts with) Performance Area",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Base (interacts with) Performance Area",
+        "interaction" : "interacts with",
+        "description" : "The solenoid is positioned around the performance area.",
+        "SUID" : 1208,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1207",
+        "source" : "981",
+        "target" : "985",
+        "shared_name" : "Solenoid #1 Base (interacts with) Solenoid #1 Rod Holder",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Base (interacts with) Solenoid #1 Rod Holder",
+        "interaction" : "interacts with",
+        "description" : "The rod holder is fixed to the solenoid base.",
+        "SUID" : 1207,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1206",
+        "source" : "981",
+        "target" : "984",
+        "shared_name" : "Solenoid #1 Base (interacts with) Solenoid #1 Rod Holder",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Base (interacts with) Solenoid #1 Rod Holder",
+        "interaction" : "interacts with",
+        "description" : "The rod holder is fixed to the solenoid base.",
+        "SUID" : 1206,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1205",
+        "source" : "981",
+        "target" : "980",
+        "shared_name" : "Solenoid #1 Base (interacts with) Solenoid #1 Crotale Holder",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Base (interacts with) Solenoid #1 Crotale Holder",
+        "interaction" : "interacts with",
+        "description" : "The crotale holder is fixed to the solenoid base.",
+        "SUID" : 1205,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1204",
+        "source" : "979",
+        "target" : "984",
+        "shared_name" : "Solenoid #1 Metal Rod (interacts with) Solenoid #1 Rod Holder",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Metal Rod (interacts with) Solenoid #1 Rod Holder",
+        "interaction" : "interacts with",
+        "description" : "The metal rod is encased and pushed up and down by the rod holder.",
+        "SUID" : 1204,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1203",
+        "source" : "979",
+        "target" : "982",
+        "shared_name" : "Solenoid #1 Metal Rod (interacts with) Solenoid #1 Crotale",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Metal Rod (interacts with) Solenoid #1 Crotale",
+        "interaction" : "interacts with",
+        "description" : "The metal rod strikes the crotale to make it resonate.",
+        "SUID" : 1203,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1202",
+        "source" : "978",
+        "target" : "985",
+        "shared_name" : "Solenoid #1 Plastic Rod (interacts with) Solenoid #1 Rod Holder",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Plastic Rod (interacts with) Solenoid #1 Rod Holder",
+        "interaction" : "interacts with",
+        "description" : "The plastic rod is encased and pushed up and down by the rod holder.",
+        "SUID" : 1202,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1201",
+        "source" : "978",
+        "target" : "982",
+        "shared_name" : "Solenoid #1 Plastic Rod (interacts with) Solenoid #1 Crotale",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Plastic Rod (interacts with) Solenoid #1 Crotale",
+        "interaction" : "interacts with",
+        "description" : "Stage C is positioned at the back left of the performance area (from the entrance).",
+        "SUID" : 1201,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1200",
+        "source" : "974",
+        "target" : "972",
+        "shared_name" : "Solenoid #1 Crotale (interacts with) Solenoid #1 Crotale Holder",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Crotale (interacts with) Solenoid #1 Crotale Holder",
+        "interaction" : "interacts with",
+        "description" : "The ctroale is held aloft by the crotale holder in such a way that it can resonate when struck.",
+        "SUID" : 1200,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1199",
+        "source" : "974",
+        "target" : "975",
+        "shared_name" : "Solenoid #1 Crotale (interacts with) Tin Foil",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Crotale (interacts with) Tin Foil",
+        "interaction" : "interacts with",
+        "description" : "At a point in the performance, the tin foil is placed over the solenoid.",
+        "SUID" : 1199,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1198",
+        "source" : "973",
+        "target" : "954",
+        "shared_name" : "Solenoid #1 Base (interacts with) Performance Area",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Base (interacts with) Performance Area",
+        "interaction" : "interacts with",
+        "description" : "The solenoid is positioned around the performance area.",
+        "SUID" : 1198,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1197",
+        "source" : "973",
+        "target" : "977",
+        "shared_name" : "Solenoid #1 Base (interacts with) Solenoid #1 Rod Holder",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Base (interacts with) Solenoid #1 Rod Holder",
+        "interaction" : "interacts with",
+        "description" : "The rod holder is fixed to the solenoid base.",
+        "SUID" : 1197,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1196",
+        "source" : "973",
+        "target" : "976",
+        "shared_name" : "Solenoid #1 Base (interacts with) Solenoid #1 Rod Holder",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Base (interacts with) Solenoid #1 Rod Holder",
+        "interaction" : "interacts with",
+        "description" : "The rod holder is fixed to the solenoid base.",
+        "SUID" : 1196,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1195",
+        "source" : "973",
+        "target" : "972",
+        "shared_name" : "Solenoid #1 Base (interacts with) Solenoid #1 Crotale Holder",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Base (interacts with) Solenoid #1 Crotale Holder",
+        "interaction" : "interacts with",
+        "description" : "The crotale holder is fixed to the solenoid base.",
+        "SUID" : 1195,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1194",
+        "source" : "971",
+        "target" : "976",
+        "shared_name" : "Solenoid #1 Metal Rod (interacts with) Solenoid #1 Rod Holder",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Metal Rod (interacts with) Solenoid #1 Rod Holder",
+        "interaction" : "interacts with",
+        "description" : "The metal rod is encased and pushed up and down by the rod holder.",
+        "SUID" : 1194,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1193",
+        "source" : "971",
+        "target" : "974",
+        "shared_name" : "Solenoid #1 Metal Rod (interacts with) Solenoid #1 Crotale",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Metal Rod (interacts with) Solenoid #1 Crotale",
+        "interaction" : "interacts with",
+        "description" : "The metal rod strikes the crotale to make it resonate.",
+        "SUID" : 1193,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1192",
+        "source" : "970",
+        "target" : "977",
+        "shared_name" : "Solenoid #1 Plastic Rod (interacts with) Solenoid #1 Rod Holder",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Plastic Rod (interacts with) Solenoid #1 Rod Holder",
+        "interaction" : "interacts with",
+        "description" : "The plastic rod is encased and pushed up and down by the rod holder.",
+        "SUID" : 1192,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1191",
+        "source" : "970",
+        "target" : "974",
+        "shared_name" : "Solenoid #1 Plastic Rod (interacts with) Solenoid #1 Crotale",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Plastic Rod (interacts with) Solenoid #1 Crotale",
+        "interaction" : "interacts with",
+        "description" : "Stage C is positioned at the back left of the performance area (from the entrance).",
+        "SUID" : 1191,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1190",
+        "source" : "966",
+        "target" : "964",
+        "shared_name" : "Solenoid #1 Crotale (interacts with) Solenoid #1 Crotale Holder",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Crotale (interacts with) Solenoid #1 Crotale Holder",
+        "interaction" : "interacts with",
+        "description" : "The ctroale is held aloft by the crotale holder in such a way that it can resonate when struck.",
+        "SUID" : 1190,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1189",
+        "source" : "966",
+        "target" : "967",
+        "shared_name" : "Solenoid #1 Crotale (interacts with) Tin Foil",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Crotale (interacts with) Tin Foil",
+        "interaction" : "interacts with",
+        "description" : "At a point in the performance, the tin foil is placed over the solenoid.",
+        "SUID" : 1189,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1188",
+        "source" : "965",
+        "target" : "954",
+        "shared_name" : "Solenoid #1 Base (interacts with) Performance Area",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Base (interacts with) Performance Area",
+        "interaction" : "interacts with",
+        "description" : "The solenoid is positioned around the performance area.",
+        "SUID" : 1188,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1187",
+        "source" : "965",
+        "target" : "969",
+        "shared_name" : "Solenoid #1 Base (interacts with) Solenoid #1 Rod Holder",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Base (interacts with) Solenoid #1 Rod Holder",
+        "interaction" : "interacts with",
+        "description" : "The rod holder is fixed to the solenoid base.",
+        "SUID" : 1187,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1186",
+        "source" : "965",
+        "target" : "968",
+        "shared_name" : "Solenoid #1 Base (interacts with) Solenoid #1 Rod Holder",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Base (interacts with) Solenoid #1 Rod Holder",
+        "interaction" : "interacts with",
+        "description" : "The rod holder is fixed to the solenoid base.",
+        "SUID" : 1186,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1185",
+        "source" : "965",
+        "target" : "964",
+        "shared_name" : "Solenoid #1 Base (interacts with) Solenoid #1 Crotale Holder",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Base (interacts with) Solenoid #1 Crotale Holder",
+        "interaction" : "interacts with",
+        "description" : "The crotale holder is fixed to the solenoid base.",
+        "SUID" : 1185,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1184",
+        "source" : "963",
+        "target" : "968",
+        "shared_name" : "Solenoid #1 Metal Rod (interacts with) Solenoid #1 Rod Holder",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Metal Rod (interacts with) Solenoid #1 Rod Holder",
+        "interaction" : "interacts with",
+        "description" : "The metal rod is encased and pushed up and down by the rod holder.",
+        "SUID" : 1184,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1183",
+        "source" : "963",
+        "target" : "966",
+        "shared_name" : "Solenoid #1 Metal Rod (interacts with) Solenoid #1 Crotale",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Metal Rod (interacts with) Solenoid #1 Crotale",
+        "interaction" : "interacts with",
+        "description" : "The metal rod strikes the crotale to make it resonate.",
+        "SUID" : 1183,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1182",
+        "source" : "962",
+        "target" : "969",
+        "shared_name" : "Solenoid #1 Plastic Rod (interacts with) Solenoid #1 Rod Holder",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Plastic Rod (interacts with) Solenoid #1 Rod Holder",
+        "interaction" : "interacts with",
+        "description" : "The plastic rod is encased and pushed up and down by the rod holder.",
+        "SUID" : 1182,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1181",
+        "source" : "962",
+        "target" : "966",
+        "shared_name" : "Solenoid #1 Plastic Rod (interacts with) Solenoid #1 Crotale",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Plastic Rod (interacts with) Solenoid #1 Crotale",
+        "interaction" : "interacts with",
+        "description" : "Stage C is positioned at the back left of the performance area (from the entrance).",
+        "SUID" : 1181,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1180",
+        "source" : "960",
+        "target" : "955",
+        "shared_name" : "Large Black Curtain (interacts with) Reception Area",
+        "shared_interaction" : "interacts with",
+        "name" : "Large Black Curtain (interacts with) Reception Area",
+        "interaction" : "interacts with",
+        "description" : "The reception area is closed-off by a thick, black curtain.",
+        "SUID" : 1180,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1179",
+        "source" : "960",
+        "target" : "954",
+        "shared_name" : "Large Black Curtain (interacts with) Performance Area",
+        "shared_interaction" : "interacts with",
+        "name" : "Large Black Curtain (interacts with) Performance Area",
+        "interaction" : "interacts with",
+        "description" : "The performance are is closed-off by a thick, black curtain.",
+        "SUID" : 1179,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1178",
+        "source" : "958",
+        "target" : "1007",
+        "shared_name" : "Stage D (interacts with) Lauren Sarah Hayes",
+        "shared_interaction" : "interacts with",
+        "name" : "Stage D (interacts with) Lauren Sarah Hayes",
+        "interaction" : "interacts with",
+        "description" : "Hayes is positioned on Stage D.",
+        "SUID" : 1178,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1177",
+        "source" : "958",
+        "target" : "954",
+        "shared_name" : "Stage D (interacts with) Performance Area",
+        "shared_interaction" : "interacts with",
+        "name" : "Stage D (interacts with) Performance Area",
+        "interaction" : "interacts with",
+        "description" : "Stage C is positioned at the back right of the performance area (from the entrance).",
+        "SUID" : 1177,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1176",
+        "source" : "957",
+        "target" : "1008",
+        "shared_name" : "Stage B (interacts with) Owen Green",
+        "shared_interaction" : "interacts with",
+        "name" : "Stage B (interacts with) Owen Green",
+        "interaction" : "interacts with",
+        "description" : "Green is positioned on Stage B.",
+        "SUID" : 1176,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1175",
+        "source" : "956",
+        "target" : "1009",
+        "shared_name" : "Stage A (interacts with) Olivier Pasquet",
+        "shared_interaction" : "interacts with",
+        "name" : "Stage A (interacts with) Olivier Pasquet",
+        "interaction" : "interacts with",
+        "description" : "Olivier Pasquet is positioned on Stage A.",
+        "SUID" : 1175,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1174",
+        "source" : "955",
+        "target" : "961",
+        "shared_name" : "Reception Area (interacts with) WC",
+        "shared_interaction" : "interacts with",
+        "name" : "Reception Area (interacts with) WC",
+        "interaction" : "interacts with",
+        "description" : "Access to the toilets is from the reception area.",
+        "SUID" : 1174,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1173",
+        "source" : "954",
+        "target" : "1010",
+        "shared_name" : "Performance Area (interacts with) Sound Technician",
+        "shared_interaction" : "interacts with",
+        "name" : "Performance Area (interacts with) Sound Technician",
+        "interaction" : "interacts with",
+        "description" : "The sound technician is stood behind the mixing table.",
+        "SUID" : 1173,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1172",
+        "source" : "954",
+        "target" : "1011",
+        "shared_name" : "Performance Area (interacts with) Pierre Alexandre Tremblay",
+        "shared_interaction" : "interacts with",
+        "name" : "Performance Area (interacts with) Pierre Alexandre Tremblay",
+        "interaction" : "interacts with",
+        "description" : "Tremblay is stood behing the mixing table.",
+        "SUID" : 1172,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1171",
+        "source" : "954",
+        "target" : "904",
+        "shared_name" : "Performance Area (interacts with) BMBS Mixing Table",
+        "shared_interaction" : "interacts with",
+        "name" : "Performance Area (interacts with) BMBS Mixing Table",
+        "interaction" : "interacts with",
+        "description" : "The mixing table is positioned next to the entrace of the performance area.",
+        "SUID" : 1171,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1170",
+        "source" : "954",
+        "target" : "959",
+        "shared_name" : "Performance Area (interacts with) Stage E",
+        "shared_interaction" : "interacts with",
+        "name" : "Performance Area (interacts with) Stage E",
+        "interaction" : "interacts with",
+        "description" : "Stage C is positioned at the center back of the performance area (from the entrance).",
+        "SUID" : 1170,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1169",
+        "source" : "954",
+        "target" : "957",
+        "shared_name" : "Performance Area (interacts with) Stage B",
+        "shared_interaction" : "interacts with",
+        "name" : "Performance Area (interacts with) Stage B",
+        "interaction" : "interacts with",
+        "description" : "Stage B is positioned at the front right left of the performance area (from the entrance).",
+        "SUID" : 1169,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1168",
+        "source" : "954",
+        "target" : "956",
+        "shared_name" : "Performance Area (interacts with) Stage A",
+        "shared_interaction" : "interacts with",
+        "name" : "Performance Area (interacts with) Stage A",
+        "interaction" : "interacts with",
+        "description" : "Stage A is positioned at the front right of the performance area (from the entrance).",
+        "SUID" : 1168,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1167",
+        "source" : "954",
+        "target" : "869",
+        "shared_name" : "Performance Area (interacts with) Stage C",
+        "shared_interaction" : "interacts with",
+        "name" : "Performance Area (interacts with) Stage C",
+        "interaction" : "interacts with",
+        "description" : "Stage C is positioned at the back left of the performance area (from the entrance).",
+        "SUID" : 1167,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1166",
+        "source" : "952",
+        "target" : "927",
+        "shared_name" : "Kick Pedal Rod (interacts with) Kick Pedal Head",
+        "shared_interaction" : "interacts with",
+        "name" : "Kick Pedal Rod (interacts with) Kick Pedal Head",
+        "interaction" : "interacts with",
+        "description" : "The head is attached to the end of the rod.",
+        "SUID" : 1166,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1165",
+        "source" : "951",
+        "target" : "868",
+        "shared_name" : "Crotale (interacts with) Table",
+        "shared_interaction" : "interacts with",
+        "name" : "Crotale (interacts with) Table",
+        "interaction" : "interacts with",
+        "description" : "The crotale is place on the table.",
+        "SUID" : 1165,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1164",
+        "source" : "950",
+        "target" : "943",
+        "shared_name" : "Max Patch (interacts with) Macbook Pro",
+        "shared_interaction" : "interacts with",
+        "name" : "Max Patch (interacts with) Macbook Pro",
+        "interaction" : "interacts with",
+        "description" : "The max patch is running on the macbook.",
+        "SUID" : 1164,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1163",
+        "source" : "948",
+        "target" : "868",
+        "shared_name" : "Metal Bowl (interacts with) Table",
+        "shared_interaction" : "interacts with",
+        "name" : "Metal Bowl (interacts with) Table",
+        "interaction" : "interacts with",
+        "description" : "The bowl is placed on the table.",
+        "SUID" : 1163,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1162",
+        "source" : "947",
+        "target" : "868",
+        "shared_name" : "Metal Bowl (interacts with) Table",
+        "shared_interaction" : "interacts with",
+        "name" : "Metal Bowl (interacts with) Table",
+        "interaction" : "interacts with",
+        "description" : "The bowl is placed on the table.",
+        "SUID" : 1162,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1161",
+        "source" : "946",
+        "target" : "868",
+        "shared_name" : "Flexible Metal Strip (interacts with) Table",
+        "shared_interaction" : "interacts with",
+        "name" : "Flexible Metal Strip (interacts with) Table",
+        "interaction" : "interacts with",
+        "description" : "The strip is placed on the table.",
+        "SUID" : 1161,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1160",
+        "source" : "943",
+        "target" : "1000",
+        "shared_name" : "Macbook Pro (interacts with) Solenoid #1 Rod Holder",
+        "shared_interaction" : "interacts with",
+        "name" : "Macbook Pro (interacts with) Solenoid #1 Rod Holder",
+        "interaction" : "interacts with",
+        "description" : "Messages are sent to the crotale holder from the macbook.",
+        "SUID" : 1160,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1159",
+        "source" : "943",
+        "target" : "999",
+        "shared_name" : "Macbook Pro (interacts with) Solenoid #1 Rod Holder",
+        "shared_interaction" : "interacts with",
+        "name" : "Macbook Pro (interacts with) Solenoid #1 Rod Holder",
+        "interaction" : "interacts with",
+        "description" : "Messages are sent to the crotale holder from the macbook.",
+        "SUID" : 1159,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1158",
+        "source" : "943",
+        "target" : "992",
+        "shared_name" : "Macbook Pro (interacts with) Solenoid #1 Rod Holder",
+        "shared_interaction" : "interacts with",
+        "name" : "Macbook Pro (interacts with) Solenoid #1 Rod Holder",
+        "interaction" : "interacts with",
+        "description" : "Messages are sent to the crotale holder from the macbook.",
+        "SUID" : 1158,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1157",
+        "source" : "943",
+        "target" : "991",
+        "shared_name" : "Macbook Pro (interacts with) Solenoid #1 Rod Holder",
+        "shared_interaction" : "interacts with",
+        "name" : "Macbook Pro (interacts with) Solenoid #1 Rod Holder",
+        "interaction" : "interacts with",
+        "description" : "Messages are sent to the crotale holder from the macbook.",
+        "SUID" : 1157,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1156",
+        "source" : "943",
+        "target" : "985",
+        "shared_name" : "Macbook Pro (interacts with) Solenoid #1 Rod Holder",
+        "shared_interaction" : "interacts with",
+        "name" : "Macbook Pro (interacts with) Solenoid #1 Rod Holder",
+        "interaction" : "interacts with",
+        "description" : "Messages are sent to the crotale holder from the macbook.",
+        "SUID" : 1156,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1155",
+        "source" : "943",
+        "target" : "984",
+        "shared_name" : "Macbook Pro (interacts with) Solenoid #1 Rod Holder",
+        "shared_interaction" : "interacts with",
+        "name" : "Macbook Pro (interacts with) Solenoid #1 Rod Holder",
+        "interaction" : "interacts with",
+        "description" : "Messages are sent to the crotale holder from the macbook.",
+        "SUID" : 1155,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1154",
+        "source" : "943",
+        "target" : "977",
+        "shared_name" : "Macbook Pro (interacts with) Solenoid #1 Rod Holder",
+        "shared_interaction" : "interacts with",
+        "name" : "Macbook Pro (interacts with) Solenoid #1 Rod Holder",
+        "interaction" : "interacts with",
+        "description" : "Messages are sent to the crotale holder from the macbook.",
+        "SUID" : 1154,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1153",
+        "source" : "943",
+        "target" : "976",
+        "shared_name" : "Macbook Pro (interacts with) Solenoid #1 Rod Holder",
+        "shared_interaction" : "interacts with",
+        "name" : "Macbook Pro (interacts with) Solenoid #1 Rod Holder",
+        "interaction" : "interacts with",
+        "description" : "Messages are sent to the crotale holder from the macbook.",
+        "SUID" : 1153,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1152",
+        "source" : "943",
+        "target" : "969",
+        "shared_name" : "Macbook Pro (interacts with) Solenoid #1 Rod Holder",
+        "shared_interaction" : "interacts with",
+        "name" : "Macbook Pro (interacts with) Solenoid #1 Rod Holder",
+        "interaction" : "interacts with",
+        "description" : "Messages are sent to the crotale holder from the macbook.",
+        "SUID" : 1152,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1151",
+        "source" : "943",
+        "target" : "968",
+        "shared_name" : "Macbook Pro (interacts with) Solenoid #1 Rod Holder",
+        "shared_interaction" : "interacts with",
+        "name" : "Macbook Pro (interacts with) Solenoid #1 Rod Holder",
+        "interaction" : "interacts with",
+        "description" : "Messages are sent to the crotale holder from the macbook.",
+        "SUID" : 1151,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1150",
+        "source" : "943",
+        "target" : "891",
+        "shared_name" : "Macbook Pro (interacts with) Solenoid #1 Rod Holder",
+        "shared_interaction" : "interacts with",
+        "name" : "Macbook Pro (interacts with) Solenoid #1 Rod Holder",
+        "interaction" : "interacts with",
+        "description" : "Messages are sent to the crotale holder from the macbook.",
+        "SUID" : 1150,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1149",
+        "source" : "943",
+        "target" : "890",
+        "shared_name" : "Macbook Pro (interacts with) Solenoid #1 Rod Holder",
+        "shared_interaction" : "interacts with",
+        "name" : "Macbook Pro (interacts with) Solenoid #1 Rod Holder",
+        "interaction" : "interacts with",
+        "description" : "Messages are sent to the crotale holder from the macbook.",
+        "SUID" : 1149,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1148",
+        "source" : "943",
+        "target" : "868",
+        "shared_name" : "Macbook Pro (interacts with) Table",
+        "shared_interaction" : "interacts with",
+        "name" : "Macbook Pro (interacts with) Table",
+        "interaction" : "interacts with",
+        "description" : "The macbook is placed on the table.",
+        "SUID" : 1148,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1147",
+        "source" : "943",
+        "target" : "915",
+        "shared_name" : "Macbook Pro (interacts with) Dicer PCB",
+        "shared_interaction" : "interacts with",
+        "name" : "Macbook Pro (interacts with) Dicer PCB",
+        "interaction" : "interacts with",
+        "description" : "The dicer PCB sends messages to the macbook via MIDI.",
+        "SUID" : 1147,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1146",
+        "source" : "943",
+        "target" : "949",
+        "shared_name" : "Macbook Pro (interacts with) Audio Interface",
+        "shared_interaction" : "interacts with",
+        "name" : "Macbook Pro (interacts with) Audio Interface",
+        "interaction" : "interacts with",
+        "description" : "The audio interface sends audio in and out of the macbook.",
+        "SUID" : 1146,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1145",
+        "source" : "942",
+        "target" : "906",
+        "shared_name" : "Snare Head Top (interacts with) Snare Drum Mic",
+        "shared_interaction" : "interacts with",
+        "name" : "Snare Head Top (interacts with) Snare Drum Mic",
+        "interaction" : "interacts with",
+        "description" : "The mic is directed towards the snare head top.",
+        "SUID" : 1145,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1144",
+        "source" : "942",
+        "target" : "871",
+        "shared_name" : "Node 4 (interacts with) Node 67",
+        "shared_interaction" : "interacts with",
+        "name" : "Node 4 (interacts with) Node 67",
+        "interaction" : "interacts with",
+        "description" : "The condenser mic sometimes rubs against the snare head top.",
+        "SUID" : 1144,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1143",
+        "source" : "941",
+        "target" : "873",
+        "shared_name" : "Snare Hoops (interacts with) Cable Clip",
+        "shared_interaction" : "interacts with",
+        "name" : "Snare Hoops (interacts with) Cable Clip",
+        "interaction" : "interacts with",
+        "description" : "A plastic clip is attached to the side of the top hoop.",
+        "SUID" : 1143,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1142",
+        "source" : "941",
+        "target" : "942",
+        "shared_name" : "Snare Hoops (interacts with) Snare Head Top",
+        "shared_interaction" : "interacts with",
+        "name" : "Snare Hoops (interacts with) Snare Head Top",
+        "interaction" : "interacts with",
+        "description" : "The snare head is mounted inside the hoop.",
+        "SUID" : 1142,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1141",
+        "source" : "940",
+        "target" : "909",
+        "shared_name" : "Snare Shell (interacts with) Snare Drum Mount",
+        "shared_interaction" : "interacts with",
+        "name" : "Snare Shell (interacts with) Snare Drum Mount",
+        "interaction" : "interacts with",
+        "description" : "The shell rests upon the drum mount",
+        "SUID" : 1141,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1140",
+        "source" : "940",
+        "target" : "937",
+        "shared_name" : "Snare Shell (interacts with) Snare Strainer",
+        "shared_interaction" : "interacts with",
+        "name" : "Snare Shell (interacts with) Snare Strainer",
+        "interaction" : "interacts with",
+        "description" : "",
+        "SUID" : 1140,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1139",
+        "source" : "940",
+        "target" : "941",
+        "shared_name" : "Snare Shell (interacts with) Snare Hoops",
+        "shared_interaction" : "interacts with",
+        "name" : "Snare Shell (interacts with) Snare Hoops",
+        "interaction" : "interacts with",
+        "description" : "The hoops are mounted along the rims of the shell.",
+        "SUID" : 1139,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1138",
+        "source" : "938",
+        "target" : "914",
+        "shared_name" : "Snare Lugs (interacts with) Dicer Mount Base",
+        "shared_interaction" : "interacts with",
+        "name" : "Snare Lugs (interacts with) Dicer Mount Base",
+        "interaction" : "interacts with",
+        "description" : "The base rests upon the snare drum's lugs.",
+        "SUID" : 1138,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1137",
+        "source" : "938",
+        "target" : "939",
+        "shared_name" : "Snare Lugs (interacts with) Snare Tuning Bolts",
+        "shared_interaction" : "interacts with",
+        "name" : "Snare Lugs (interacts with) Snare Tuning Bolts",
+        "interaction" : "interacts with",
+        "description" : "The tuning bolts are mounted in the lugs.",
+        "SUID" : 1137,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1136",
+        "source" : "938",
+        "target" : "941",
+        "shared_name" : "Snare Lugs (interacts with) Snare Hoops",
+        "shared_interaction" : "interacts with",
+        "name" : "Snare Lugs (interacts with) Snare Hoops",
+        "interaction" : "interacts with",
+        "description" : "The lugs are mounted along the hoops.",
+        "SUID" : 1136,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1135",
+        "source" : "938",
+        "target" : "875",
+        "shared_name" : "Snare Lugs (interacts with) Scrunchies",
+        "shared_interaction" : "interacts with",
+        "name" : "Snare Lugs (interacts with) Scrunchies",
+        "interaction" : "interacts with",
+        "description" : "The scrunchies exert force upon the lugs.",
+        "SUID" : 1135,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1134",
+        "source" : "938",
+        "target" : "876",
+        "shared_name" : "Snare Lugs (interacts with) Crossfader Mount Rod Base",
+        "shared_interaction" : "interacts with",
+        "name" : "Snare Lugs (interacts with) Crossfader Mount Rod Base",
+        "interaction" : "interacts with",
+        "description" : "The base rests upon the snare drum's lugs.",
+        "SUID" : 1134,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1133",
+        "source" : "938",
+        "target" : "874",
+        "shared_name" : "Snare Lugs (interacts with) Crossfader Mount Base",
+        "shared_interaction" : "interacts with",
+        "name" : "Snare Lugs (interacts with) Crossfader Mount Base",
+        "interaction" : "interacts with",
+        "description" : "The base rests upon the snare drum's lugs.",
+        "SUID" : 1133,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1132",
+        "source" : "937",
+        "target" : "936",
+        "shared_name" : "Snare Strainer (interacts with) Snare",
+        "shared_interaction" : "interacts with",
+        "name" : "Snare Strainer (interacts with) Snare",
+        "interaction" : "interacts with",
+        "description" : "The strainer pulls or releases the snare.",
+        "SUID" : 1132,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1131",
+        "source" : "935",
+        "target" : "936",
+        "shared_name" : "Snare Head Bottom (interacts with) Snare",
+        "shared_interaction" : "interacts with",
+        "name" : "Snare Head Bottom (interacts with) Snare",
+        "interaction" : "interacts with",
+        "description" : "The snare rests along the bottom head.",
+        "SUID" : 1131,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1130",
+        "source" : "935",
+        "target" : "941",
+        "shared_name" : "Snare Head Bottom (interacts with) Snare Hoops",
+        "shared_interaction" : "interacts with",
+        "name" : "Snare Head Bottom (interacts with) Snare Hoops",
+        "interaction" : "interacts with",
+        "description" : "The snare head is mounted inside the hoop.",
+        "SUID" : 1130,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1129",
+        "source" : "934",
+        "target" : "929",
+        "shared_name" : "Kick Drum Shell (interacts with) Kick Drum Legs",
+        "shared_interaction" : "interacts with",
+        "name" : "Kick Drum Shell (interacts with) Kick Drum Legs",
+        "interaction" : "interacts with",
+        "description" : "The legs are mounted on the sides of the drum shell.",
+        "SUID" : 1129,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1128",
+        "source" : "934",
+        "target" : "928",
+        "shared_name" : "Kick Drum Shell (interacts with) Kick Drum Pipe Clamp",
+        "shared_interaction" : "interacts with",
+        "name" : "Kick Drum Shell (interacts with) Kick Drum Pipe Clamp",
+        "interaction" : "interacts with",
+        "description" : "The pipe clamp is mounted on the top of the drum shell.",
+        "SUID" : 1128,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1127",
+        "source" : "934",
+        "target" : "953",
+        "shared_name" : "Kick Drum Shell (interacts with) Kick Drum Hoops",
+        "shared_interaction" : "interacts with",
+        "name" : "Kick Drum Shell (interacts with) Kick Drum Hoops",
+        "interaction" : "interacts with",
+        "description" : "The hoops are mounted upon the rims of the drum shell.",
+        "SUID" : 1127,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1126",
+        "source" : "933",
+        "target" : "953",
+        "shared_name" : "Kick Drum Head (Batter-side) (interacts with) Kick Drum Hoops",
+        "shared_interaction" : "interacts with",
+        "name" : "Kick Drum Head (Batter-side) (interacts with) Kick Drum Hoops",
+        "interaction" : "interacts with",
+        "description" : "The head is mounted on one of the drum hoops.",
+        "SUID" : 1126,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1125",
+        "source" : "933",
+        "target" : "927",
+        "shared_name" : "Kick Drum Head (Batter-side) (interacts with) Kick Pedal Head",
+        "shared_interaction" : "interacts with",
+        "name" : "Kick Drum Head (Batter-side) (interacts with) Kick Pedal Head",
+        "interaction" : "interacts with",
+        "description" : "The head strikes the drum head.",
+        "SUID" : 1125,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1124",
+        "source" : "932",
+        "target" : "953",
+        "shared_name" : "Kick Drum Head (Front) (interacts with) Kick Drum Hoops",
+        "shared_interaction" : "interacts with",
+        "name" : "Kick Drum Head (Front) (interacts with) Kick Drum Hoops",
+        "interaction" : "interacts with",
+        "description" : "The head is mounted on one of the drum hoops.",
+        "SUID" : 1124,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1123",
+        "source" : "931",
+        "target" : "953",
+        "shared_name" : "Kick Drum Tuning Bolts (interacts with) Kick Drum Hoops",
+        "shared_interaction" : "interacts with",
+        "name" : "Kick Drum Tuning Bolts (interacts with) Kick Drum Hoops",
+        "interaction" : "interacts with",
+        "description" : "The tuning bolts are mounted on the hoops.",
+        "SUID" : 1123,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1122",
+        "source" : "930",
+        "target" : "931",
+        "shared_name" : "Kick Drum Lugs (interacts with) Kick Drum Tuning Bolts",
+        "shared_interaction" : "interacts with",
+        "name" : "Kick Drum Lugs (interacts with) Kick Drum Tuning Bolts",
+        "interaction" : "interacts with",
+        "description" : "The lugs are mounted on the tuning bolts.",
+        "SUID" : 1122,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1121",
+        "source" : "929",
+        "target" : "869",
+        "shared_name" : "Kick Drum Legs (interacts with) Stage",
+        "shared_interaction" : "interacts with",
+        "name" : "Kick Drum Legs (interacts with) Stage",
+        "interaction" : "interacts with",
+        "description" : "This kick drum is positioned in fornt of the stool (from Constanzo's POV).",
+        "SUID" : 1121,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1120",
+        "source" : "926",
+        "target" : "952",
+        "shared_name" : "Kick Pedal Cam (interacts with) Kick Pedal Rod",
+        "shared_interaction" : "interacts with",
+        "name" : "Kick Pedal Cam (interacts with) Kick Pedal Rod",
+        "interaction" : "interacts with",
+        "description" : "The rod is attached to the cam.",
+        "SUID" : 1120,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1119",
+        "source" : "925",
+        "target" : "926",
+        "shared_name" : "Kick Pedal Drive (interacts with) Kick Pedal Cam",
+        "shared_interaction" : "interacts with",
+        "name" : "Kick Pedal Drive (interacts with) Kick Pedal Cam",
+        "interaction" : "interacts with",
+        "description" : "The cam is pivoted when the drive is pulled down.",
+        "SUID" : 1119,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1118",
+        "source" : "924",
+        "target" : "869",
+        "shared_name" : "Kick Pedal Stand (interacts with) Stage",
+        "shared_interaction" : "interacts with",
+        "name" : "Kick Pedal Stand (interacts with) Stage",
+        "interaction" : "interacts with",
+        "description" : "The kick pedal is placed in front of the kick drum (from Constanzo's POV).",
+        "SUID" : 1118,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1117",
+        "source" : "924",
+        "target" : "926",
+        "shared_name" : "Kick Pedal Stand (interacts with) Kick Pedal Cam",
+        "shared_interaction" : "interacts with",
+        "name" : "Kick Pedal Stand (interacts with) Kick Pedal Cam",
+        "interaction" : "interacts with",
+        "description" : "The cam is mounted upon the stand.",
+        "SUID" : 1117,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1116",
+        "source" : "923",
+        "target" : "924",
+        "shared_name" : "Kick Pedal Footboard (interacts with) Kick Pedal Stand",
+        "shared_interaction" : "interacts with",
+        "name" : "Kick Pedal Footboard (interacts with) Kick Pedal Stand",
+        "interaction" : "interacts with",
+        "description" : "The footboard is mounted upon the stand.",
+        "SUID" : 1116,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1115",
+        "source" : "923",
+        "target" : "925",
+        "shared_name" : "Kick Pedal Footboard (interacts with) Kick Pedal Drive",
+        "shared_interaction" : "interacts with",
+        "name" : "Kick Pedal Footboard (interacts with) Kick Pedal Drive",
+        "interaction" : "interacts with",
+        "description" : "When the footboard is pushed down, the drive is pulled.",
+        "SUID" : 1115,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1114",
+        "source" : "923",
+        "target" : "918",
+        "shared_name" : "Kick Pedal Footboard (interacts with) Right Foot",
+        "shared_interaction" : "interacts with",
+        "name" : "Kick Pedal Footboard (interacts with) Right Foot",
+        "interaction" : "interacts with",
+        "description" : "Constanzo's foot exerts pressur on the kick drum pedal footboard.",
+        "SUID" : 1114,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1113",
+        "source" : "922",
+        "target" : "943",
+        "shared_name" : "DDrum Shot Trigger (interacts with) Macbook Pro",
+        "shared_interaction" : "interacts with",
+        "name" : "DDrum Shot Trigger (interacts with) Macbook Pro",
+        "interaction" : "interacts with",
+        "description" : "The kick drum shot trigger sends messages to the macbook.",
+        "SUID" : 1113,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1112",
+        "source" : "922",
+        "target" : "953",
+        "shared_name" : "DDrum Shot Trigger (interacts with) Kick Drum Hoops",
+        "shared_interaction" : "interacts with",
+        "name" : "DDrum Shot Trigger (interacts with) Kick Drum Hoops",
+        "interaction" : "interacts with",
+        "description" : "The shot trigger is placed on the back kick drum hoop.",
+        "SUID" : 1112,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1111",
+        "source" : "921",
+        "target" : "861",
+        "shared_name" : "Left Hand (interacts with) Thick Comb",
+        "shared_interaction" : "interacts with",
+        "name" : "Left Hand (interacts with) Thick Comb",
+        "interaction" : "interacts with",
+        "description" : "Constanzo holds the comb in his left hand when dragging in across the snare head.",
+        "SUID" : 1111,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1110",
+        "source" : "921",
+        "target" : "860",
+        "shared_name" : "Left Hand (interacts with) Small Comb",
+        "shared_interaction" : "interacts with",
+        "name" : "Left Hand (interacts with) Small Comb",
+        "interaction" : "interacts with",
+        "description" : "Constanzo holds the comb in his left hand when dragging in across the snare head.",
+        "SUID" : 1110,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1109",
+        "source" : "921",
+        "target" : "859",
+        "shared_name" : "Left Hand (interacts with) Small Comb",
+        "shared_interaction" : "interacts with",
+        "name" : "Left Hand (interacts with) Small Comb",
+        "interaction" : "interacts with",
+        "description" : "Constanzo holds the comb in his left hand when dragging in across the snare head.",
+        "SUID" : 1109,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1108",
+        "source" : "921",
+        "target" : "917",
+        "shared_name" : "Left Hand (interacts with) Dicer Buttons",
+        "shared_interaction" : "interacts with",
+        "name" : "Left Hand (interacts with) Dicer Buttons",
+        "interaction" : "interacts with",
+        "description" : "Constanzo uses his left hand to sometimes press the dicer buttons.",
+        "SUID" : 1108,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1107",
+        "source" : "921",
+        "target" : "872",
+        "shared_name" : "Left Hand (interacts with) Condenser Mic Casing",
+        "shared_interaction" : "interacts with",
+        "name" : "Left Hand (interacts with) Condenser Mic Casing",
+        "interaction" : "interacts with",
+        "description" : "The left hand holds the condenser mic grip.",
+        "SUID" : 1107,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1106",
+        "source" : "921",
+        "target" : "944",
+        "shared_name" : "Left Hand (interacts with) Rodrigo Constanzo",
+        "shared_interaction" : "interacts with",
+        "name" : "Left Hand (interacts with) Rodrigo Constanzo",
+        "interaction" : "interacts with",
+        "description" : "Constanzo's hand is at the end of his arm.",
+        "SUID" : 1106,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1105",
+        "source" : "920",
+        "target" : "859",
+        "shared_name" : "Right Hand (interacts with) Small Comb",
+        "shared_interaction" : "interacts with",
+        "name" : "Right Hand (interacts with) Small Comb",
+        "interaction" : "interacts with",
+        "description" : "Constanzo holds the comb in his right hand when crushing it.",
+        "SUID" : 1105,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1104",
+        "source" : "920",
+        "target" : "944",
+        "shared_name" : "Right Hand (interacts with) Rodrigo Constanzo",
+        "shared_interaction" : "interacts with",
+        "name" : "Right Hand (interacts with) Rodrigo Constanzo",
+        "interaction" : "interacts with",
+        "description" : "Constanzo's hand is at the end of his arm.",
+        "SUID" : 1104,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1103",
+        "source" : "919",
+        "target" : "944",
+        "shared_name" : "Left Foot (interacts with) Rodrigo Constanzo",
+        "shared_interaction" : "interacts with",
+        "name" : "Left Foot (interacts with) Rodrigo Constanzo",
+        "interaction" : "interacts with",
+        "description" : "Constanzo's foot is at the end of his leg.",
+        "SUID" : 1103,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1102",
+        "source" : "918",
+        "target" : "944",
+        "shared_name" : "Right Foot (interacts with) Rodrigo Constanzo",
+        "shared_interaction" : "interacts with",
+        "name" : "Right Foot (interacts with) Rodrigo Constanzo",
+        "interaction" : "interacts with",
+        "description" : "Constanzo's foot is at the end of his leg.",
+        "SUID" : 1102,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1101",
+        "source" : "916",
+        "target" : "914",
+        "shared_name" : "Dicer Casing (interacts with) Dicer Mount Base",
+        "shared_interaction" : "interacts with",
+        "name" : "Dicer Casing (interacts with) Dicer Mount Base",
+        "interaction" : "interacts with",
+        "description" : "The dicer is mounted upon a plastic base which is penetrated by two metal rods.",
+        "SUID" : 1101,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1100",
+        "source" : "916",
+        "target" : "917",
+        "shared_name" : "Dicer Casing (interacts with) Dicer Buttons",
+        "shared_interaction" : "interacts with",
+        "name" : "Dicer Casing (interacts with) Dicer Buttons",
+        "interaction" : "interacts with",
+        "description" : "The buttons are mounted upon a plastic casing.",
+        "SUID" : 1100,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1099",
+        "source" : "916",
+        "target" : "915",
+        "shared_name" : "Dicer Casing (interacts with) Dicer PCB",
+        "shared_interaction" : "interacts with",
+        "name" : "Dicer Casing (interacts with) Dicer PCB",
+        "interaction" : "interacts with",
+        "description" : "The PCB is within a palstic casing.",
+        "SUID" : 1099,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1098",
+        "source" : "915",
+        "target" : "917",
+        "shared_name" : "Dicer PCB (interacts with) Dicer Buttons",
+        "shared_interaction" : "interacts with",
+        "name" : "Dicer PCB (interacts with) Dicer Buttons",
+        "interaction" : "interacts with",
+        "description" : "The buttons send messages to the PCB.",
+        "SUID" : 1098,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1097",
+        "source" : "914",
+        "target" : "912",
+        "shared_name" : "Dicer Mount Base (interacts with) Dicer Mount Springs",
+        "shared_interaction" : "interacts with",
+        "name" : "Dicer Mount Base (interacts with) Dicer Mount Springs",
+        "interaction" : "interacts with",
+        "description" : "The springs exert force upon the base.",
+        "SUID" : 1097,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1096",
+        "source" : "914",
+        "target" : "913",
+        "shared_name" : "Dicer Mount Base (interacts with) Dicer Mount Rods",
+        "shared_interaction" : "interacts with",
+        "name" : "Dicer Mount Base (interacts with) Dicer Mount Rods",
+        "interaction" : "interacts with",
+        "description" : "The two metal rods are inserted into the plastic bas.",
+        "SUID" : 1096,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1095",
+        "source" : "913",
+        "target" : "912",
+        "shared_name" : "Dicer Mount Rods (interacts with) Dicer Mount Springs",
+        "shared_interaction" : "interacts with",
+        "name" : "Dicer Mount Rods (interacts with) Dicer Mount Springs",
+        "interaction" : "interacts with",
+        "description" : "The springs encase the metal rods.",
+        "SUID" : 1095,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1094",
+        "source" : "911",
+        "target" : "910",
+        "shared_name" : "Dicer Mount Rod Base (interacts with) Scrunchies",
+        "shared_interaction" : "interacts with",
+        "name" : "Dicer Mount Rod Base (interacts with) Scrunchies",
+        "interaction" : "interacts with",
+        "description" : "The scrunchies exert force upon the base.",
+        "SUID" : 1094,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1093",
+        "source" : "911",
+        "target" : "938",
+        "shared_name" : "Dicer Mount Rod Base (interacts with) Snare Lugs",
+        "shared_interaction" : "interacts with",
+        "name" : "Dicer Mount Rod Base (interacts with) Snare Lugs",
+        "interaction" : "interacts with",
+        "description" : "The base rests upon the snare drum's lugs.",
+        "SUID" : 1093,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1092",
+        "source" : "911",
+        "target" : "912",
+        "shared_name" : "Dicer Mount Rod Base (interacts with) Dicer Mount Springs",
+        "shared_interaction" : "interacts with",
+        "name" : "Dicer Mount Rod Base (interacts with) Dicer Mount Springs",
+        "interaction" : "interacts with",
+        "description" : "The springs exert force upon the base.",
+        "SUID" : 1092,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1091",
+        "source" : "911",
+        "target" : "913",
+        "shared_name" : "Dicer Mount Rod Base (interacts with) Dicer Mount Rods",
+        "shared_interaction" : "interacts with",
+        "name" : "Dicer Mount Rod Base (interacts with) Dicer Mount Rods",
+        "interaction" : "interacts with",
+        "description" : "The metal rods are inserted into the plastic base.",
+        "SUID" : 1091,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1090",
+        "source" : "910",
+        "target" : "938",
+        "shared_name" : "Scrunchies (interacts with) Snare Lugs",
+        "shared_interaction" : "interacts with",
+        "name" : "Scrunchies (interacts with) Snare Lugs",
+        "interaction" : "interacts with",
+        "description" : "The scrunchies exert force upon the base.",
+        "SUID" : 1090,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1089",
+        "source" : "910",
+        "target" : "914",
+        "shared_name" : "Scrunchies (interacts with) Dicer Mount Base",
+        "shared_interaction" : "interacts with",
+        "name" : "Scrunchies (interacts with) Dicer Mount Base",
+        "interaction" : "interacts with",
+        "description" : "The scrunchies exert force upon the base.",
+        "SUID" : 1089,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1088",
+        "source" : "908",
+        "target" : "904",
+        "shared_name" : "Kick Drum Mic (interacts with) BMBS Mixing Table",
+        "shared_interaction" : "interacts with",
+        "name" : "Kick Drum Mic (interacts with) BMBS Mixing Table",
+        "interaction" : "interacts with",
+        "description" : "Audio is sent to the mixing table.",
+        "SUID" : 1088,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1087",
+        "source" : "908",
+        "target" : "907",
+        "shared_name" : "Kick Drum Mic (interacts with) Kick Drum Mic Stand",
+        "shared_interaction" : "interacts with",
+        "name" : "Kick Drum Mic (interacts with) Kick Drum Mic Stand",
+        "interaction" : "interacts with",
+        "description" : "The mic is held by the mic stand.",
+        "SUID" : 1087,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1086",
+        "source" : "908",
+        "target" : "932",
+        "shared_name" : "Kick Drum Mic (interacts with) Kick Drum Head (Front)",
+        "shared_interaction" : "interacts with",
+        "name" : "Kick Drum Mic (interacts with) Kick Drum Head (Front)",
+        "interaction" : "interacts with",
+        "description" : "The mic is directed towards the kick drum front head.",
+        "SUID" : 1086,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1085",
+        "source" : "906",
+        "target" : "904",
+        "shared_name" : "Snare Drum Mic (interacts with) BMBS Mixing Table",
+        "shared_interaction" : "interacts with",
+        "name" : "Snare Drum Mic (interacts with) BMBS Mixing Table",
+        "interaction" : "interacts with",
+        "description" : "Audio from the mic is sent to the mixing table.",
+        "SUID" : 1085,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1084",
+        "source" : "905",
+        "target" : "869",
+        "shared_name" : "Snare Drum Mic Stand (interacts with) Stage",
+        "shared_interaction" : "interacts with",
+        "name" : "Snare Drum Mic Stand (interacts with) Stage",
+        "interaction" : "interacts with",
+        "description" : "The mic stand is positioned in front and to the left of the snare drum (from Constanzo's POV).",
+        "SUID" : 1084,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1083",
+        "source" : "905",
+        "target" : "906",
+        "shared_name" : "Snare Drum Mic Stand (interacts with) Snare Drum Mic",
+        "shared_interaction" : "interacts with",
+        "name" : "Snare Drum Mic Stand (interacts with) Snare Drum Mic",
+        "interaction" : "interacts with",
+        "description" : "The mic is supported by a mic stand.",
+        "SUID" : 1083,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1082",
+        "source" : "903",
+        "target" : "899",
+        "shared_name" : "Sub Speaker (interacts with) Speaker Stand",
+        "shared_interaction" : "interacts with",
+        "name" : "Sub Speaker (interacts with) Speaker Stand",
+        "interaction" : "interacts with",
+        "description" : "The stand is placed on the sub.",
+        "SUID" : 1082,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1081",
+        "source" : "903",
+        "target" : "904",
+        "shared_name" : "Sub Speaker (interacts with) BMBS Mixing Table",
+        "shared_interaction" : "interacts with",
+        "name" : "Sub Speaker (interacts with) BMBS Mixing Table",
+        "interaction" : "interacts with",
+        "description" : "Audio is sent from the mixing table to the sub.",
+        "SUID" : 1081,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1080",
+        "source" : "902",
+        "target" : "904",
+        "shared_name" : "Sub Speaker (interacts with) BMBS Mixing Table",
+        "shared_interaction" : "interacts with",
+        "name" : "Sub Speaker (interacts with) BMBS Mixing Table",
+        "interaction" : "interacts with",
+        "description" : "Audio is sent from the mixing table to the sub.",
+        "SUID" : 1080,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1079",
+        "source" : "901",
+        "target" : "899",
+        "shared_name" : "Speaker (interacts with) Speaker Stand",
+        "shared_interaction" : "interacts with",
+        "name" : "Speaker (interacts with) Speaker Stand",
+        "interaction" : "interacts with",
+        "description" : "The speaker is positioned on the stand.",
+        "SUID" : 1079,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1078",
+        "source" : "901",
+        "target" : "904",
+        "shared_name" : "Speaker (interacts with) BMBS Mixing Table",
+        "shared_interaction" : "interacts with",
+        "name" : "Speaker (interacts with) BMBS Mixing Table",
+        "interaction" : "interacts with",
+        "description" : "Audio is sent from the mixing table to the speaker.",
+        "SUID" : 1078,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1077",
+        "source" : "900",
+        "target" : "898",
+        "shared_name" : "Speaker (interacts with) Speaker Stand",
+        "shared_interaction" : "interacts with",
+        "name" : "Speaker (interacts with) Speaker Stand",
+        "interaction" : "interacts with",
+        "description" : "The speaker is positioned on the stand.",
+        "SUID" : 1077,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1076",
+        "source" : "900",
+        "target" : "904",
+        "shared_name" : "Speaker (interacts with) BMBS Mixing Table",
+        "shared_interaction" : "interacts with",
+        "name" : "Speaker (interacts with) BMBS Mixing Table",
+        "interaction" : "interacts with",
+        "description" : "Audio is sent from the mixing table to the speaker.",
+        "SUID" : 1076,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1075",
+        "source" : "898",
+        "target" : "902",
+        "shared_name" : "Speaker Stand (interacts with) Sub Speaker",
+        "shared_interaction" : "interacts with",
+        "name" : "Speaker Stand (interacts with) Sub Speaker",
+        "interaction" : "interacts with",
+        "description" : "The stand is palced on the sub.",
+        "SUID" : 1075,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1074",
+        "source" : "897",
+        "target" : "869",
+        "shared_name" : "Stage Monitor (interacts with) Stage",
+        "shared_interaction" : "interacts with",
+        "name" : "Stage Monitor (interacts with) Stage",
+        "interaction" : "interacts with",
+        "description" : "The monitor is positioned at the back right of the stage, facing towards Constanzo (form Constanzo's POV).",
+        "SUID" : 1074,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1073",
+        "source" : "897",
+        "target" : "904",
+        "shared_name" : "Stage Monitor (interacts with) BMBS Mixing Table",
+        "shared_interaction" : "interacts with",
+        "name" : "Stage Monitor (interacts with) BMBS Mixing Table",
+        "interaction" : "interacts with",
+        "description" : "Audio is sent from the mixing table to the monitor.",
+        "SUID" : 1073,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1072",
+        "source" : "896",
+        "target" : "894",
+        "shared_name" : "Solenoid #1 Crotale (interacts with) Solenoid #1 Crotale Holder",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Crotale (interacts with) Solenoid #1 Crotale Holder",
+        "interaction" : "interacts with",
+        "description" : "The ctroale is held aloft by the crotale holder in such a way that it can resonate when struck.",
+        "SUID" : 1072,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1071",
+        "source" : "896",
+        "target" : "889",
+        "shared_name" : "Solenoid #1 Crotale (interacts with) Tin Foil",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Crotale (interacts with) Tin Foil",
+        "interaction" : "interacts with",
+        "description" : "At a point in the performance, the tin foil is placed over the solenoid.",
+        "SUID" : 1071,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1070",
+        "source" : "895",
+        "target" : "954",
+        "shared_name" : "Solenoid #1 Base (interacts with) Performance Area",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Base (interacts with) Performance Area",
+        "interaction" : "interacts with",
+        "description" : "The solenoid is positioned around the performance area.",
+        "SUID" : 1070,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1069",
+        "source" : "895",
+        "target" : "891",
+        "shared_name" : "Solenoid #1 Base (interacts with) Solenoid #1 Rod Holder",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Base (interacts with) Solenoid #1 Rod Holder",
+        "interaction" : "interacts with",
+        "description" : "The rod holder is fixed to the solenoid base.",
+        "SUID" : 1069,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1068",
+        "source" : "895",
+        "target" : "890",
+        "shared_name" : "Solenoid #1 Base (interacts with) Solenoid #1 Rod Holder",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Base (interacts with) Solenoid #1 Rod Holder",
+        "interaction" : "interacts with",
+        "description" : "The rod holder is fixed to the solenoid base.",
+        "SUID" : 1068,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1067",
+        "source" : "895",
+        "target" : "894",
+        "shared_name" : "Solenoid #1 Base (interacts with) Solenoid #1 Crotale Holder",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Base (interacts with) Solenoid #1 Crotale Holder",
+        "interaction" : "interacts with",
+        "description" : "The crotale holder is fixed to the solenoid base.",
+        "SUID" : 1067,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1066",
+        "source" : "893",
+        "target" : "890",
+        "shared_name" : "Solenoid #1 Metal Rod (interacts with) Solenoid #1 Rod Holder",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Metal Rod (interacts with) Solenoid #1 Rod Holder",
+        "interaction" : "interacts with",
+        "description" : "The metal rod is encased and pushed up and down by the rod holder.",
+        "SUID" : 1066,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1065",
+        "source" : "893",
+        "target" : "896",
+        "shared_name" : "Solenoid #1 Metal Rod (interacts with) Solenoid #1 Crotale",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Metal Rod (interacts with) Solenoid #1 Crotale",
+        "interaction" : "interacts with",
+        "description" : "The metal rod strikes the crotale to make it resonate.",
+        "SUID" : 1065,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1064",
+        "source" : "892",
+        "target" : "891",
+        "shared_name" : "Solenoid #1 Plastic Rod (interacts with) Solenoid #1 Rod Holder",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Plastic Rod (interacts with) Solenoid #1 Rod Holder",
+        "interaction" : "interacts with",
+        "description" : "The plastic rod is encased and pushed up and down by the rod holder.",
+        "SUID" : 1064,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1063",
+        "source" : "892",
+        "target" : "896",
+        "shared_name" : "Solenoid #1 Plastic Rod (interacts with) Solenoid #1 Crotale",
+        "shared_interaction" : "interacts with",
+        "name" : "Solenoid #1 Plastic Rod (interacts with) Solenoid #1 Crotale",
+        "interaction" : "interacts with",
+        "description" : "Stage C is positioned at the back left of the performance area (from the entrance).",
+        "SUID" : 1063,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1062",
+        "source" : "888",
+        "target" : "944",
+        "shared_name" : "Stool (interacts with) Rodrigo Constanzo",
+        "shared_interaction" : "interacts with",
+        "name" : "Stool (interacts with) Rodrigo Constanzo",
+        "interaction" : "interacts with",
+        "description" : "Constanzo is sat on the stool.",
+        "SUID" : 1062,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1061",
+        "source" : "887",
+        "target" : "919",
+        "shared_name" : "Expression Pedal Footboard (interacts with) Left Foot",
+        "shared_interaction" : "interacts with",
+        "name" : "Expression Pedal Footboard (interacts with) Left Foot",
+        "interaction" : "interacts with",
+        "description" : "Constanzo's foot positions the expression pedal footboard.",
+        "SUID" : 1061,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1060",
+        "source" : "887",
+        "target" : "885",
+        "shared_name" : "Expression Pedal Footboard (interacts with) Expression Pedal Casing",
+        "shared_interaction" : "interacts with",
+        "name" : "Expression Pedal Footboard (interacts with) Expression Pedal Casing",
+        "interaction" : "interacts with",
+        "description" : "The footboard is placed upon the casing.",
+        "SUID" : 1060,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1059",
+        "source" : "886",
+        "target" : "943",
+        "shared_name" : "Teensy Microcontroller (interacts with) Macbook Pro",
+        "shared_interaction" : "interacts with",
+        "name" : "Teensy Microcontroller (interacts with) Macbook Pro",
+        "interaction" : "interacts with",
+        "description" : "The position of the footboard is sent to the macbook via MIDI.",
+        "SUID" : 1059,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1058",
+        "source" : "886",
+        "target" : "887",
+        "shared_name" : "Teensy Microcontroller (interacts with) Expression Pedal Footboard",
+        "shared_interaction" : "interacts with",
+        "name" : "Teensy Microcontroller (interacts with) Expression Pedal Footboard",
+        "interaction" : "interacts with",
+        "description" : "The position of the footboard is detected by the microcontroller.",
+        "SUID" : 1058,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1057",
+        "source" : "886",
+        "target" : "885",
+        "shared_name" : "Teensy Microcontroller (interacts with) Expression Pedal Casing",
+        "shared_interaction" : "interacts with",
+        "name" : "Teensy Microcontroller (interacts with) Expression Pedal Casing",
+        "interaction" : "interacts with",
+        "description" : "The microcontroller is placed within the casing.",
+        "SUID" : 1057,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1056",
+        "source" : "885",
+        "target" : "869",
+        "shared_name" : "Expression Pedal Casing (interacts with) Stage",
+        "shared_interaction" : "interacts with",
+        "name" : "Expression Pedal Casing (interacts with) Stage",
+        "interaction" : "interacts with",
+        "description" : "The expression pedal is place between the snare drum mount and the table.",
+        "SUID" : 1056,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1055",
+        "source" : "883",
+        "target" : "884",
+        "shared_name" : "Crossfader Knob (interacts with) Linear Potentiometer",
+        "shared_interaction" : "interacts with",
+        "name" : "Crossfader Knob (interacts with) Linear Potentiometer",
+        "interaction" : "interacts with",
+        "description" : "The knob is placed on the potentiometer.",
+        "SUID" : 1055,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1054",
+        "source" : "883",
+        "target" : "920",
+        "shared_name" : "Crossfader Knob (interacts with) Right Hand",
+        "shared_interaction" : "interacts with",
+        "name" : "Crossfader Knob (interacts with) Right Hand",
+        "interaction" : "interacts with",
+        "description" : "Constanzo moves the crossfader knob with his right hand.",
+        "SUID" : 1054,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1053",
+        "source" : "882",
+        "target" : "884",
+        "shared_name" : "Plastic Shim (interacts with) Linear Potentiometer",
+        "shared_interaction" : "interacts with",
+        "name" : "Plastic Shim (interacts with) Linear Potentiometer",
+        "interaction" : "interacts with",
+        "description" : "The plastic shim prevents the potentiometer from reaching its extremities.",
+        "SUID" : 1053,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1052",
+        "source" : "882",
+        "target" : "879",
+        "shared_name" : "Plastic Shim (interacts with) Crossfader Casing",
+        "shared_interaction" : "interacts with",
+        "name" : "Plastic Shim (interacts with) Crossfader Casing",
+        "interaction" : "interacts with",
+        "description" : "The plasic shims are within the crossfader casing.",
+        "SUID" : 1052,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1051",
+        "source" : "881",
+        "target" : "943",
+        "shared_name" : "Teensy Microcontroller (interacts with) Macbook Pro",
+        "shared_interaction" : "interacts with",
+        "name" : "Teensy Microcontroller (interacts with) Macbook Pro",
+        "interaction" : "interacts with",
+        "description" : "The microcontroller sends the position of the potentiometer via MIDI.",
+        "SUID" : 1051,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1050",
+        "source" : "881",
+        "target" : "880",
+        "shared_name" : "Teensy Microcontroller (interacts with) Adafruit ADC",
+        "shared_interaction" : "interacts with",
+        "name" : "Teensy Microcontroller (interacts with) Adafruit ADC",
+        "interaction" : "interacts with",
+        "description" : "The ADC augments the resolution of the microcontroller.",
+        "SUID" : 1050,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1049",
+        "source" : "881",
+        "target" : "884",
+        "shared_name" : "Teensy Microcontroller (interacts with) Linear Potentiometer",
+        "shared_interaction" : "interacts with",
+        "name" : "Teensy Microcontroller (interacts with) Linear Potentiometer",
+        "interaction" : "interacts with",
+        "description" : "The potentiometer sends its position to the microcontroller.",
+        "SUID" : 1049,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1048",
+        "source" : "881",
+        "target" : "879",
+        "shared_name" : "Teensy Microcontroller (interacts with) Crossfader Casing",
+        "shared_interaction" : "interacts with",
+        "name" : "Teensy Microcontroller (interacts with) Crossfader Casing",
+        "interaction" : "interacts with",
+        "description" : "The microcontroller is within the casing.",
+        "SUID" : 1048,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1047",
+        "source" : "880",
+        "target" : "884",
+        "shared_name" : "Adafruit ADC (interacts with) Linear Potentiometer",
+        "shared_interaction" : "interacts with",
+        "name" : "Adafruit ADC (interacts with) Linear Potentiometer",
+        "interaction" : "interacts with",
+        "description" : "The potentiometer sends its position to the ADC",
+        "SUID" : 1047,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1046",
+        "source" : "880",
+        "target" : "879",
+        "shared_name" : "Adafruit ADC (interacts with) Crossfader Casing",
+        "shared_interaction" : "interacts with",
+        "name" : "Adafruit ADC (interacts with) Crossfader Casing",
+        "interaction" : "interacts with",
+        "description" : "The ADC is within the crossfader casing.",
+        "SUID" : 1046,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1045",
+        "source" : "879",
+        "target" : "884",
+        "shared_name" : "Crossfader Casing (interacts with) Linear Potentiometer",
+        "shared_interaction" : "interacts with",
+        "name" : "Crossfader Casing (interacts with) Linear Potentiometer",
+        "interaction" : "interacts with",
+        "description" : "The potentiometer is placed within a plastic casing.",
+        "SUID" : 1045,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1044",
+        "source" : "878",
+        "target" : "876",
+        "shared_name" : "Crossfader Mount Rods (interacts with) Crossfader Mount Rod Base",
+        "shared_interaction" : "interacts with",
+        "name" : "Crossfader Mount Rods (interacts with) Crossfader Mount Rod Base",
+        "interaction" : "interacts with",
+        "description" : "The two metal rods are inserted into a plastic base.",
+        "SUID" : 1044,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1043",
+        "source" : "877",
+        "target" : "874",
+        "shared_name" : "Crossfader Mount Springs (interacts with) Crossfader Mount Base",
+        "shared_interaction" : "interacts with",
+        "name" : "Crossfader Mount Springs (interacts with) Crossfader Mount Base",
+        "interaction" : "interacts with",
+        "description" : "The springs exert force upon the base.",
+        "SUID" : 1043,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1042",
+        "source" : "877",
+        "target" : "876",
+        "shared_name" : "Crossfader Mount Springs (interacts with) Crossfader Mount Rod Base",
+        "shared_interaction" : "interacts with",
+        "name" : "Crossfader Mount Springs (interacts with) Crossfader Mount Rod Base",
+        "interaction" : "interacts with",
+        "description" : "The springs exert force upon the base.",
+        "SUID" : 1042,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1041",
+        "source" : "877",
+        "target" : "878",
+        "shared_name" : "Crossfader Mount Springs (interacts with) Crossfader Mount Rods",
+        "shared_interaction" : "interacts with",
+        "name" : "Crossfader Mount Springs (interacts with) Crossfader Mount Rods",
+        "interaction" : "interacts with",
+        "description" : "The metal rods are encased by springs.",
+        "SUID" : 1041,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1040",
+        "source" : "875",
+        "target" : "874",
+        "shared_name" : "Scrunchies (interacts with) Crossfader Mount Base",
+        "shared_interaction" : "interacts with",
+        "name" : "Scrunchies (interacts with) Crossfader Mount Base",
+        "interaction" : "interacts with",
+        "description" : "The scrunchies exert force upon the base.",
+        "SUID" : 1040,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1039",
+        "source" : "875",
+        "target" : "876",
+        "shared_name" : "Scrunchies (interacts with) Crossfader Mount Rod Base",
+        "shared_interaction" : "interacts with",
+        "name" : "Scrunchies (interacts with) Crossfader Mount Rod Base",
+        "interaction" : "interacts with",
+        "description" : "The scrunchies exert force upon the base.",
+        "SUID" : 1039,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1038",
+        "source" : "874",
+        "target" : "878",
+        "shared_name" : "Crossfader Mount Base (interacts with) Crossfader Mount Rods",
+        "shared_interaction" : "interacts with",
+        "name" : "Crossfader Mount Base (interacts with) Crossfader Mount Rods",
+        "interaction" : "interacts with",
+        "description" : "The base is penetrated by two metal rods.",
+        "SUID" : 1038,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1037",
+        "source" : "874",
+        "target" : "879",
+        "shared_name" : "Crossfader Mount Base (interacts with) Crossfader Casing",
+        "shared_interaction" : "interacts with",
+        "name" : "Crossfader Mount Base (interacts with) Crossfader Casing",
+        "interaction" : "interacts with",
+        "description" : "The crossfader casing is supported by a plastic base.",
+        "SUID" : 1037,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1036",
+        "source" : "872",
+        "target" : "871",
+        "shared_name" : "Condenser Mic Casing (interacts with) Condenser Mic",
+        "shared_interaction" : "interacts with",
+        "name" : "Condenser Mic Casing (interacts with) Condenser Mic",
+        "interaction" : "interacts with",
+        "description" : "The condenser mic is encased by a plastic grip.",
+        "SUID" : 1036,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1035",
+        "source" : "870",
+        "target" : "949",
+        "shared_name" : "Condenser Mic Cable (interacts with) Audio Interface",
+        "shared_interaction" : "interacts with",
+        "name" : "Condenser Mic Cable (interacts with) Audio Interface",
+        "interaction" : "interacts with",
+        "description" : "The mic cable leads to the audio interface.",
+        "SUID" : 1035,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1034",
+        "source" : "870",
+        "target" : "871",
+        "shared_name" : "Condenser Mic Cable (interacts with) Condenser Mic",
+        "shared_interaction" : "interacts with",
+        "name" : "Condenser Mic Cable (interacts with) Condenser Mic",
+        "interaction" : "interacts with",
+        "description" : "The condenser mic is attached to its cable.",
+        "SUID" : 1034,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1033",
+        "source" : "870",
+        "target" : "873",
+        "shared_name" : "Condenser Mic Cable (interacts with) Cable Clip",
+        "shared_interaction" : "interacts with",
+        "name" : "Condenser Mic Cable (interacts with) Cable Clip",
+        "interaction" : "interacts with",
+        "description" : "The condenser mic cable is clipped by the clip, and hung upon it when not in use.",
+        "SUID" : 1033,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1032",
+        "source" : "869",
+        "target" : "907",
+        "shared_name" : "Stage (interacts with) Kick Drum Mic Stand",
+        "shared_interaction" : "interacts with",
+        "name" : "Stage (interacts with) Kick Drum Mic Stand",
+        "interaction" : "interacts with",
+        "description" : "The mic stand is positioned in front and to the left of the kick drum (from Constanzo's POV).",
+        "SUID" : 1032,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1031",
+        "source" : "869",
+        "target" : "868",
+        "shared_name" : "Stage (interacts with) Table",
+        "shared_interaction" : "interacts with",
+        "name" : "Stage (interacts with) Table",
+        "interaction" : "interacts with",
+        "description" : "The table is placed on the left hand side of the stage (from Constanzo's POV).",
+        "SUID" : 1031,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1030",
+        "source" : "869",
+        "target" : "909",
+        "shared_name" : "Stage (interacts with) Snare Drum Mount",
+        "shared_interaction" : "interacts with",
+        "name" : "Stage (interacts with) Snare Drum Mount",
+        "interaction" : "interacts with",
+        "description" : "The snare drum mount is positioned towards the top left corner of the stage (from Constanzo's POV).",
+        "SUID" : 1030,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1029",
+        "source" : "869",
+        "target" : "888",
+        "shared_name" : "Stage (interacts with) Stool",
+        "shared_interaction" : "interacts with",
+        "name" : "Stage (interacts with) Stool",
+        "interaction" : "interacts with",
+        "description" : "The stool is positioned in the center of the stage.",
+        "SUID" : 1029,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1028",
+        "source" : "868",
+        "target" : "864",
+        "shared_name" : "Table (interacts with) Black Table Cloth",
+        "shared_interaction" : "interacts with",
+        "name" : "Table (interacts with) Black Table Cloth",
+        "interaction" : "interacts with",
+        "description" : "The table cloth covers the table.",
+        "SUID" : 1028,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1027",
+        "source" : "868",
+        "target" : "865",
+        "shared_name" : "Table (interacts with) Bow",
+        "shared_interaction" : "interacts with",
+        "name" : "Table (interacts with) Bow",
+        "interaction" : "interacts with",
+        "description" : "The bow is placed on the table.",
+        "SUID" : 1027,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1026",
+        "source" : "868",
+        "target" : "863",
+        "shared_name" : "Table (interacts with) Whisk",
+        "shared_interaction" : "interacts with",
+        "name" : "Table (interacts with) Whisk",
+        "interaction" : "interacts with",
+        "description" : "The whisk is placed on the table.",
+        "SUID" : 1026,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1025",
+        "source" : "868",
+        "target" : "945",
+        "shared_name" : "Table (interacts with) Flexible Metal Board",
+        "shared_interaction" : "interacts with",
+        "name" : "Table (interacts with) Flexible Metal Board",
+        "interaction" : "interacts with",
+        "description" : "The board is placed on the table.",
+        "SUID" : 1025,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1024",
+        "source" : "867",
+        "target" : "871",
+        "shared_name" : "Felt Pad (interacts with) Condenser Mic",
+        "shared_interaction" : "interacts with",
+        "name" : "Felt Pad (interacts with) Condenser Mic",
+        "interaction" : "interacts with",
+        "description" : "The condenser mic is sometimes crushed upon the felt pad.",
+        "SUID" : 1024,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1023",
+        "source" : "867",
+        "target" : "942",
+        "shared_name" : "Felt Pad (interacts with) Snare Head Top",
+        "shared_interaction" : "interacts with",
+        "name" : "Felt Pad (interacts with) Snare Head Top",
+        "interaction" : "interacts with",
+        "description" : "The felt pad rests upon the snare head top.",
+        "SUID" : 1023,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1022",
+        "source" : "866",
+        "target" : "871",
+        "shared_name" : "Crotale (interacts with) Condenser Mic",
+        "shared_interaction" : "interacts with",
+        "name" : "Crotale (interacts with) Condenser Mic",
+        "interaction" : "interacts with",
+        "description" : "The condenser mic sometimes strikes the crotale.",
+        "SUID" : 1022,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1021",
+        "source" : "866",
+        "target" : "942",
+        "shared_name" : "Crotale (interacts with) Snare Head Top",
+        "shared_interaction" : "interacts with",
+        "name" : "Crotale (interacts with) Snare Head Top",
+        "interaction" : "interacts with",
+        "description" : "The crotale rests upon the snare head top.",
+        "SUID" : 1021,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1020",
+        "source" : "862",
+        "target" : "868",
+        "shared_name" : "Crotale (interacts with) Table",
+        "shared_interaction" : "interacts with",
+        "name" : "Crotale (interacts with) Table",
+        "interaction" : "interacts with",
+        "description" : "The crotale is place on the table.",
+        "SUID" : 1020,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1019",
+        "source" : "861",
+        "target" : "920",
+        "shared_name" : "Thick Comb (interacts with) Right Hand",
+        "shared_interaction" : "interacts with",
+        "name" : "Thick Comb (interacts with) Right Hand",
+        "interaction" : "interacts with",
+        "description" : "Constanzo holds the comb in his right hand when crushing it.",
+        "SUID" : 1019,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1018",
+        "source" : "861",
+        "target" : "942",
+        "shared_name" : "Thick Comb (interacts with) Snare Head Top",
+        "shared_interaction" : "interacts with",
+        "name" : "Thick Comb (interacts with) Snare Head Top",
+        "interaction" : "interacts with",
+        "description" : "Sometimes the comb is dragged across the snare head, sometimes crushed against it.",
+        "SUID" : 1018,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1017",
+        "source" : "861",
+        "target" : "868",
+        "shared_name" : "Thick Comb (interacts with) Table",
+        "shared_interaction" : "interacts with",
+        "name" : "Thick Comb (interacts with) Table",
+        "interaction" : "interacts with",
+        "description" : "The comb is place on the table.",
+        "SUID" : 1017,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1016",
+        "source" : "860",
+        "target" : "920",
+        "shared_name" : "Small Comb (interacts with) Right Hand",
+        "shared_interaction" : "interacts with",
+        "name" : "Small Comb (interacts with) Right Hand",
+        "interaction" : "interacts with",
+        "description" : "Constanzo holds the comb in his right hand when crushing it.",
+        "SUID" : 1016,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1015",
+        "source" : "860",
+        "target" : "942",
+        "shared_name" : "Small Comb (interacts with) Snare Head Top",
+        "shared_interaction" : "interacts with",
+        "name" : "Small Comb (interacts with) Snare Head Top",
+        "interaction" : "interacts with",
+        "description" : "Sometimes the comb is dragged across the snare head, sometimes crushed against it.",
+        "SUID" : 1015,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1014",
+        "source" : "860",
+        "target" : "868",
+        "shared_name" : "Small Comb (interacts with) Table",
+        "shared_interaction" : "interacts with",
+        "name" : "Small Comb (interacts with) Table",
+        "interaction" : "interacts with",
+        "description" : "The comb is place on the table.",
+        "SUID" : 1014,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1013",
+        "source" : "859",
+        "target" : "942",
+        "shared_name" : "Small Comb (interacts with) Snare Head Top",
+        "shared_interaction" : "interacts with",
+        "name" : "Small Comb (interacts with) Snare Head Top",
+        "interaction" : "interacts with",
+        "description" : "Sometimes the comb is dragged across the snare head, sometimes crushed against it.",
+        "SUID" : 1013,
+        "selected" : false
+      },
+      "selected" : false
+    }, {
+      "data" : {
+        "id" : "1012",
+        "source" : "859",
+        "target" : "868",
+        "shared_name" : "Small Comb (interacts with) Table",
+        "shared_interaction" : "interacts with",
+        "name" : "Small Comb (interacts with) Table",
+        "interaction" : "interacts with",
+        "description" : "The comb is place on the table.",
+        "SUID" : 1012,
+        "selected" : false
+      },
+      "selected" : false
+    } ]
+  }
+}

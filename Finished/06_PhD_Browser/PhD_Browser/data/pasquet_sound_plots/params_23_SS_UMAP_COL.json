@@ -1,0 +1,730 @@
+{
+    "1-1-1-1-settings-01-23_206STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            0,
+            140288
+        ],
+        "coords": [
+            7.8982696533203125,
+            13.835755348205566
+        ],
+        "colour": "#eeb2b2"
+    },
+    "1-1-1-1-settings-01-23_207STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            140288,
+            404096
+        ],
+        "coords": [
+            3.738363742828369,
+            9.893743515014648
+        ],
+        "colour": "#eeb2b2"
+    },
+    "1-1-1-1-settings-01-23_208STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            404096,
+            668160
+        ],
+        "coords": [
+            4.445483207702637,
+            9.97363567352295
+        ],
+        "colour": "#eeb2b2"
+    },
+    "1-1-1-1-settings-01-23_209STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            668160,
+            932096
+        ],
+        "coords": [
+            2.8839123249053955,
+            11.398306846618652
+        ],
+        "colour": "#eeb2b2"
+    },
+    "1-1-1-1-settings-01-23_210STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            932096,
+            1196032
+        ],
+        "coords": [
+            2.462844133377075,
+            10.981800079345703
+        ],
+        "colour": "#eeb2b2"
+    },
+    "1-1-1-1-settings-02-23_209STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            1196032,
+            1335776
+        ],
+        "coords": [
+            1.455092430114746,
+            12.241719245910645
+        ],
+        "colour": "#ee5151"
+    },
+    "1-1-1-1-settings-02-23_210STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            1335776,
+            1599584
+        ],
+        "coords": [
+            1.2935020923614502,
+            11.391083717346191
+        ],
+        "colour": "#ee5151"
+    },
+    "1-1-1-1-settings-02-23_211STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            1599584,
+            1863616
+        ],
+        "coords": [
+            1.4378069639205933,
+            11.133284568786621
+        ],
+        "colour": "#ee5151"
+    },
+    "1-1-1-1-settings-02-23_212STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            1863616,
+            2127552
+        ],
+        "coords": [
+            1.562911868095398,
+            11.516179084777832
+        ],
+        "colour": "#ee5151"
+    },
+    "1-1-1-1-settings-02-23_213STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            2127552,
+            2391712
+        ],
+        "coords": [
+            1.8499609231948853,
+            11.523222923278809
+        ],
+        "colour": "#ee5151"
+    },
+    "2-1-settings-01--23_272STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            2391712,
+            2497184
+        ],
+        "coords": [
+            2.4733099937438965,
+            12.078468322753906
+        ],
+        "colour": "#eebfa1"
+    },
+    "2-1-settings-01--23_273STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            2497184,
+            2695328
+        ],
+        "coords": [
+            3.448570489883423,
+            9.85173511505127
+        ],
+        "colour": "#eebfa1"
+    },
+    "2-1-settings-01--23_274STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            2695328,
+            2893376
+        ],
+        "coords": [
+            5.884097099304199,
+            11.897651672363281
+        ],
+        "colour": "#eebfa1"
+    },
+    "2-1-settings-01--23_275STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            2893376,
+            3091648
+        ],
+        "coords": [
+            6.908719062805176,
+            13.99443531036377
+        ],
+        "colour": "#eebfa1"
+    },
+    "2-1-settings-01--23_276STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            3091648,
+            3289984
+        ],
+        "coords": [
+            4.1941962242126465,
+            10.075210571289062
+        ],
+        "colour": "#eebfa1"
+    },
+    "2-1-settings-01--23_277STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            3289984,
+            3488224
+        ],
+        "coords": [
+            2.6031718254089355,
+            10.625061988830566
+        ],
+        "colour": "#eebfa1"
+    },
+    "2-1-settings-01--23_278STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            3488224,
+            3686336
+        ],
+        "coords": [
+            1.3129380941390991,
+            11.857574462890625
+        ],
+        "colour": "#eebfa1"
+    },
+    "2-1-settings-02--23_274STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            3686336,
+            3791616
+        ],
+        "coords": [
+            7.027539253234863,
+            14.101123809814453
+        ],
+        "colour": "#ee8240"
+    },
+    "2-1-settings-02--23_275STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            3791616,
+            3989728
+        ],
+        "coords": [
+            4.433811664581299,
+            10.585044860839844
+        ],
+        "colour": "#ee8240"
+    },
+    "2-1-settings-02--23_276STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            3989728,
+            4187776
+        ],
+        "coords": [
+            4.196133136749268,
+            10.437355995178223
+        ],
+        "colour": "#ee8240"
+    },
+    "2-1-settings-02--23_277STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            4187776,
+            4385824
+        ],
+        "coords": [
+            6.660260200500488,
+            12.826006889343262
+        ],
+        "colour": "#ee8240"
+    },
+    "2-1-settings-02--23_278STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            4385824,
+            4584160
+        ],
+        "coords": [
+            5.177569389343262,
+            11.155180931091309
+        ],
+        "colour": "#ee8240"
+    },
+    "2-1-settings-02--23_279STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            4584160,
+            4782176
+        ],
+        "coords": [
+            6.7023797035217285,
+            14.209307670593262
+        ],
+        "colour": "#ee8240"
+    },
+    "2-1-settings-02--23_280STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            4782176,
+            4980128
+        ],
+        "coords": [
+            3.0686771869659424,
+            10.871269226074219
+        ],
+        "colour": "#ee8240"
+    },
+    "full-rand-01-23_169STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            4980128,
+            5156128
+        ],
+        "coords": [
+            7.235333442687988,
+            13.799724578857422
+        ],
+        "colour": "#d2ee9a"
+    },
+    "full-rand-01-23_170STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            5156128,
+            5486240
+        ],
+        "coords": [
+            6.939174652099609,
+            13.303380012512207
+        ],
+        "colour": "#d2ee9a"
+    },
+    "full-rand-01-23_171STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            5486240,
+            5816448
+        ],
+        "coords": [
+            7.448996067047119,
+            14.226784706115723
+        ],
+        "colour": "#d2ee9a"
+    },
+    "full-rand-01-23_172STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            5816448,
+            6146944
+        ],
+        "coords": [
+            6.1780900955200195,
+            12.918456077575684
+        ],
+        "colour": "#d2ee9a"
+    },
+    "full-rand-02-23_169STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            6146944,
+            6322560
+        ],
+        "coords": [
+            7.033144950866699,
+            13.560818672180176
+        ],
+        "colour": "#d2ee9a"
+    },
+    "full-rand-02-23_170STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            6322560,
+            6652672
+        ],
+        "coords": [
+            5.49006986618042,
+            11.333335876464844
+        ],
+        "colour": "#d2ee9a"
+    },
+    "full-rand-02-23_171STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            6652672,
+            6982784
+        ],
+        "coords": [
+            3.481820583343506,
+            11.127674102783203
+        ],
+        "colour": "#d2ee9a"
+    },
+    "full-rand-02-23_172STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            6982784,
+            7312992
+        ],
+        "coords": [
+            3.933784008026123,
+            10.961101531982422
+        ],
+        "colour": "#d2ee9a"
+    },
+    "same-settings-01-23_169STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            7312992,
+            7488736
+        ],
+        "coords": [
+            4.109475612640381,
+            12.363585472106934
+        ],
+        "colour": "#9ceeee"
+    },
+    "same-settings-01-23_170STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            7488736,
+            7818720
+        ],
+        "coords": [
+            5.766143321990967,
+            11.707589149475098
+        ],
+        "colour": "#9ceeee"
+    },
+    "same-settings-01-23_171STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            7818720,
+            8148832
+        ],
+        "coords": [
+            3.064457893371582,
+            10.945552825927734
+        ],
+        "colour": "#9ceeee"
+    },
+    "same-settings-01-23_172STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            8148832,
+            8478816
+        ],
+        "coords": [
+            5.025960922241211,
+            10.892210960388184
+        ],
+        "colour": "#9ceeee"
+    },
+    "same-settings-02-23_169STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            8478816,
+            8653792
+        ],
+        "coords": [
+            1.5532211065292358,
+            12.339444160461426
+        ],
+        "colour": "#3deeee"
+    },
+    "same-settings-02-23_170STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            8653792,
+            8983520
+        ],
+        "coords": [
+            1.9169785976409912,
+            10.913522720336914
+        ],
+        "colour": "#3deeee"
+    },
+    "same-settings-02-23_171STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            8983520,
+            9313504
+        ],
+        "coords": [
+            2.0325329303741455,
+            11.066744804382324
+        ],
+        "colour": "#3deeee"
+    },
+    "same-settings-02-23_172STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            9313504,
+            9643712
+        ],
+        "coords": [
+            2.7875490188598633,
+            10.227668762207031
+        ],
+        "colour": "#3deeee"
+    },
+    "same-settings-03-23_169STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            9643712,
+            9818816
+        ],
+        "coords": [
+            6.301496982574463,
+            12.519968032836914
+        ],
+        "colour": "#8eaeee"
+    },
+    "same-settings-03-23_170STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            9818816,
+            10149056
+        ],
+        "coords": [
+            5.1745405197143555,
+            11.513306617736816
+        ],
+        "colour": "#8eaeee"
+    },
+    "same-settings-03-23_171STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            10149056,
+            10479296
+        ],
+        "coords": [
+            7.60499382019043,
+            13.63074779510498
+        ],
+        "colour": "#8eaeee"
+    },
+    "same-settings-03-23_172STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            10479296,
+            10809536
+        ],
+        "coords": [
+            6.684929370880127,
+            13.431387901306152
+        ],
+        "colour": "#8eaeee"
+    },
+    "same-settings-04-23_169STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            10809536,
+            10985152
+        ],
+        "coords": [
+            6.527195930480957,
+            13.807353973388672
+        ],
+        "colour": "#3773ee"
+    },
+    "same-settings-04-23_170STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            10985152,
+            11315168
+        ],
+        "coords": [
+            6.363307952880859,
+            13.022198677062988
+        ],
+        "colour": "#3773ee"
+    },
+    "same-settings-04-23_171STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            11315168,
+            11645312
+        ],
+        "coords": [
+            5.940408706665039,
+            12.721565246582031
+        ],
+        "colour": "#3773ee"
+    },
+    "same-settings-04-23_172STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            11645312,
+            11975456
+        ],
+        "coords": [
+            7.829402446746826,
+            13.927611351013184
+        ],
+        "colour": "#3773ee"
+    },
+    "same-settings-05-23_169STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            11975456,
+            12150240
+        ],
+        "coords": [
+            1.944254994392395,
+            12.110637664794922
+        ],
+        "colour": "#9068ee"
+    },
+    "same-settings-05-23_170STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            12150240,
+            12480416
+        ],
+        "coords": [
+            3.5491855144500732,
+            10.220452308654785
+        ],
+        "colour": "#9068ee"
+    },
+    "same-settings-05-23_171STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            12480416,
+            12810656
+        ],
+        "coords": [
+            2.842331886291504,
+            9.889750480651855
+        ],
+        "colour": "#9068ee"
+    },
+    "same-settings-05-23_172STEREO.wav": {
+        "numchans": 2,
+        "sr": 44100,
+        "category": 0,
+        "bounds": [
+            12810656,
+            13140832
+        ],
+        "coords": [
+            3.2411351203918457,
+            10.230600357055664
+        ],
+        "colour": "#9068ee"
+    }
+}
