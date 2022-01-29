@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="stylesheet" type="text/css" href="/style/reset.css">
+    <link rel="stylesheet" type="text/css" href="/style/main.css">
+    
+    <title>Burton - Mixed Scatter</title>
+
+    <script src="https://d3js.org/d3.v4.js" SameSite=None></script>
+    <script src="/scripts/howler/howler.core.js" SameSite=None></script>
+    
+    <script src="/scripts/flumuco_head.js" 
+            audio_urls='[
+                        "/burton_sound_plot_audio/mixed_flat_corput.wav"]' ></script>
+
+</head>
+<body>
+
+        <div id="top_menu"></div>
+        <script src="/scripts/top_menu.js"></script>
+
+        <div id="header_player"></div>
+        <script src="/scripts/header_player.js" 
+                header_div_id="header_player"></script>
+
+    <div id="actual_page_body">
+
+        <h2>Mixed</h2>
+
+        <div id="iter_plot"></div>
+        <p>File: <span id="iter_plotlabel"></span></p>
+        <div id="iter_plot_menu"></div>
+
+        <script src="/scripts/scatter_plot.js" 
+                data_urls='[
+                "/burton_sound_plots/mixed_COLOUR_TSNE.json", 
+                "/burton_sound_plots/mixed_COLOUR_UMAP.json"]' 
+                dims='["100%", 500, 10]' 
+                divs='["iter_plot", "iter_plot_label", "iter_plot_menu"]' 
+                audio="/burton_sound_plot_audio/mixed_flat_corput.wav"></script>
+        
+    </div>
+
+    <script src="/scripts/collapsables.js"></script>
+
+</body>
+</html>

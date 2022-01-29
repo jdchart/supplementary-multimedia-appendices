@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <!--CSS & Style-->
+    <link rel="stylesheet" type="text/css" href="/style/reset.css">
+    <link rel="stylesheet" type="text/css" href="/style/main.css">
+    
+    <title>Lauren Hayes Interactive Segmentation</title>
+
+    <!--External Libraries-->
+    <script src="https://d3js.org/d3.v4.js" SameSite=None></script>
+    <script src="/scripts/howler/howler.core.js" SameSite=None></script>
+    
+    <!--Main fluid musicology setup-->
+    <script src="/scripts/flumuco_head.js" 
+            audio_urls='["hayes_performance.wav"]' >
+    </script>
+
+</head>
+<body>
+
+        <!--Header player setup-->
+        <div id="header_player"></div>
+        <script src="/scripts/header_player.js" 
+                header_div_id="header_player" >
+        </script>
+
+    <div id="actual_page_body">
+
+        <!--Traditional segmentation elements-->
+        <div id="example_seg_div" style="padding-top: 10px;"></div>
+        <p class="legend"><span style="font-style: italic;">Surface-level segmentation of a piece</span>.</p>
+        <p style="padding-top: 10px;">Segment: <span id="example_seg_label"></span></p>
+
+        <hr>
+
+        <!--Dynamic video element-->
+        <video src="/video/hayes_performance.mp4" 
+                width="50%" 
+                muted 
+                id="linked_video" 
+                preload="auto" 
+                style="display: block; 
+                width: 50%; 
+                margin: 0 auto; ">
+        </video>
+
+        <!--Traditional segmentation script-->
+        <script src="/scripts/segmentation.js" 
+                data_urls='["/hayes_analysis/piece_seg_hayes.json"]' 
+                dims='["100%", 250, 10]' 
+                divs='["example_seg_div", "example_seg_label"]' 
+                audio="hayes_performance.wav" >
+        </script>
+
+        <!--Dynamic video script-->
+        <script src="/scripts/dynamic_video.js"
+                 video_id="linked_video" >
+        </script> 
+
+        <hr>
+
+        <img src="/img/hayes/spectrogram_01.png"
+        style="display: block; 
+                width: auto; 
+                margin: 0 auto; ">
+        <p class="legend" style="width: 100%;
+        text-align: center;"><span style="font-style: italic;">Spectrogram 1</span>.</p>
+
+        <hr>
+
+        <img src="/img/hayes/spectrogram_02.png"
+        style="display: block; 
+                width: auto; 
+                margin: 0 auto; ">
+        <p class="legend" style="width: 100%;
+        text-align: center;"><span style="font-style: italic;">Spectrogram 2</span>.</p>
+
+        <hr>
+
+        <img src="/img/hayes/spectrogram_03.png"
+        style="display: block; 
+                width: auto; 
+                margin: 0 auto; ">
+        <p class="legend" style="width: 100%;
+        text-align: center;"><span style="font-style: italic;">Spectrogram 3</span>.</p>
+
+        <hr>
+
+    </div>
+
+</body>
+</html>

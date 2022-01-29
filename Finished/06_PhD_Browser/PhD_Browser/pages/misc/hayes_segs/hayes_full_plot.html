@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="stylesheet" type="text/css" href="/style/reset.css">
+    <link rel="stylesheet" type="text/css" href="/style/main.css">
+    
+    <title>Hayes - Full Sound Plot</title>
+
+    <script src="https://d3js.org/d3.v4.js" SameSite=None></script>
+    <script src="/scripts/howler/howler.core.js" SameSite=None></script>
+    
+    <script src="/scripts/flumuco_head.js" 
+            audio_urls='[
+                        "/hayes_sound_plot_audio/hayes_full_audio.wav"]' ></script>
+
+</head>
+<body>
+
+        <div id="top_menu"></div>
+        <script src="/scripts/top_menu.js"></script>
+
+        <div id="header_player"></div>
+        <script src="/scripts/header_player.js" 
+                header_div_id="header_player"></script>
+
+    <div id="actual_page_body">
+
+        <h2>Full Sound Plot</h2>
+
+        <div id="iter_plot"></div>
+        <p>File: <span id="iter_plotlabel"></span></p>
+        <div id="iter_plot_menu"></div>
+
+        <script src="/scripts/scatter_plot.js" 
+                data_urls='[
+                "/hayes_sound_plots/HAYES_KMEANS_CLOURED.json",
+                "/hayes_sound_plots/HAYES_PCA_CLOURED.json",
+                "/hayes_sound_plots/HAYES_TSNE_CLOURED.json",
+                "/hayes_sound_plots/HAYES_UMAP_CLOURED.json"]' 
+                dims='["100%", 500, 10]' 
+                divs='["iter_plot", "iter_plot_label", "iter_plot_menu"]' 
+                audio="/hayes_sound_plot_audio/hayes_full_audio.wav"></script>
+        
+    </div>
+
+    <script src="/scripts/collapsables.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="stylesheet" type="text/css" href="/style/reset.css">
+    <link rel="stylesheet" type="text/css" href="/style/main.css">
+    
+    <title>Olivier Pasquet Interactive Segmentation</title>
+
+    <script src="https://d3js.org/d3.v4.js" SameSite=None></script>
+    <script src="/scripts/howler/howler.core.js" SameSite=None></script>
+    
+    <script src="/scripts/flumuco_head.js" 
+            audio_urls='["pasquet_performance_video_audio.wav"]' ></script>
+
+</head>
+<body>
+
+
+        <div id="header_player"></div>
+        <script src="/scripts/header_player.js" 
+                header_div_id="header_player"
+                ></script>
+
+    <div id="actual_page_body">
+
+        <div id="constanzo_perf_seg" style="padding-top: 10px;"></div>
+        <p class="legend"><span style="font-style: italic;">Surface-level segmentation of a piece</span>.</p>
+        <p style="padding-top: 10px;">Segment: <span id="constanzo_perf_seg_label"></span></p>
+
+        <hr>
+
+        <video src="/video/pasquet_performance.mp4" 
+                width="50%" 
+                muted 
+                id="linked_video"
+                style="display: block; 
+                width: 50%; 
+                margin: 0 auto; "></video>
+
+        <script src="/scripts/segmentation.js" 
+                data_urls='["pasquet_analysis/pasquet_segmentation.json"]' 
+                dims='["100%", 250, 10]' 
+                divs='["constanzo_perf_seg", "constanzo_perf_seg_label"]' 
+                audio="pasquet_performance_video_audio.wav"></script>
+
+        <script src="/scripts/dynamic_video.js"
+                 video_id="linked_video"></script> 
+
+    </div>
+
+    <script src="/scripts/collapsables.js"></script>
+
+</body>
+</html>

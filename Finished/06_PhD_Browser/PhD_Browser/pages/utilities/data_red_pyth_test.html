@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="stylesheet" type="text/css" href="/style/reset.css">
+    <link rel="stylesheet" type="text/css" href="/style/main.css">
+    
+    <title>Data Reductions from Python</title>
+
+    <script src="https://d3js.org/d3.v4.js" SameSite=None></script>
+    <script src="/scripts/howler/howler.core.js" SameSite=None></script>
+    
+    <script src="/scripts/flumuco_head.js" 
+            audio_urls='["constanzo_raw_mic_seg_raw_mic_flat_corpus.wav"]' ></script>
+
+</head>
+<body>
+
+        <div id="top_menu"></div>
+        <script src="/scripts/top_menu.js"></script>
+
+        <div id="header_player"></div>
+        <script src="/scripts/header_player.js" 
+                header_div_id="header_player"></script>
+
+    <div id="actual_page_body">
+
+        <div id="scatter_plot_01"></div>
+        <p>File: <span id="scatter_plot_01_label"></span></p>
+        <div id="scatter_plot_01_menu"></div>
+
+        <script src="/scripts/scatter_plot.js" 
+                data_urls='["test_data_TSNE.json",
+                            "test_data_ISOMAP.json",
+                            "test_data_KMEANS.json",
+                            "test_data_LLE-STANDARD.json",
+                            "test_data_MDS.json",
+                            "test_data_MINISOM.json",
+                            "test_data_PCA.json"]' 
+                dims='[500, 500, 10]' 
+                divs='["scatter_plot_01", "scatter_plot_01_label", "scatter_plot_01_menu"]' 
+                audio="constanzo_raw_mic_seg_raw_mic_flat_corpus.wav"></script>
+
+
+    </div>
+
+    <script src="/scripts/collapsables.js"></script>
+
+</body>
+</html>

@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="stylesheet" type="text/css" href="/style/reset.css">
+    <link rel="stylesheet" type="text/css" href="/style/main.css">
+    
+    <title>Constanzo - Patch Walkthrough</title>
+
+    <script src="https://d3js.org/d3.v4.js" SameSite=None></script>
+    <script src="/scripts/howler/howler.core.js" SameSite=None></script>
+    
+    <script src="/scripts/flumuco_head.js" 
+            audio_urls='[]' ></script>
+
+</head>
+<body>
+
+        <div id="top_menu"></div>
+        <script src="/scripts/top_menu.js"></script>
+
+        <div id="header_player"></div>
+        <script src="/scripts/header_player.js" 
+                header_div_id="header_player"></script>
+
+    <div id="actual_page_body">
+
+        <h1>Patch Walkthrough</h1>
+
+        <hr>
+
+        <h2>Patchers</h2>
+
+        <div id="constanzo_patch_walkthrough_div"></div>
+        <p>Object: <span id="constanzo_patch_walkthrough_label"></span></p>
+        <div style="padding-top: 10px;" id="constanzo_patch_walkthrough_sel"></div>
+
+        <script src="/scripts/max_patch.js" 
+                data_urls='["/constanzo_patch_walkthrough/cloud_effect.maxpat",
+                "/constanzo_patch_walkthrough/01_mode_switching.maxpat",
+                "/constanzo_patch_walkthrough/02_audio_analysis.maxpat", 
+                "/constanzo_patch_walkthrough/03_comb_pitch_analysis.maxpat",
+                "/constanzo_patch_walkthrough/04_sample_corpus_query.maxpat",
+                "/constanzo_patch_walkthrough/05_solenoid_corpus_query.maxpat",
+                "/constanzo_patch_walkthrough/06_normalisation.maxpat",
+                "/constanzo_patch_walkthrough/07_Schmitt_flip_flop.maxpat",
+                "/constanzo_patch_walkthrough/08_blend.maxpat",
+                "/constanzo_patch_walkthrough/09_kick_samples.maxpat",
+                "/constanzo_patch_walkthrough/10_scaling.maxpat",
+                "/constanzo_patch_walkthrough/11_hpss_player.maxpat"]' 
+                dims="['100%', 500, 10]" 
+                divs="['constanzo_patch_walkthrough_div', 'constanzo_patch_walkthrough_label', 'constanzo_patch_walkthrough_sel']"></script>
+
+        <hr>
+
+        <h2>Cloud control example video</h2>
+
+        <video controls><source src="/video/constanzo_cloud_ctrl_example.mov" type="video/mp4">Loading video...</video>
+
+    </div>
+
+    <script src="/scripts/collapsables.js"></script>
+
+</body>
+</html>

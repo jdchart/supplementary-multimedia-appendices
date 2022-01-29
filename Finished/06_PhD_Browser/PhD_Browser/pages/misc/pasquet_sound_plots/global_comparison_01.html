@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" type="text/css" href="/style/reset.css">
+<link rel="stylesheet" type="text/css" href="/style/main.css">
+<title>global_comparison_01 - Sound Plot</title>
+<script src="https://d3js.org/d3.v4.js" SameSite=None></script>
+<script src="/scripts/howler/howler.core.js" SameSite=None></script>
+<script src="/scripts/flumuco_head.js"
+audio_urls='[
+"/pasquet_sound_plot_audio/global_comparison_01_flat_corpus.wav"]' ></script>
+</head>
+<body>
+<div id="top_menu"></div>
+<script src="/scripts/top_menu.js"></script>
+<div id="header_player"></div>
+<script src="/scripts/header_player.js"
+header_div_id="header_player"></script>
+<div id="actual_page_body">
+<h2>global_comparison_01 - Sound Plot</h2>
+<div id="iter_plot"></div>
+<p>File: <span id="iter_plotlabel"></span></p>
+<div id="iter_plot_menu"></div>
+<script src="/scripts/scatter_plot.js"
+data_urls='[
+"/pasquet_sound_plots/global_comparison_01_MFCC_TSNE_COL.json", 
+"/pasquet_sound_plots/global_comparison_01_MFCC_UMAP_COL.json", 
+"/pasquet_sound_plots/global_comparison_01_SS_TSNE_COL.json", 
+"/pasquet_sound_plots/global_comparison_01_SS_UMAP_COL.json"]' 
+dims='["100%", 500, 10]' 
+divs='["iter_plot", "iter_plot_label", "iter_plot_menu"]' 
+audio="/pasquet_sound_plot_audio/global_comparison_01_flat_corpus.wav"></script>
+</div>
+<script src="/scripts/collapsables.js"></script>
+</body>
+</html>

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="stylesheet" type="text/css" href="/style/reset.css">
+    <link rel="stylesheet" type="text/css" href="/style/main.css">
+    
+    <title>Constanzo - Performance Network</title>
+
+    <script src="https://d3js.org/d3.v4.js" SameSite=None></script>
+    <script src="/scripts/howler/howler.core.js" SameSite=None></script>
+    
+    <script src="/scripts/flumuco_head.js" 
+            audio_urls='[]' ></script>
+
+</head>
+<body>
+
+        <div id="top_menu"></div>
+        <script src="/scripts/top_menu.js"></script>
+
+        <div id="header_player"></div>
+        <script src="/scripts/header_player.js" 
+                header_div_id="header_player"></script>
+
+    <div id="actual_page_body">
+
+        <h1>Performance Network</h1>
+
+        <hr>
+
+        <div id="constanzo_network_graphs_div"></div>
+        <p>Info: <span id="constanzo_network_graphs_label"></span></p>
+        <div id="constanzo_network_graphs_menu"></div>
+
+        <script src="/scripts/network_graph.js" 
+                data_urls='["/constanzo_network_graphs/01_constanzo_global_circular.cyjs", 
+                                "/constanzo_network_graphs/02_constanzo_global_hierarchy.cyjs",
+                                "/constanzo_network_graphs/03_constanzo_local_radial.cyjs",
+                                "/constanzo_network_graphs/03_local_analysis.cyjs",
+                                "/constanzo_network_graphs/04_constanzo_local_hierarchical.cyjs",
+                                "/constanzo_network_graphs/05_constanzo_instrumental_force_directed",
+                                "/constanzo_network_graphs/06_constanzo_instrumental_hierarchic.cyjs"]' 
+                dims='["100%", 500, 10]' 
+                divs='["constanzo_network_graphs_div", "constanzo_network_graphs_label", "constanzo_network_graphs_menu"]'></script>
+
+        
+    </div>
+
+    <script src="/scripts/collapsables.js"></script>
+
+</body>
+</html>

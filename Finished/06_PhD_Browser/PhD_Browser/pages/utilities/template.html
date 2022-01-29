@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="stylesheet" type="text/css" href="/style/reset.css">
+    <link rel="stylesheet" type="text/css" href="/style/main.css">
+    
+    <title>PhD Browser - Test Page</title>
+
+    <script src="https://d3js.org/d3.v4.js" SameSite=None></script>
+    <script src="/scripts/howler/howler.core.js" SameSite=None></script>
+    
+    <script src="/scripts/flumuco_head.js" 
+            audio_urls='["test_corpus.wav", "test_piece.wav"]' ></script>
+
+</head>
+<body>
+
+    <div id="top_menu"></div>
+    <script src="/scripts/top_menu.js"></script>
+
+    <div id="header_player"></div>
+    <script src="/scripts/header_player.js" 
+            header_div_id="header_player"></script>
+
+    <div id="actual_page_body">
+
+        <div>
+            <h1>Test Scatter Plot:</h1>
+            <p>Scatter sounds all around...</p>
+        </div>
+
+        <div id="scatter_plot_01"></div>
+        <p id="scatter_plot_01_label"></p>
+        <div id="scatter_plot_01_menu"></div>
+
+        <script src="/scripts/scatter_plot.js" 
+                data_urls='["full_file_mfcc.json", "sliced_mfcc.json"]' 
+                dims='[500, 500, 10]' 
+                divs='["scatter_plot_01", "scatter_plot_01_label", "scatter_plot_01_menu"]' 
+                audio="test_corpus.wav"></script>
+
+        <div>
+            <h2>Test Scatter Plot:</h1>
+            <p>A second scatter plot, scatter even more sounds around!</p>
+        </div>
+
+        <div id="scatter_plot_02"></div>
+        <p >The segment: <span id="scatter_plot_02_label"></span></p>
+        <div id="scatter_plot_02_menu"></div>
+
+        <script src="/scripts/scatter_plot.js" 
+                data_urls='["sliced_mfcc.json", "full_file_mfcc.json"]' 
+                dims='["100%", 600, 10]' 
+                divs='["scatter_plot_02", "scatter_plot_02_label", "scatter_plot_02_menu"]' 
+                audio="test_corpus.wav"></script>
+
+        <hr>
+
+        <div>
+            <h1>Test Segmentation:</h1>
+            <p>Chop up stuff and show it off...</p>
+        </div>
+
+        <div id="segmentation_01"></div>
+        <p id="segmentation_01_label"></p>
+        <div id="segmentation_01_menu"></div>
+
+        <script src="/scripts/segmentation.js" 
+                data_urls='["john_seg_1.json", "john_seg_2.json"]' 
+                dims='["100%", 200, 10]' 
+                divs='["segmentation_01", "segmentation_01_label", "segmentation_01_menu"]' 
+                audio="test_piece.wav"></script>
+
+
+
+
+        <hr>
+
+        <h1>Test Snippet:</h1>
+
+        <p>This is just a quick example of how to play a quick snippet. If you click <span id="snippet_01"></span>, a sound should play! </p>
+        
+        <script src="/scripts/snippet_player.js" 
+            snippet_span="snippet_01"
+            snippet_text="here"
+            snippet_audio="test_corpus.wav"
+            snippet_limits="[0, 1000]"
+            snippet_name="First second"></script>  
+
+
+        <p>Let's try another snippet <span id="snippet_02"></span> that plays the rest of the piece!</p>
+
+        <script src="/scripts/snippet_player.js" 
+                snippet_span="snippet_02"
+                snippet_text="here"
+                snippet_audio="test_corpus.wav"
+                snippet_limits="[-1, -1]"
+                snippet_name="Rest of the piece"></script>
+
+        <h1>Test Max Patch:</h1>
+
+        <p>View max patchers in the browser!</p>
+
+        <div id="test_patch_view_div"></div>
+        <p>Object: <span id="test_patch_view_label"></span></p>
+        <div id="test_patch_view_sel"></div>
+
+        <script src="/scripts/max_patch.js" 
+                data_urls='["test_max_patch.maxpat", "test_max_patch2.maxpat"]' 
+                dims="[500, 500, 10]" 
+                divs="['test_patch_view_div', 'test_patch_view_label', 'test_patch_view_sel']"></script>
+
+
+
+
+    </div>
+
+    <script src="/scripts/collapsables.js"></script>
+
+</body>
+</html>

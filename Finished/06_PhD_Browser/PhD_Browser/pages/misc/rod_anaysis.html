@@ -1,0 +1,561 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
+    <link rel="stylesheet" type="text/css" href="/style/reset.css">
+    <link rel="stylesheet" type="text/css" href="/style/main.css">
+    
+    <title>PhD Browser - Rodrigo Constanzo Analysis</title>
+
+    <script src="https://d3js.org/d3.v4.js" SameSite=None></script>
+    <script src="/scripts/howler/howler.core.js" SameSite=None></script>
+    
+    <script src="/scripts/flumuco_head.js" 
+            audio_urls='["constanzo_performance_video_audio.wav"]' ></script>
+
+</head>
+<body>
+
+    <div id="top_menu"></div>
+    <script src="/scripts/top_menu.js"></script>
+
+    <div id="header_player"></div>
+    <script src="/scripts/header_player.js" 
+            header_div_id="header_player"></script>
+
+    <div id="actual_page_body">
+
+        <h1>Rodrigo Constanzo - Kaizo Snare</h1>
+
+        <hr>
+
+        <div style="display: grid; grid-template-columns: 70% 30%; align-items: center;">
+
+            <div>
+                <h2>Rodrigo Constanzo</h2>
+
+                <p style="text-align: justify; padding-right: 10px;">A more complete biography for Constanzo can be found <a href="/pages/people/rodrigo_constanzo.html" target="_blank">here</a>, however we shall start by briefly going over some points which are particularly relevant in regard to his participation on the project. 
+                    Constanzo is a graduate of the University of Huddersfield, and he has known members of the <span style="font-style: italic;">FluCoMa</span> team for many years. 
+                    He has been extremely active on the <span style="font-style: italic;">FluCoMa</span> forum and has continued to actively participate in testing of the tools well after his commissioned performance. 
+                    He could perhaps best be described as an improviser – some of his PhD thesis<sup><a class="footnote_link" href="#footnote_01" id="footnote_link_01">1</a></sup> was dedicated to developing a framework for improvisers to analyse their own performances. 
+                    He is also a talented coder – primarily in <span style="font-style: italic;">Max</span> – and instrument maker. 
+                    Indeed, he operates far beyond the digital domain, having constructed and augmented instruments through various techniques, including 3d printing.
+                    <br><br>
+                    Constanzo started playing music around the age of four with the piano (his grandparents were both piano teachers)<sup><a class="footnote_link" href="#footnote_02" id="footnote_link_02">2</a></sup>, but soon moved on to other instruments like the guitar and the drums. 
+                    It wasn’t until he reached university that he started getting into some “<span style="font-style: italic;">weirder stuff</span>” like DIY guitar pedals and <span style="font-style: italic;">circuit-bending</span>. 
+                    All of this can be found within the work he has accomplished for the project. 
+                    Constanzo is also regularly writes about his work – this project was no exception. 
+                    There is an extensive <a href="https://rodrigoconstanzo.com/2020/08/kaizo-snare/" target="_blank">post</a> on his blog which we shall refer to further on.
+                </p>
+
+            </div>
+
+            <div >
+                <img src="/img/constanzo_profile.jpg" alt="Rodrigo Constanzo" style="width: 100%; height: auto;">
+                <p class="legend"><span style="font-style: italic;">Photo of Rodrigo Constanzo</span>. Taken from his <a href="https://rodrigoconstanzo.com/bio/" target="_blank">website</a>. Photo by Asiya Bulatova.</p>
+            </div>
+
+        </div>
+
+        <hr>
+
+        <div style="display: grid; grid-template-columns: 50% 50%; align-items: center;">
+
+
+                <div>
+
+                    <h2>Surface-level analysis of the performance</h2>
+
+                    <p style="text-align: justify; padding-right: 10px;">The piece, called <span style="font-style: italic;">Kaizo Snare</span>, is approximately 11 minutes and 40 seconds long (listen to the piece <span id="full_piece_snippet"></span>, or watch the video to the right). 
+                        It was performed at the first <span style="font-style: italic;">FluCoMa</span> gig at <span style="font-style: italic;">HCMF</span> 2019 (21<sup>st</sup> November 2019). 
+                        Rodrigo played 3<sup>rd</sup> (after Owen and Olivier, before Lauren and John) on the <a href="/pages/places/bates_mill.html" target="_blank">back-right stage (stage C)</a>. 
+                        We shall presently go through a segmentation of the piece which can be explored interactively in the visualisation below.
+                        <br><br>
+                        We shall go over this in more detail in the next section, however, let’s briefly present the setup: 
+                        Constanzo is alone on stage with a kick drum, snare drum, a laptop and a table of various items for playing the snare drum with – including notably a condenser microphone. 
+                        Attached to the snare drum he also has a crossfader, and a small MIDI controller that he uses to control his <span style="font-style: italic;">Max</span> patch. 
+                        Around and among the audience are a set of six small, hidden robots that tap on crotales of various sizes when triggered either with a plastic or wooden stick. 
+                    </p>
+
+
+                    <script src="/scripts/snippet_player.js" 
+                            snippet_span="full_piece_snippet" 
+                            snippet_text="here" 
+                            snippet_audio="constanzo_performance_video_audio.wav" 
+                            snippet_limits="[0, 600000]" 
+                            snippet_name="Kaizo Snare - HCMF Performance"></script>  
+
+                </div>
+
+
+            <div>
+                <iframe style="min-width: 100%; min-height: 100%; height: 300px; width: auto;" src="https://www.youtube.com/embed/MTWklm1oXWQ" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                <p class="legend"><a href="https://youtu.be/MTWklm1oXWQ" target="_blank" style="font-style: italic;">Rodrigo Constanzo: Kaizo Snare</a>. <a href="https://www.youtube.com/channel/UCw44GjWHPQs0PKnj2OJmWCA" target="_blank">Fluid Corpus Manipulation Youtube channel</a>. Video by Angela Guyton. Uploaded 5<sup>th</sup> January 2020.</p>
+            </div>
+
+        </div>
+
+        <h3>Segmentation</h3>
+
+        <div>
+
+            <div id="constanzo_perf_seg" style="padding-top: 10px;"></div>
+            <p class="legend"><span style="font-style: italic;">Surface-level segmentation of Rodrigo Constanzo's performance Kaizo Snare</span>.</p>
+            <p style="padding-top: 10px;">Segment: <span id="constanzo_perf_seg_label"></span></p>
+
+
+            <script src="/scripts/segmentation.js" 
+                    data_urls='["constanzo_performance_surface_level_analysis.json"]' 
+                    dims='["100%", 250, 10]' 
+                    divs='["constanzo_perf_seg", "constanzo_perf_seg_label"]' 
+                    audio="constanzo_performance_video_audio.wav"></script>
+
+        </div>
+
+        <hr>
+
+        <div>
+
+            <p style="text-align: justify; padding-right: 10px;">There are four main streams that we can concentrate on: 
+                snare drum and crossfader activity, sample-playback activity, kick drum activity and crotale robot activity. 
+                The piece can be divided into five large parts which we shall go over now.
+            </p>
+
+            <br>
+
+            <div class="table" style="display: grid; align-items: center; grid-template-columns: 12% 25% 21% 21% 21%; max-width: 100%;">
+
+                <p style="font-style: italic;" class="table_label">Name + Time</p>
+                <p style="font-style: italic;" class="table_label">Snare + crossfader activity</p>
+                <p style="font-style: italic;" class="table_label">Sample activity</p>
+                <p style="font-style: italic;" class="table_label">Kick activity</p>
+                <p style="font-style: italic;" class="table_label">Robot + other activity</p>
+
+                <h4 style="grid-column: 1 / 6;" class="table_head collapsable">Section A (00:00-03:00)</h4>
+
+                <div class="collapsable_content" style="grid-column: 1 / 6;">
+
+                    <div class="table" style="display: grid; align-items: center; grid-template-columns: 12% 25% 21% 21% 21%; max-width: 100%;">
+
+                        <p><span style="font-style: italic;">a</span> <br>(00:00-00:35)</p>
+                        <p>Scratching with the condenser mic, one time touches the felt with a slight dragging gesture, one time touching the crotale.
+                            Various crossfader gestures.  
+                        </p>
+                        <p>-</p>
+                        <p>-</p>
+                        <p>-</p>
+
+                        <p><span style="font-style: italic;">a'</span> <br>(00:33-00:46)</p>
+                        <p>Same scratching and crossfade gestures, slightly more energetic.
+                        </p>
+                        <p>One cymbal sample is triggered at the start.</p>
+                        <p>-</p>
+                        <p>Mode change.</p>
+
+                        <p><span style="font-style: italic;">a'</span> <br>(00:46-01:02)</p>
+                        <p>Same gestures.</p>
+                        <p>Again, triggering of one cymbal. Possibly other discrete, more transient samples being triggered.</p>
+                        <p>-</p>
+                        <p>Mode change.</p>
+
+                        <p style="grid-column: 1 / 6;" class="table_break"></p>
+
+                        <p><span style="font-style: italic;">a</span> <br>(01:02-01:27)</p>
+                        <p>Back to gestures from <span style="font-style: italic;">a</span>. More felt this time, dragging and a new gesture: crushing the felt.</p>
+                        <p>-</p>
+                        <p>-</p>
+                        <p>Mode change.</p>
+
+                        <p><span style="font-style: italic;">a''</span> <br>(01:27-01:50)</p>
+                        <p>Just scratching and crossfading.</p>
+                        <p>More higher pitch samples are triggered, bell like and shorter, with one longer gong sample.</p>
+                        <p>-</p>
+                        <p>Mode change.</p>
+
+                        <p><span style="font-style: italic;">a''</span> <br>(01:50-02:19)</p>
+                        <p>Starts with an almost 10 second pause waiting for the resonance of a long gong from the last section to dissipate. Then reduced, quieter gestures.</p>
+                        <p>Very transient heavy samples. Playback?</p>
+                        <p>-</p>
+                        <p>Mode change.</p>
+
+                        <p><span style="font-style: italic;">a''</span> <br>(02:19-02:35)</p>
+                        <p>A lot heavier, more aggressive gestures. Crossfading between perhaps dry and wavefolded signal and various signals.</p>
+                        <p>Much more variety on the samples, various tuned cymbal percussion sounds.</p>
+                        <p>-</p>
+                        <p>Mode change.</p>
+
+                        <p><span style="font-style: italic;">a''</span> <br>(02:35-02:44)</p>
+                        <p>Like at the beginning of <span style="font-style: italic;">a'</span>, leaving the resonance of a long gong sound, but this time lightly accompanying it with scratching.</p>
+                        <p>-</p>
+                        <p>-</p>
+                        <p>Mode change.</p>
+
+                        <p><span style="font-style: italic;">a''</span> <br>(02:44-03:00)</p>
+                        <p>The same overall gesture as the previous bloc, starting with scratching.</p>
+                        <p>The same overall gesture as the previous bloc, various samples, ending with another resonance of a gong sound (this time the gong sound it chopped in some way).</p>
+                        <p>-</p>
+                        <p>Mode change.</p>
+
+                    </div>
+
+
+                </div>
+
+                <h4 style="grid-column: 1 / 6;" class="table_head collapsable">Section B (03:00-04:40)</h4>
+
+                <div class="collapsable_content" style="grid-column: 1 / 6;">
+                
+                    <div class="table" style="display: grid; align-items: center; grid-template-columns: 12% 25% 21% 21% 21%; max-width: 100%;">
+                    
+                        <p><span style="font-style: italic;">b</span> <br>(03:00-03:27)</p>
+                        <p>Constanzo has taken a comb (1) instead of the crossfader and is holding it against the condenser microphone. Crushing the comb to make lots of poppy sounds.</p>
+                        <p>The comb pops are triggering high pitched long cymbal samples.</p>
+                        <p>-</p>
+                        <p>Mode change. Starts with what seems like feedback issues – changes mode again at 03:12 to get rid of this.</p>
+
+                        <p><span style="font-style: italic;">b'</span> <br>(03:27-03:50)</p>
+                        <p>Repeats the same gesture twice (first ends at 03:41):
+                            Hands (snare surface and comb): Then gesture starts with clicky crushing of the comb, then is finished with a long drag.
+                            </p>
+                        <p>The same kind of samples from before are being triggered.</p>
+                        <p>-</p>
+                        <p>Mode change.</p>
+
+                        <p style="grid-column: 1 / 6;" class="table_break"></p>
+
+                        <p><span style="font-style: italic;">b</span> <br>(03:50-03:57)</p>
+                        <p>Constanzo transfers the comb to the left hand and performs crossfader gestures with the right.                 
+                            </p>
+                        <p>The same kinds of samples are being triggered.</p>
+                        <p>-</p>
+                        <p>-</p>
+
+                        <p><span style="font-style: italic;">b''</span> <br>(03:57-04:27)</p>
+                        <p>Same gesture is repeated twice (first ends at 04:10):
+                            Gesture starts with condenser mic scratching and crossfading begins relatively restrained and ends with the comb dragging in long gestures across the surface of the snare being much noisier.                    
+                            </p>
+                        <p>Still the same kind of samples as before, but much less dense.</p>
+                        <p>-</p>
+                        <p>Mode change.</p>
+
+                        <p style="grid-column: 1 / 6;" class="table_break"></p>
+
+                        <p><span style="font-style: italic;">b'''</span> <br>(04:27-04:40)</p>
+                        <p>The same gesture is repeated 3 times:
+                            Hands (snare surface, comb and crossfader): A long, scratching, 1st time just with the condenser mic, the other 2 times with the comb.
+                            The first two drags are followed by silence, the last one leads straight into the next section.                                   
+                            </p>
+                        <p>No more samples seem to be being triggered.</p>
+                        <p>-</p>
+                        <p>-</p>
+
+                    </div>
+                
+                </div>
+
+                <h4 style="grid-column: 1 / 6;" class="table_head collapsable">Section C (04:40-06:56)</h4>
+
+                <div class="collapsable_content" style="grid-column: 1 / 6;">
+                
+                    <div class="table" style="display: grid; align-items: center; grid-template-columns: 12% 25% 21% 21% 21%; max-width: 100%;">
+                    
+                        <p><span style="font-style: italic;">c</span> <br>(04:40-05:03)</p>
+                        <p>Repetition of 6 phrases – each start with a kick drum and seem to emerge from its resonance. Emerge from the resonance of the kick drum: Phrases 1 and 2 – comb pressed against the condenser mic, poppy sounds, and quick shots of the comb dragging on the surface; Phrases 3, 5 and 6 – mic and comb scraping against the drum surface, sometimes dragging the felt with the mic. Phrase 4 – crushing the mic against the surface for a suspended, quieter white noise.                                 
+                            </p>
+                        <p>Apparently no samples present.</p>
+                        <p>One kick at the beginning of each phrase.</p>
+                        <p>-</p>
+
+                        <p style="grid-column: 1 / 6;" class="table_break"></p>
+
+                        <p><span style="font-style: italic;">c'-1</span> <br>(05:03-05:14)</p>
+                        <p>- </p>
+                        <p>Triggering of a long, sustained gong sound, pause in its resonance.</p>
+                        <p>1 kick into the next section.</p>
+                        <p>Mode change.</p>
+
+                        <p><span style="font-style: italic;">c'-2</span> <br>(05:14-05:36)</p>
+                        <p>Constanzo takes a different comb (2), intermittently changes between dragging the comb and the mic across the surface with pauses. Also return of crossfade gestures.</p>
+                        <p>-</p>
+                        <p>-</p>
+                        <p>Mode change at 05 :31, noisy drag with comb, then mode change again.</p>
+
+                        <p style="grid-column: 1 / 6;" class="table_break"></p>
+
+                        <p><span style="font-style: italic;">c''-1</span> <br>(05:36-05:46)</p>
+                        <p>3-time repetition of a gesture – scraping with comb and crossfading, then an impact. , The second impact is a tapping of the crotale on the snare surface, the third is a tapping of the snare surface with the finger. </p>
+                        <p>The thrird impact triggers the long cymbal sample that leads into the next part.</p>
+                        <p>The first impact is a kick of the kick drum.</p>
+                        <p>Mode change. </p>
+
+                        <p><span style="font-style: italic;">c''-2</span> <br>(05:46-06:13)</p>
+                        <p>Constanzo rubs the mic quietly across the surface. He then takes a new comb (3) and starts rubbing that along the surface also.</p>
+                        <p>This is over the fading resonance of the cymbal sample.</p>
+                        <p>-</p>
+                        <p>-</p>
+
+                        <p style="grid-column: 1 / 6;" class="table_break"></p>
+
+                        <p><span style="font-style: italic;">c'''-1</span> <br>(06:13-06:22)</p>
+                        <p>An initial scrape with the mic and comb, then two kick drum kicks. More aggressive scraping with the mic and comb, then another kick.</p>
+                        <p>Long cymbal samples, few but very resonant.</p>
+                        <p>(See snare activity).</p>
+                        <p>Mode change.</p>
+
+                        <p><span style="font-style: italic;">c'''-2</span> <br>(06:22-06:42)</p>
+                        <p>Rhythmic, relatively steady mic drags, slow, which are being modulated with the crossfader. </p>
+                        <p>This is happening over the long resonance of a cymbal sample. Somewhat of a suspension.</p>
+                        <p>-</p>
+                        <p>-</p>
+
+                        <p><span style="font-style: italic;">c'''-3</span> <br>(06:42-06:48)</p>
+                        <p>4 short phrases, triggered by a kick drum, then with the comb against the mic in suspension.</p>
+                        <p>Samples become more present.</p>
+                        <p>The phrases are triggered by the kick drum.</p>
+                        <p>-</p>
+
+                        <p><span style="font-style: italic;">c'''-4</span> <br>(06:49-06:59)</p>
+                        <p>General loud scraping of mic and comb, a long gesture which finished with a kick drum.</p>
+                        <p>-</p>
+                        <p>(See snare activity).</p>
+                        <p>Mode change.</p>
+
+                    </div>
+                
+                </div>
+
+                <h4 style="grid-column: 1 / 6;" class="table_head collapsable">Section D (06:59-08:17)</h4>
+
+                <div class="collapsable_content" style="grid-column: 1 / 6;">
+                
+                    <div class="table" style="display: grid; align-items: center; grid-template-columns: 12% 25% 21% 21% 21%; max-width: 100%;">
+                    
+                        <p><span style="font-style: italic;">d</span> <br>(06:59-07:11)</p>
+                        <p>Constanzo abandons the comb. A lot more glitchy in nature.
+                            Relatively energetic mic rubbing against the drum surface, also crushes the felt towards the end, and energetic crossfader gestures.
+                            </p>
+                        <p>More transient bursts of samples.</p>
+                        <p>-</p>
+                        <p>Mode change.</p>
+
+                        <p><span style="font-style: italic;">d</span> <br>(07:11-07:22)</p>
+                        <p>Suspension, quietly crushing the mic against the felt.</p>
+                        <p>-</p>
+                        <p>-</p>
+                        <p>-</p>
+
+                        <p><span style="font-style: italic;">d</span> <br>(07:22-07:41)</p>
+                        <p>Another chaotic section similar to <span style="font-style: italic;">C</span>, however there is much more feedback this time which Constanzo plays with with the crossfader.</p>
+                        <p>There is a very synthetic, digital sound.</p>
+                        <p>He gets rid of the feedback towards the end with a kick of the kick drum.</p>
+                        <p>-</p>
+
+                        <p><span style="font-style: italic;">d</span> <br>(07:41-07:51)</p>
+                        <p>After a pause, starts another section similar to <span style="font-style: italic;">C</span>, also marking a pause with a kick drum at the end. This time, very energetic and less feedback.</p>
+                        <p>-</p>
+                        <p>(See snare activity).</p>
+                        <p>Mode chnage.</p>
+
+                        <p style="grid-column: 1 / 6;" class="table_break"></p>
+
+                        <p><span style="font-style: italic;">d'</span> <br>(07:51-08:18)</p>
+                        <p>First a long dragging of the mic with feedback. 
+                            Then two shorter drags of the mic with the felt. 
+                            Then two drags of the mic with the felt but very quiet.
+                            </p>
+                        <p>-</p>
+                        <p>-</p>
+                        <p>-</p>
+
+                    </div>
+                
+                </div>
+
+                <h4 style="grid-column: 1 / 6;" class="table_head collapsable">Section E (08:17-11:19)</h4>
+
+                <div class="collapsable_content" style="grid-column: 1 / 6;">
+                
+                    <div class="table" style="display: grid; align-items: center; grid-template-columns: 12% 25% 21% 21% 21%; max-width: 100%;">
+                    
+                        <p><span style="font-style: italic;">e-i</span> <br>(08:17-08:28)</p>
+                        <p>Clean mic surface scraping and crossfading which gets more and more energetic. </p>
+                        <p> A long cymbal sample is triggered halfway through.</p>
+                        <p>-</p>
+                        <p>-</p>
+
+                        <p><span style="font-style: italic;">e-i</span> <br>(08:28-08:45)</p>
+                        <p>Constanzo takes a comb. Starts with noisier energetic gestures and a kick, then moves onto longer scraping gestures. Ends with a suspension, constant dragging.</p>
+                        <p>-</p>
+                        <p>(See snare activity).</p>
+                        <p>-</p>
+
+                        <p><span style="font-style: italic;">e-i</span> <br>(08:45-08:53)</p>
+                        <p>Dragging continues, then the comb is pressed against the mic.</p>
+                        <p>High pitch cymbal samples are being triggered.</p>
+                        <p>-</p>
+                        <p>Mode change.</p>
+
+                        <p style="grid-column: 1 / 6;" class="table_break"></p>
+
+                        <p><span style="font-style: italic;">e-1</span> <br>(08:53-09:01)</p>
+                        <p>The resonance is the comb is pressed against the mic, lots of click pops. Pause then slide back into the next kick.</p>
+                        <p>Various samples triggered</p>
+                        <p>From here on each section is triggered by a kick which is long, resonant and pitched. (we discover that these are actually gong samples being triggered). The first is an <span style="font-style: italic;">E</span>.</p>
+                        <p>-</p>
+
+                        <p><span style="font-style: italic;">e-2</span> <br>(09:01-09:14)</p>
+                        <p>Same kind of resonance but without a suspension.</p>
+                        <p>-</p>
+                        <p>Pitch: <span style="font-style: italic;">B</span>.</p>
+                        <p>-</p>
+
+                        <p><span style="font-style: italic;">e-3</span> <br>(09:14-09:26)</p>
+                        <p>Two long drags of at the same time the comb and the mic.</p>
+                        <p>-</p>
+                        <p>Pitch: <span style="font-style: italic;">D</span>.</p>
+                        <p>-</p>
+
+                        <p><span style="font-style: italic;">e-4</span> <br>(09:26-09:40)</p>
+                        <p>Dragging of comb and mic, then the felt is pressed against the mic and a bit less energetic, then crossfader. Less and less noisy.</p>
+                        <p>-</p>
+                        <p>Pitch: <span style="font-style: italic;">F</span>.</p>
+                        <p>-</p>
+
+                        <p><span style="font-style: italic;">e-5</span> <br>(09:40-09:47)</p>
+                        <p>More stable dragging and crossfading gestures, the comb is with the mic.</p>
+                        <p>-</p>
+                        <p>Two kicks. Pitch: <span style="font-style: italic;">Db, B</span>.</p>
+                        <p>-</p>
+
+                        <p><span style="font-style: italic;">e-6</span> <br>(09:47-09:55)</p>
+                        <p>Constanzo now grabs another comb (so one in the right hand, the other in the left with the mic). Two long, noisy drags.</p>
+                        <p>-</p>
+                        <p>Pitch: <span style="font-style: italic;">E</span>.</p>
+                        <p>-</p>
+
+                        <p><span style="font-style: italic;">e-7</span> <br>(09:55-10:07)</p>
+                        <p>Crushing of the two combs. </p>
+                        <p>-</p>
+                        <p>Two kicks, the first has barely any resonance. Pitch: <span style="font-style: italic;">E</span>.</p>
+                        <p>10:02 Mode change. </p>
+
+                        <p><span style="font-style: italic;">e-8</span> <br>(10:07-10:17)</p>
+                        <p>Crushing, a lot less energetic.</p>
+                        <p>-</p>
+                        <p>Pitch: <span style="font-style: italic;">E</span>.</p>
+                        <p>-</p>
+
+                        <p><span style="font-style: italic;">e-9</span> <br>(10:17-10:29)</p>
+                        <p>Cleaner scrapings, mainly of the left comb. </p>
+                        <p>Less samples. </p>
+                        <p>Pitch: <span style="font-style: italic;">B</span>.</p>
+                        <p>10:23 and 10:28 mode changes.</p>
+
+                        <p><span style="font-style: italic;">e-10</span> <br>(10:29-10:56)</p>
+                        <p>Scraping, then Constanzo drops the right comb and moves into more energetic gestures from mic and comb scraping and crossfading. 10:48 mode change with lower energy, and then one longer dragging gesture moving into the next kick.</p>
+                        <p>-</p>
+                        <p>Pitch: <span style="font-style: italic;">B</span>.</p>
+                        <p>10:48 mode change.</p>
+
+                        <p><span style="font-style: italic;">e-11</span> <br>(10:56-11:02)</p>
+                        <p>Noisy scraping gesture.</p>
+                        <p>-</p>
+                        <p>Pitch: <span style="font-style: italic;">E</span>.</p>
+                        <p>-</p>
+
+                        <p><span style="font-style: italic;">e-12</span> <br>(11:02-11:19)</p>
+                        <p>Scraping gesture again with a bit more feedback at the start, this gesture slowly dissipates until the end.</p>
+                        <p>-</p>
+                        <p>Pitch: <span style="font-style: italic;">E</span>.</p>
+                        <p>-</p>
+
+                    </div>
+                
+                </div>
+
+                
+
+            </div>
+
+            
+
+            
+
+        </div>
+
+        <hr>
+
+        <p style="text-align: justify; padding-right: 10px;">
+            To summarise, in section A we have somewhat of an introduction in two long gestures that start is similar fashions. 
+            Constanzo introduces us to the kind of gestural and musical vocabulary we can expect for the rest of the piece. 
+            In section B, Constanzo again performs two long gestures, this time introducing a new tool – the comb. 
+            He ends this section with three long drags, before launching into the central section C. 
+            This central section is more energetic, with shorter phrases and a variety of different laying techniques and types of sounds – we hear the kick drum being used more here. 
+            In section D, we find somewhat of a suspension – indeed, two phrases of activity followed by long moments of suspension. 
+            Then, in the image of what precedes section C, we drag into the final section. 
+            Section E indeed feels like the culmination of the piece. We have a short introduction that leads into a suite of 12 gestures that are built upon a pitched low bass melody (procured from a mix of kick drum and low gong samples).
+        </p>
+
+        <h4>Musical Thought</h4>
+
+        <p style="text-align: justify; padding-right: 10px;">
+            An immense quantity of gestural technique has been condensed within this performance, yet Constanzo still manages to present something that remains restrained, structured and readable. 
+            Indeed, Constanzo’s experience as an improviser seems clear. 
+            In the context of our line of questioning, what are the various strands of musical thought present that become apparent upon a surface-level study of this performance? 
+        </p>
+
+        <ul>
+            <li><p style="text-align: justify; padding-right: 10px;">
+                Improvisation: the piece appears to be improvised. Constanzo talks about the improvised nature of the piece in a <a href="/pages/sources/interviews/constanzo_post_perf.html" target="_blank">post-performance interview</a>. We also remark that Constanzo does not use the entirety of the objects he made available.
+            </p></li>
+            <li><p style="text-align: justify; padding-right: 10px;">
+                Drumming: Even if the drums are not played in a traditional way here, the setup on stage and the way Constanzo is positioned clearly refer to the popular drum-kit drumming style.
+            </p></li>
+            <li><p style="text-align: justify; padding-right: 10px;">
+                Turntablism: Indeed, this is an import strand that is quite apparent when watching the performance. Here, the snare drum’s surface replaces the vinyl, however Constanzo, in some cases quite literally, transcribes gestural techniques from turntablism to his setup here.
+            </p></li>
+            <li><p style="text-align: justify; padding-right: 10px;">
+                Sampling: We hear clips of sounds that do not come from the stage. Despite this, it’s worth noting that all the samples do seems to be clearly triggered by actions that we see on stage.
+            </p></li>
+            <li><p style="text-align: justify; padding-right: 10px;">
+                Found objects: Constanzo uses a variety of “non-musical” objects against the snare drum – notably three different combs. We can consider that the performance explores the sonorous potentialities of this object under different forms. 
+            </p></li>
+            <li><p style="text-align: justify; padding-right: 10px;">
+                Feedback: there are parts of the piece where feedback cuts into the sound. It is difficult to discern if this is voluntary on the part of Constanzo or not – this is something that we address in the same <a href="/pages/sources/interviews/constanzo_post_perf.html" target="_blank">post-performance interview</a>. We shall return to this in the next section, but the setup seems to imply that feedback could be desired.
+            </p></li>
+            <li><p style="text-align: justify; padding-right: 10px;">
+                Arc structure: there is a wealth of musical vocabulary and various typologies of phrases, however at various macroscopic levels we often discern gestures that are arced in nature – a sliding into a hive of activity that gets suspended, before sliding again.
+            </p></li>
+            <li><p style="text-align: justify; padding-right: 10px;">
+                Focus on the performer: the lighting for the performance is very simple – the room is in complete darkness, save for an unmoving light on Constanzo. 
+            </p></li>
+            <li><p style="text-align: justify; padding-right: 10px;">
+                Objects within the audience: the robots are activated twice during the performance, they fuse well into the recorded piece, but on the night,  it was quite surprising for the audience to suddenly find themselves surrounded by clinging sounds.
+            </p></li>
+            <li><p style="text-align: justify; padding-right: 10px;">
+                Harsh noise: it’s worth noting also the harsh nature of some of the sounds on stage – notably the condenser microphone against the surface of the drum.
+            </p></li>
+            
+        </ul>
+
+        <hr>
+
+        <h2>Surface-level analysis of the instrument</h2>
+
+        <div>
+
+            <ol>
+                <li><p id="footnote_01" class="footnote">Rodrigo Constanzo, <a href="https://rodrigoconstanzo.com/thesis/" target="_blank" style="font-style: italic;">Composition, Performance, and Making Things, sitting in a tree: Me-Me-Me-Me-Me-Me-Me</a>. PhD Thesis, University of Huddersfield. 2016. <a href="#footnote_link_01">&#9650;</a></p></li>
+                <li><p id="footnote_02" class="footnote">Drawn from an <a href="/pages/sources/interviews/constanzo_first.html" target="_blank">interview</a> conducted with Constanzo by Owen Green. 24<sup>th</sup> April, 2018. <a href="#footnote_link_02">&#9650;</a></p></li>
+            </ol>
+
+        </div>
+
+    </div>
+
+    <script src="/scripts/collapsables.js"></script>
+
+</body>
+</html>
