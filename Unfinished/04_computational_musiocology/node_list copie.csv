@@ -1,0 +1,657 @@
+idx,uniqueid,id,maxclass,numinlets,numoutlets,patchx,patchy,parent,abstype,text,displayname
+0,obj-4_obj-19_root,obj-4,outlet,1,0,332.0,784.0,obj-19_root,standard,,outlet
+1,obj-41_obj-19_root,obj-41,message,2,1,55.0,730.0,obj-19_root,standard,start 69125.53288 69248.526077 122.993197,start 69125.53288 69248.526077 122.993197
+2,obj-25_obj-19_root,obj-25,gain~,1,2,508.0,604.0,obj-19_root,standard,,gain~
+3,obj-22_obj-19_root,obj-22,button,1,1,291.0,253.0,obj-19_root,standard,,button
+4,obj-19_obj-19_root,obj-19,flonum,1,2,291.0,215.200005,obj-19_root,standard,,flonum
+5,obj-16_obj-19_root,obj-16,newobj,0,1,291.0,182.0,obj-19_root,standard,r playingint,r playingint
+6,obj-23_obj-19_root,obj-23,newobj,1,2,264.5,301.0,obj-19_root,standard,t b b,t b b
+7,obj-7_obj-19_root,obj-7,newobj,1,0,287.0,585.0,obj-19_root,standard,s byOrdered2,s byOrdered2
+8,obj-14_obj-19_root,obj-14,newobj,0,1,241.0,459.0,obj-19_root,standard,r reorder2,r reorder2
+9,obj-9_obj-19_root,obj-9,flonum,1,2,132.0,500.0,obj-19_root,standard,,flonum
+10,obj-33_obj-19_root,obj-33,newobj,0,1,223.5,122.799995,obj-19_root,standard,r pulseClick,r pulseClick
+11,obj-13_obj-19_root,obj-13,comment,1,0,93.0,318.0,obj-19_root,standard,vary by,vary by
+12,obj-12_obj-19_root,obj-12,comment,1,0,93.0,288.0,obj-19_root,standard,start slice,start slice
+13,obj-8_obj-19_root,obj-8,comment,1,0,132.0,253.0,obj-19_root,standard,metro,metro
+14,obj-3_obj-19_root,obj-3,newobj,1,1,81.0,219.0,obj-19_root,standard,loadmess 100,loadmess 100
+15,obj-46_obj-19_root,obj-46,flonum,1,2,81.0,266.0,obj-19_root,standard,,flonum
+16,obj-6_obj-19_root,obj-6,newobj,1,1,350.0,262.0,obj-19_root,standard,loadmess 0,loadmess 0
+17,obj-1_obj-19_root,obj-1,newobj,1,0,81.0,469.0,obj-19_root,standard,s numSlice,s numSlice
+18,obj-21_obj-19_root,obj-21,newobj,0,1,198.0,624.0,obj-19_root,standard,receive bufferName,receive bufferName
+19,obj-83_obj-19_root,obj-83,meter~,1,1,315.0,733.0,obj-19_root,standard,,meter~
+20,obj-82_obj-19_root,obj-82,newobj,2,1,29.0,450.0,obj-19_root,standard,+,+
+21,obj-81_obj-19_root,obj-81,number,1,2,29.0,410.0,obj-19_root,standard,,number
+22,obj-11_obj-19_root,obj-11,newobj,2,1,55.0,593.0,obj-19_root,standard,expr $f1 * 1000. / $f2,expr $f1 * 1000. / $f2
+23,obj-34_obj-19_root,obj-34,newobj,2,2,223.5,679.0,obj-19_root,standard,sel 0,sel 0
+24,obj-44_obj-19_root,obj-44,newobj,1,2,55.0,641.0,obj-19_root,standard,t l l,t l l
+25,obj-59_obj-19_root,obj-59,newobj,1,1,154.5,733.0,obj-19_root,standard,prepend start,prepend start
+26,obj-64_obj-19_root,obj-64,newobj,2,1,154.5,703.0,obj-19_root,standard,join 2 @triggers 1,join 2 @triggers 1
+27,obj-67_obj-19_root,obj-67,newobj,2,1,55.0,666.0,obj-19_root,standard,!- 0.,!- 0.
+28,obj-69_obj-19_root,obj-69,newobj,2,2,55.0,617.0,obj-19_root,standard,zl group 2,zl group 2
+29,obj-71_obj-19_root,obj-71,newobj,1,2,29.0,514.0,obj-19_root,standard,t i i,t i i
+30,obj-73_obj-19_root,obj-73,newobj,2,1,29.0,538.0,obj-19_root,standard,+ 1,+ 1
+31,obj-74_obj-19_root,obj-74,newobj,3,1,55.0,569.0,obj-19_root,standard,peek~ segments2,peek~ segments2
+32,obj-75_obj-19_root,obj-75,message,2,1,350.0,624.0,obj-19_root,standard,stop,stop
+33,obj-76_obj-19_root,obj-76,message,2,1,315.0,624.0,obj-19_root,standard,start,start
+34,obj-77_obj-19_root,obj-77,newobj,2,0,508.0,770.0,obj-19_root,standard,dac~,dac~
+35,obj-78_obj-19_root,obj-78,newobj,1,3,315.0,674.0,obj-19_root,standard,play~ concatsounds 2,play~ concatsounds 2
+36,obj-61_obj-19_root,obj-61,number,1,2,351.0,301.0,obj-19_root,standard,,number
+37,obj-57_obj-19_root,obj-57,newobj,2,1,309.0,358.0,obj-19_root,standard,random 0,random 0
+38,obj-5_obj-19_root,obj-5,newobj,0,1,158.0,538.0,obj-19_root,standard,r srcSR,r srcSR
+39,obj-49_obj-19_root,obj-49,number,1,2,241.0,514.0,obj-19_root,standard,,number
+40,obj-19_root,obj-19,bpatcher,0,1,410.0,256.0,root,bpatcher,,bpatcher
+41,obj-17_root,obj-17,newobj,0,1,931.09762125,614.0,root,standard,lh.sliceOrderer,lh.sliceOrderer
+42,obj-45_obj-16_root,obj-45,message,2,1,155.0,506.0,obj-16_root,standard,format float32, filetype wave
+43,obj-23_obj-16_root,obj-23,newobj,1,1,906.0,147.5,obj-16_root,standard,loadbang,loadbang
+44,obj-22_obj-16_root,obj-22,message,2,1,1018.0,187.0,obj-16_root,standard,set improv,set improv
+45,obj-21_obj-16_root,obj-21,newobj,1,0,950.0,234.0,obj-16_root,standard,send bufferName,send bufferName
+46,obj-16_obj-16_root,obj-16,newobj,1,0,803.0,339.0,obj-16_root,standard,send srcSR,send srcSR
+47,obj-18_obj-16_root,obj-18,newobj,1,0,191.0,687.0,obj-16_root,standard,s numSegments,s numSegments
+48,obj-40_obj-16_root,obj-40,newobj,2,2,667.5,241.0,obj-16_root,standard,route set,route set
+49,obj-19_obj-16_root,obj-19,newobj,1,2,803.0,241.0,obj-16_root,standard,t b s,t b s
+50,obj-17_obj-16_root,obj-17,message,2,1,906.0,187.0,obj-16_root,standard,set concatsounds,set concatsounds
+51,obj-11_obj-16_root,obj-11,message,2,1,803.0,187.0,obj-16_root,standard,set stacksounds,set stacksounds
+52,obj-5_obj-16_root,obj-5,newobj,1,9,803.0,302.5,obj-16_root,standard,info~ src,info~ src
+53,obj-39_obj-16_root,obj-39,button,1,1,115.5,506.0,obj-16_root,standard,,button
+54,obj-6_obj-16_root,obj-6,attrui,1,1,364.5,411.0,obj-16_root,standard,,attrui
+55,obj-7_obj-16_root,obj-7,attrui,1,1,364.5,387.0,obj-16_root,standard,,attrui
+56,obj-8_obj-16_root,obj-8,attrui,1,1,364.5,339.0,obj-16_root,standard,,attrui
+57,obj-48_obj-16_root,obj-48,attrui,1,1,364.5,315.0,obj-16_root,standard,,attrui
+58,obj-38_obj-16_root,obj-38,attrui,1,1,364.5,291.5,obj-16_root,standard,,attrui
+59,obj-37_obj-16_root,obj-37,attrui,1,1,364.5,267.0,obj-16_root,standard,,attrui
+60,obj-62_obj-16_root,obj-62,attrui,1,1,364.5,243.0,obj-16_root,standard,,attrui
+61,obj-10_obj-16_root,obj-10,attrui,1,1,364.5,123.5,obj-16_root,standard,,attrui
+62,obj-20_obj-16_root,obj-20,attrui,1,1,364.5,363.0,obj-16_root,standard,,attrui
+63,obj-60_obj-16_root,obj-60,attrui,1,1,364.5,100.0,obj-16_root,standard,,attrui
+64,obj-12_obj-16_root,obj-12,attrui,1,1,364.5,195.0,obj-16_root,standard,,attrui
+65,obj-13_obj-16_root,obj-13,attrui,1,1,364.5,171.5,obj-16_root,standard,,attrui
+66,obj-52_obj-16_root,obj-52,attrui,1,1,364.5,76.0,obj-16_root,standard,,attrui
+67,obj-14_obj-16_root,obj-14,attrui,1,1,364.5,147.5,obj-16_root,standard,,attrui
+68,obj-15_obj-16_root,obj-15,attrui,1,1,364.5,219.0,obj-16_root,standard,,attrui
+69,obj-9_obj-16_root,obj-9,message,2,1,158.5,620.0,obj-16_root,standard,0,0
+70,obj-42_obj-16_root,obj-42,newobj,1,3,189.5,585.0,obj-16_root,standard,getattr samps,getattr samps
+71,obj-41_obj-16_root,obj-41,newobj,1,2,188.5,548.0,obj-16_root,standard,t b b,t b b
+72,obj-36_obj-16_root,obj-36,newobj,1,2,115.5,363.0,obj-16_root,standard,t b b,t b b
+73,obj-35_obj-16_root,obj-35,button,1,1,115.5,322.0,obj-16_root,standard,,button
+74,obj-3_obj-16_root,obj-3,newobj,1,2,221.5,620.0,obj-16_root,standard,buffer~ segments2,buffer~ segments2
+75,obj-2_obj-16_root,obj-2,newobj,1,3,115.5,446.0,obj-16_root,standard,fluid.buftransientslice~ @minslicelength 4410 @source src @indices segments2 @blocking 0,fluid.buftransientslice~ @minslicelength 4410 @source src @indices segments2 @blocking 0
+76,obj-16_root,obj-16,newobj,0,0,931.09762125,583.5,root,abstraction,lh.bufSlice,lh.bufSlice
+77,obj-54_obj-15_root,obj-54,comment,1,0,84.0,119.0,obj-15_root,standard,preload,preload
+78,obj-52_obj-15_root,obj-52,newobj,2,1,57.16662600000001,781.0,obj-15_root,standard,gate,gate
+79,obj-48_obj-15_root,obj-48,message,2,1,57.16662600000001,701.0,obj-15_root,standard,deststartframe $1,deststartframe $1
+80,obj-44_obj-15_root,obj-44,newobj,2,1,57.16662600000001,666.0,obj-15_root,standard,gate,gate
+81,obj-42_obj-15_root,obj-42,number,1,2,70.16662600000001,631.0,obj-15_root,standard,,number
+82,obj-38_obj-15_root,obj-38,toggle,1,1,21.666626000000008,745.0,obj-15_root,standard,,toggle
+83,obj-39_obj-15_root,obj-39,newobj,1,2,57.16662600000001,745.0,obj-15_root,standard,t b s,t b s
+84,obj-36_obj-15_root,obj-36,newobj,1,1,574.0,631.0,obj-15_root,standard,append set,append set
+85,obj-35_obj-15_root,obj-35,newobj,1,1,574.0,597.0,obj-15_root,standard,deferlow,deferlow
+86,obj-34_obj-15_root,obj-34,newobj,1,1,574.0,565.0,obj-15_root,standard,loadmess 0,loadmess 0
+87,obj-14_obj-15_root,obj-14,flonum,1,2,710.6666666666666,631.0,obj-15_root,standard,,flonum
+88,obj-3_obj-15_root,obj-3,newobj,1,2,680.0,565.0,obj-15_root,standard,t b i,t b i
+89,obj-1_obj-15_root,obj-1,newobj,5,4,680.0,601.0,obj-15_root,standard,counter 30,counter 30
+90,obj-2_obj-15_root,obj-2,comment,1,0,137.0,51.0,obj-15_root,standard,PREMADE,PREMADE
+91,obj-4_obj-15_root,obj-4,message,2,1,623.0,276.0,obj-15_root,standard,replace,replace
+92,obj-45_obj-15_root,obj-45,message,2,1,623.0,303.0,obj-15_root,standard,format float32, filetype wave
+93,obj-10_obj-15_root,obj-10,newobj,0,1,680.0,527.0,obj-15_root,standard,r occasional,r occasional
+94,obj-9_obj-15_root,obj-9,newobj,0,1,652.0,485.0,obj-15_root,standard,r capture,r capture
+95,obj-13_obj-15_root,obj-13,button,1,1,340.0,640.0,obj-15_root,standard,,button
+96,obj-6_obj-15_root,obj-6,newobj,0,1,373.0,330.0,obj-15_root,standard,r filename,r filename
+97,obj-33_obj-15_root,obj-33,comment,1,0,574.0,76.0,obj-15_root,standard,safety gate,safety gate
+98,obj-32_obj-15_root,obj-32,comment,1,0,583.0,13.0,obj-15_root,standard,safety gate,safety gate
+99,obj-28_obj-15_root,obj-28,comment,1,0,612.0,74.0,obj-15_root,standard,put all sounds sequentially,put all sounds sequentially
+100,obj-27_obj-15_root,obj-27,comment,1,0,611.0,34.0,obj-15_root,standard,stack sounds into buffer by selection,stack sounds into buffer by selection
+101,obj-22_obj-15_root,obj-22,comment,1,0,602.0,29.0,obj-15_root,standard,chuck in folder of drum samples,chuck in folder of drum samples
+102,obj-81_obj-15_root,obj-81,toggle,1,1,193.666626,699.0,obj-15_root,standard,,toggle
+103,obj-82_obj-15_root,obj-82,newobj,2,1,193.166626,735.0,obj-15_root,standard,gate,gate
+104,obj-83_obj-15_root,obj-83,newobj,1,2,229.166626,700.0,obj-15_root,standard,t b s,t b s
+105,obj-74_obj-15_root,obj-74,button,1,1,193.166626,799.0,obj-15_root,standard,,button
+106,obj-62_obj-15_root,obj-62,comment,1,0,613.0,362.0,obj-15_root,standard,2 chan,2 chan
+107,obj-46_obj-15_root,obj-46,newobj,1,2,457.0,321.0,obj-15_root,standard,t b s,t b s
+108,obj-47_obj-15_root,obj-47,message,2,1,457.0,287.0,obj-15_root,standard,clear,clear
+109,obj-49_obj-15_root,obj-49,newobj,1,1,457.0,362.0,obj-15_root,standard,loadmess sizeinsamps 1 2,loadmess sizeinsamps 1 2
+110,obj-51_obj-15_root,obj-51,newobj,1,2,508.0,459.0,obj-15_root,standard,buffer~ concatsounds cattedSounds.wav,buffer~ concatsounds cattedSounds.wav
+111,obj-125_obj-15_root,obj-125,newobj,2,2,193.166626,619.5,obj-15_root,standard,maximum 0,maximum 0
+112,obj-126_obj-15_root,obj-126,newobj,2,1,193.166626,585.0,obj-15_root,standard,- 1,- 1
+113,obj-127_obj-15_root,obj-127,newobj,1,3,384.0,425.0,obj-15_root,standard,getattr samps,getattr samps
+114,obj-64_obj-15_root,obj-64,newobj,1,1,373.0,522.0,obj-15_root,standard,deferlow,deferlow
+115,obj-43_obj-15_root,obj-43,message,2,1,193.166626,653.0,obj-15_root,standard,deststartframe $1,deststartframe $1
+116,obj-30_obj-15_root,obj-30,newobj,1,3,193.166626,762.5,obj-15_root,standard,fluid.bufcompose~ @source source @destination concatsounds @numchans 2,fluid.bufcompose~ @source source @destination concatsounds @numchans 2
+117,obj-24_obj-15_root,obj-24,newobj,1,1,373.0,485.0,obj-15_root,standard,prepend replace,prepend replace
+118,obj-5_obj-15_root,obj-5,newobj,1,2,373.0,557.0,obj-15_root,standard,buffer~ source,buffer~ source
+119,obj-16_obj-15_root,obj-16,attrui,1,1,230.166626,732.5,obj-15_root,standard,,attrui
+124,obj-6_obj-3_obj-9_root,obj-6,message,2,1,244.0,371.0,obj-3_obj-9_root,standard,5519,5519
+125,obj-20_obj-3_obj-9_root,obj-20,toggle,1,1,46.0,54.0,obj-3_obj-9_root,standard,,toggle
+126,obj-17_obj-3_obj-9_root,obj-17,newobj,1,2,46.0,90.0,obj-3_obj-9_root,standard,t b f,t b f
+127,obj-13_obj-3_obj-9_root,obj-13,newobj,2,1,46.0,143.0,obj-3_obj-9_root,standard,gate,gate
+128,obj-57_obj-3_obj-9_root,obj-57,button,1,1,677.0,498.905945,obj-3_obj-9_root,standard,,button
+129,obj-58_obj-3_obj-9_root,obj-58,newobj,1,2,677.0,470.905945,obj-3_obj-9_root,standard,edge~,edge~
+130,obj-59_obj-3_obj-9_root,obj-59,newobj,2,1,677.0,442.905945,obj-3_obj-9_root,standard,<=~ 0.,<=~ 0.
+131,obj-60_obj-3_obj-9_root,obj-60,newobj,1,1,677.0,414.905945,obj-3_obj-9_root,standard,delta~,delta~
+132,obj-10_obj-3_obj-9_root,obj-10,button,1,1,189.0,413.0,obj-3_obj-9_root,standard,,button
+133,obj-7_obj-3_obj-9_root,obj-7,message,2,1,189.0,450.0,obj-3_obj-9_root,standard,0,0
+134,obj-124_obj-3_obj-9_root,obj-124,newobj,1,0,115.0,361.0,obj-3_obj-9_root,standard,send filename,send filename
+135,obj-104_obj-3_obj-9_root,obj-104,message,2,1,225.0,134.0,obj-3_obj-9_root,standard,drummachinesers,drummachinesers
+136,obj-106_obj-3_obj-9_root,obj-106,flonum,1,2,555.0,439.0,obj-3_obj-9_root,standard,,flonum
+137,obj-94_obj-3_obj-9_root,obj-94,newobj,1,1,555.0,402.0,obj-3_obj-9_root,standard,loadmess 1,loadmess 1
+138,obj-49_obj-3_obj-9_root,obj-49,newobj,1,2,30.0,439.0,obj-3_obj-9_root,standard,buffer~ sampler2 5000 2,buffer~ sampler2 5000 2
+139,obj-48_obj-3_obj-9_root,obj-48,newobj,2,1,483.0,567.5,obj-3_obj-9_root,standard,*~,*~
+140,obj-27_obj-3_obj-9_root,obj-27,newobj,2,1,434.0,567.5,obj-3_obj-9_root,standard,*~,*~
+141,obj-11_obj-3_obj-9_root,obj-11,newobj,3,3,434.0,527.0,obj-3_obj-9_root,standard,groove~ sampler2 2,groove~ sampler2 2
+142,obj-46_obj-3_obj-9_root,obj-46,comment,1,0,438.0,219.0,obj-3_obj-9_root,standard,Change to directory of sample folders.,Change to directory of sample folders.
+143,obj-24_obj-3_obj-9_root,obj-24,newobj,1,0,484.5,627.0,obj-3_obj-9_root,standard,send~ gameB,send~ gameB
+144,obj-15_obj-3_obj-9_root,obj-15,newobj,1,0,434.0,653.0,obj-3_obj-9_root,standard,send~ gameA,send~ gameA
+145,obj-3_obj-3_obj-9_root,obj-3,newobj,1,1,317.0,373.0,obj-3_obj-9_root,standard,loadmess 0,loadmess 0
+146,obj-47_obj-3_obj-9_root,obj-47,toggle,1,1,317.0,402.0,obj-3_obj-9_root,standard,,toggle
+147,obj-45_obj-3_obj-9_root,obj-45,message,2,1,317.0,426.0,obj-3_obj-9_root,standard,loop $1,loop $1
+148,obj-29_obj-3_obj-9_root,obj-29,newobj,1,1,434.0,487.0,obj-3_obj-9_root,standard,sig~ 1,sig~ 1
+149,obj-12_obj-3_obj-9_root,obj-12,newobj,1,1,30.0,391.0,obj-3_obj-9_root,standard,prepend replace,prepend replace
+150,obj-9_obj-3_obj-9_root,obj-9,button,1,1,46.0,188.0,obj-3_obj-9_root,standard,,button
+151,obj-2_obj-3_obj-9_root,obj-2,newobj,2,1,46.0,230.0,obj-3_obj-9_root,standard,random 86,random 86
+152,obj-1_obj-3_obj-9_root,obj-1,newobj,2,2,186.0,324.0,obj-3_obj-9_root,standard,route populate,route populate
+153,obj-4_obj-3_obj-9_root,obj-4,newobj,1,1,225.0,106.0,obj-3_obj-9_root,standard,loadbang,loadbang
+154,obj-86_obj-3_obj-9_root,obj-86,newobj,1,1,225.0,258.0,obj-3_obj-9_root,standard,prepend prefix,prepend prefix
+155,obj-89_obj-3_obj-9_root,obj-89,newobj,1,1,225.0,195.0,obj-3_obj-9_root,standard,sprintf "Macintosh HD:/Users/laurenhayes/Documents/MaxMSP/samples/%s",sprintf "Macintosh HD:/Users/laurenhayes/Documents/MaxMSP/samples/%s"
+156,obj-90_obj-3_obj-9_root,obj-90,newobj,1,1,225.0,227.0,obj-3_obj-9_root,standard,tosymbol,tosymbol
+157,obj-91_obj-3_obj-9_root,obj-91,newobj,1,1,225.0,166.0,obj-3_obj-9_root,standard,tosymbol,tosymbol
+158,obj-84_obj-3_obj-9_root,obj-84,newobj,1,1,332.0,234.0,obj-3_obj-9_root,standard,loadbang,loadbang
+159,obj-85_obj-3_obj-9_root,obj-85,message,2,1,332.0,258.0,obj-3_obj-9_root,standard,clear, autopopulate 1
+160,obj-87_obj-3_obj-9_root,obj-87,umenu,1,3,46.0,298.0,obj-3_obj-9_root,standard,,umenu
+161,obj-3_obj-9_root,obj-3,newobj,0,0,614.0,108.0,obj-9_root,abstraction,lh.audition,lh.audition
+162,obj-62_obj-9_root,obj-62,comment,1,0,652.0,19.799995183944702,obj-9_root,standard,load pretrained filters,load pretrained filters
+163,obj-60_obj-9_root,obj-60,comment,1,0,739.5,37.0,obj-9_root,standard,doubleclick to delete,doubleclick to delete
+164,obj-56_obj-9_root,obj-56,newobj,2,1,394.0,694.0,obj-9_root,standard,if $i1==1 && $f2==0 then 1 else 0,if $i1==1 && $f2==0 then 1 else 0
+165,obj-55_obj-9_root,obj-55,comment,1,0,315.0,282.0,obj-9_root,standard,bangs for match,bangs for match
+166,obj-54_obj-9_root,obj-54,comment,1,0,315.0,256.0,obj-9_root,standard,7. adjust matching thresh,7. adjust matching thresh
+167,obj-53_obj-9_root,obj-53,comment,1,0,213.0,227.7999951839447,obj-9_root,standard,observe value,observe value
+168,obj-52_obj-9_root,obj-52,comment,1,0,210.8000044822693,164.7999951839447,obj-9_root,standard,5. copy then repeat for cat. 2 & 3,5. copy then repeat for cat. 2 & 3
+169,obj-51_obj-9_root,obj-51,comment,1,0,210.8000044822693,124.7999951839447,obj-9_root,standard,4. press pause,4. press pause
+170,obj-42_obj-9_root,obj-42,comment,1,0,210.8000044822693,103.7999951839447,obj-9_root,standard,3. press 1 to start playing in examples in first category,3. press 1 to start playing in examples in first category
+171,obj-39_obj-9_root,obj-39,comment,1,0,153.0,89.0,obj-9_root,standard,2. select train and pick a rank,2. select train and pick a rank
+172,obj-38_obj-9_root,obj-38,comment,1,0,28.5,17.0,obj-9_root,standard,modified from FluCoMa helpfiles/forum,modified from FluCoMa helpfiles/forum
+173,obj-37_obj-9_root,obj-37,comment,1,0,496.0,29.0,obj-9_root,standard,1. drop in samples for three categories: A) YES B) MAYBE C) NO,1. drop in samples for three categories: A) YES B) MAYBE C) NO
+174,obj-9_obj-9_root,obj-9,comment,1,0,713.0,446.0,obj-9_root,standard,use translient slice and delay???,use translient slice and delay???
+175,obj-25_obj-9_root,obj-25,newobj,1,0,394.0,724.0,obj-9_root,standard,s occasional,s occasional
+176,obj-19_obj-9_root,obj-19,ezdac~,2,0,20.0,675.0,obj-9_root,standard,,ezdac~
+177,obj-18_obj-9_root,obj-18,flonum,1,2,479.0,914.0,obj-9_root,standard,,flonum
+178,obj-7_obj-9_root,obj-7,newobj,3,1,143.0,694.0,obj-9_root,standard,if $i1==1 && $f2==0 & $f3==0 then 1 else 0,if $i1==1 && $f2==0 & $f3==0 then 1 else 0
+179,obj-145_obj-9_root,obj-145,newobj,2,1,58.0,470.0,obj-9_root,standard,delay~ 500 500,delay~ 500 500
+180,obj-140_obj-9_root,obj-140,newobj,2,1,94.0,552.0,obj-9_root,standard,gate~,gate~
+181,obj-129_obj-9_root,obj-129,newobj,2,1,38.0,552.0,obj-9_root,standard,gate~,gate~
+182,obj-108_obj-9_root,obj-108,newobj,1,1,157.0,328.0,obj-9_root,standard,receive~ gameB,receive~ gameB
+183,obj-109_obj-9_root,obj-109,newobj,1,1,153.5,303.0,obj-9_root,standard,receive~ gameA,receive~ gameA
+184,obj-106_obj-9_root,obj-106,flonum,1,2,552.5,928.0,obj-9_root,standard,,flonum
+185,obj-156_obj-9_root,obj-156,newobj,1,0,143.0,736.0,obj-9_root,standard,send capture,send capture
+186,obj-95_obj-9_root,obj-95,comment,1,0,252.0,826.0,obj-9_root,standard,factorise the input in the best combination of the 3 defined ranks,factorise the input in the best combination of the 3 defined ranks
+187,obj-16_obj-9_root,obj-16,newobj,1,1,203.0,843.0,obj-9_root,standard,t 1,t 1
+188,obj-94_obj-9_root,obj-94,button,1,1,217.0,1023.0,obj-9_root,standard,,button
+189,obj-96_obj-9_root,obj-96,button,1,1,348.0,1020.0714109999999,obj-9_root,standard,,button
+190,obj-97_obj-9_root,obj-97,button,1,1,464.0,1020.0714109999999,obj-9_root,standard,,button
+191,obj-98_obj-9_root,obj-98,newobj,2,2,464.0,990.0,obj-9_root,standard,sel 1,sel 1
+192,obj-100_obj-9_root,obj-100,newobj,2,1,462.0,956.0,obj-9_root,standard,> 0.4,> 0.4
+193,obj-91_obj-9_root,obj-91,newobj,2,2,348.0,990.0,obj-9_root,standard,sel 1,sel 1
+194,obj-92_obj-9_root,obj-92,flonum,1,2,394.0,932.0,obj-9_root,standard,,flonum
+195,obj-99_obj-9_root,obj-99,newobj,2,1,348.0,956.0,obj-9_root,standard,> 0.4,> 0.4
+196,obj-101_obj-9_root,obj-101,flonum,1,2,354.0,914.0,obj-9_root,standard,,flonum
+197,obj-87_obj-9_root,obj-87,newobj,2,2,217.0,990.0,obj-9_root,standard,sel 1,sel 1
+198,obj-86_obj-9_root,obj-86,flonum,1,2,287.0,924.0,obj-9_root,standard,,flonum
+199,obj-85_obj-9_root,obj-85,newobj,2,1,217.0,956.0,obj-9_root,standard,> 0.4,> 0.4
+200,obj-103_obj-9_root,obj-103,flonum,1,2,232.0,914.0,obj-9_root,standard,,flonum
+201,obj-104_obj-9_root,obj-104,newobj,3,1,462.0,889.0,obj-9_root,standard,peek~ activations4 3,peek~ activations4 3
+202,obj-74_obj-9_root,obj-74,newobj,3,1,339.0,889.0,obj-9_root,standard,peek~ activations4 2,peek~ activations4 2
+203,obj-73_obj-9_root,obj-73,newobj,3,1,217.0,889.0,obj-9_root,standard,peek~ activations4 1,peek~ activations4 1
+204,obj-93_obj-9_root,obj-93,message,2,1,628.0,417.0,obj-9_root,standard,1309.,1309.
+205,obj-50_obj-75_obj-9_root,obj-50,newobj,2,1,109.5,361.89328,obj-75_obj-9_root,standard,-~,-~
+206,obj-47_obj-75_obj-9_root,obj-47,newobj,3,1,109.5,312.014618,obj-75_obj-9_root,standard,slide~ 5 2205,slide~ 5 2205
+207,obj-48_obj-75_obj-9_root,obj-48,newobj,3,1,204.5,312.014618,obj-75_obj-9_root,standard,slide~ 4410 4410,slide~ 4410 4410
+208,obj-46_obj-75_obj-9_root,obj-46,newobj,1,1,109.5,212.257324,obj-75_obj-9_root,standard,atodb~,atodb~
+209,obj-43_obj-75_obj-9_root,obj-43,newobj,2,1,109.5,262.135986,obj-75_obj-9_root,standard,maximum~ -70,maximum~ -70
+210,obj-9_obj-41_obj-75_obj-9_root,obj-9,comment,1,0,99.0,290.370972,obj-41_obj-75_obj-9_root,standard,filtered audio out,filtered audio out
+211,obj-7_obj-41_obj-75_obj-9_root,obj-7,comment,1,0,23.0,16.5,obj-41_obj-75_obj-9_root,standard,audio in,audio in
+212,obj-5_obj-41_obj-75_obj-9_root,obj-5,comment,1,0,179.0,16.5,obj-41_obj-75_obj-9_root,standard,hipass cutoff,hipass cutoff
+213,obj-2_obj-41_obj-75_obj-9_root,obj-2,comment,1,0,381.0,213.5,obj-41_obj-75_obj-9_root,standard,4th order butterworth highpass,4th order butterworth highpass
+214,obj-34_obj-41_obj-75_obj-9_root,obj-34,newobj,1,2,146.0,80.588387,obj-41_obj-75_obj-9_root,standard,t b f,t b f
+215,obj-32_obj-41_obj-75_obj-9_root,obj-32,newobj,1,1,206.0,133.409042,obj-41_obj-75_obj-9_root,standard,prepend frequency,prepend frequency
+216,obj-17_obj-41_obj-75_obj-9_root,obj-17,newobj,1,1,146.0,186.229675,obj-41_obj-75_obj-9_root,standard,filterdesign @order 4 @response highpass @topology butterworth,filterdesign @order 4 @response highpass @topology butterworth
+217,obj-15_obj-41_obj-75_obj-9_root,obj-15,newobj,2,1,65.0,239.050323,obj-41_obj-75_obj-9_root,standard,cascade~,cascade~
+218,obj-35_obj-41_obj-75_obj-9_root,obj-35,inlet,0,1,65.0,20.0,obj-41_obj-75_obj-9_root,standard,,inlet
+219,obj-38_obj-41_obj-75_obj-9_root,obj-38,inlet,0,1,146.0,20.0,obj-41_obj-75_obj-9_root,standard,,inlet
+220,obj-40_obj-41_obj-75_obj-9_root,obj-40,outlet,1,0,65.0,291.870972,obj-41_obj-75_obj-9_root,standard,,outlet
+221,obj-41_obj-75_obj-9_root,obj-41,newobj,2,1,109.5,112.5,obj-75_obj-9_root,subpatcher,p hipass,p hipass
+222,obj-20_obj-75_obj-9_root,obj-20,newobj,1,1,205.0,561.407898,obj-75_obj-9_root,standard,prepend duration,prepend duration
+223,obj-19_obj-75_obj-9_root,obj-19,newobj,1,2,147.0,511.529236,obj-75_obj-9_root,standard,mstosamps~,mstosamps~
+224,obj-6_obj-4_obj-75_obj-9_root,obj-6,codebox,1,1,176.0,119.0,obj-4_obj-75_obj-9_root,standard,,codebox
+225,obj-1_obj-4_obj-75_obj-9_root,obj-1,newobj,0,1,176.0,12.0,obj-4_obj-75_obj-9_root,standard,in 1,in 1
+226,obj-4_obj-4_obj-75_obj-9_root,obj-4,newobj,1,0,176.0,418.0,obj-4_obj-75_obj-9_root,standard,out 1,out 1
+227,obj-4_obj-75_obj-9_root,obj-4,newobj,1,1,109.5,611.28656,obj-75_obj-9_root,gen,gen~ @duration 1103,gen~ @duration 1103
+228,obj-45_obj-75_obj-9_root,obj-45,comment,1,0,312.0,306.514618,obj-75_obj-9_root,standard,slow envelope,slow envelope
+229,obj-44_obj-75_obj-9_root,obj-44,comment,1,0,50.0,306.514618,obj-75_obj-9_root,standard,fast envelope,fast envelope
+230,obj-33_obj-75_obj-9_root,obj-33,comment,1,0,237.0,601.628357,obj-75_obj-9_root,standard,lockout to avoid flammed attacks,lockout to avoid flammed attacks
+231,obj-27_obj-75_obj-9_root,obj-27,comment,1,0,249.75,451.755127,obj-75_obj-9_root,standard,schmitt trigger,schmitt trigger
+232,obj-25_obj-75_obj-9_root,obj-25,comment,1,0,201.5,250.924103,obj-75_obj-9_root,standard,absolute noise floor,absolute noise floor
+233,obj-29_obj-75_obj-9_root,obj-29,comment,1,0,168.25,107.550781,obj-75_obj-9_root,standard,hipass to remove DC,hipass to remove DC
+234,obj-26_obj-75_obj-9_root,obj-26,newobj,1,2,168.25,411.771942,obj-75_obj-9_root,standard,unpack f f,unpack f f
+235,obj-109_obj-75_obj-9_root,obj-109,newobj,3,1,109.5,461.650574,obj-75_obj-9_root,standard,thresh~ 10 15,thresh~ 10 15
+236,obj-8_obj-75_obj-9_root,obj-8,newobj,6,6,358.5,161.508545,obj-75_obj-9_root,standard,route thresh lockout floor hipass mode,route thresh lockout floor hipass mode
+237,obj-31_obj-75_obj-9_root,obj-31,newobj,1,2,358.5,107.550781,obj-75_obj-9_root,standard,patcherargs @thresh 10 15. @floor -70 @hipass 110 @mode onset,patcherargs @thresh 10 15. @floor -70 @hipass 110 @mode onset
+238,obj-2_obj-75_obj-9_root,obj-2,comment,1,0,229.75,356.39328,obj-75_obj-9_root,standard,volume differential ,volume differential 
+239,obj-99_obj-75_obj-9_root,obj-99,newobj,1,1,109.5,162.378662,obj-75_obj-9_root,standard,abs~,abs~
+240,obj-17_obj-75_obj-9_root,obj-17,inlet,0,1,109.5,40.0,obj-75_obj-9_root,standard,,inlet
+241,obj-18_obj-75_obj-9_root,obj-18,outlet,1,0,109.5,694.628357,obj-75_obj-9_root,standard,,outlet
+242,obj-75_obj-9_root,obj-75,newobj,1,1,329.0,309.0,obj-9_root,subpatcher,p new onset detection,p new onset detection
+243,obj-4_obj-9_root,obj-4,newobj,2,1,537.0,303.0,obj-9_root,standard,sah~,sah~
+244,obj-82_obj-9_root,obj-82,newobj,2,1,394.0,173.0,obj-9_root,standard,count~ 0 4410 1,count~ 0 4410 1
+245,obj-14_obj-9_root,obj-14,newobj,2,1,479.0,227.0,obj-9_root,standard,+~ 4410,+~ 4410
+246,obj-13_obj-9_root,obj-13,newobj,3,0,452.0,256.0,obj-9_root,standard,poke~ input,poke~ input
+247,obj-84_obj-9_root,obj-84,newobj,3,0,367.0,256.0,obj-9_root,standard,poke~ input,poke~ input
+269,obj-36_obj-9_root,obj-36,button,1,1,1248.0,525.0,obj-9_root,standard,,button
+270,obj-33_obj-9_root,obj-33,button,1,1,442.0,623.0,obj-9_root,standard,,button
+271,obj-61_obj-9_root,obj-61,newobj,2,1,1178.0,607.0,obj-9_root,standard,- 1,- 1
+272,obj-28_obj-9_root,obj-28,newobj,2,1,1246.0,649.0,obj-9_root,standard,int,int
+273,obj-27_obj-9_root,obj-27,message,2,1,1246.0,683.0,obj-9_root,standard,deststartchan $1, bang
+274,obj-29_obj-9_root,obj-29,umenu,1,3,1178.0,569.0,obj-9_root,standard,,umenu
+275,obj-5_obj-9_root,obj-5,newobj,1,2,1029.5,742.0,obj-9_root,standard,buffer~ filter-temp4 1,buffer~ filter-temp4 1
+276,obj-2_obj-9_root,obj-2,newobj,1,3,442.0,576.0,obj-9_root,standard,fluid.bufnmf~ @source input @components 1 @iterations 100 @fftsettings 128 64 -1 @bases filter-temp4 @numframes 128 @basesmode 1,fluid.bufnmf~ @source input @components 1 @iterations 100 @fftsettings 128 64 -1 @bases filter-temp4 @numframes 128 @basesmode 1
+277,obj-40_obj-9_root,obj-40,newobj,2,1,501.5,392.0,obj-9_root,standard,delay~ 128 128,delay~ 128 128
+278,obj-30_obj-9_root,obj-30,newobj,1,1,348.0,436.0,obj-9_root,standard,loadmess 0,loadmess 0
+279,obj-20_obj-9_root,obj-20,newobj,2,1,394.0,508.0,obj-9_root,standard,+ 1,+ 1
+280,obj-31_obj-9_root,obj-31,umenu,1,3,348.0,470.0,obj-9_root,standard,,umenu
+281,obj-10_obj-9_root,obj-10,newobj,2,2,417.0,540.0,obj-9_root,standard,gate 2,gate 2
+282,obj-66_obj-9_root,obj-66,newobj,1,3,143.0,786.0,obj-9_root,standard,fluid.bufnmf~ @source input @components 3 @iterations 100 @fftsettings 128 64 -1 @activations activations4 @bases filters4 @numframes 128 @basesmode 2,fluid.bufnmf~ @source input @components 3 @iterations 100 @fftsettings 128 64 -1 @activations activations4 @bases filters4 @numframes 128 @basesmode 2
+283,obj-50_obj-9_root,obj-50,newobj,2,1,442.0,470.0,obj-9_root,standard,snapshot~,snapshot~
+284,obj-77_obj-9_root,obj-77,newobj,2,1,58.0,381.0,obj-9_root,standard,*~ 1,*~ 1
+285,obj-23_obj-9_root,obj-23,message,2,1,220.0,229.0,obj-9_root,standard,1,1
+286,obj-22_obj-9_root,obj-22,message,2,1,126.0,229.0,obj-9_root,standard,1,1
+287,obj-21_obj-9_root,obj-21,message,2,1,72.0,229.0,obj-9_root,standard,1,1
+288,obj-17_obj-9_root,obj-17,message,2,1,226.0,193.0,obj-9_root,standard,pause,pause
+289,obj-15_obj-9_root,obj-15,message,2,1,130.0,193.0,obj-9_root,standard,pause,pause
+290,obj-12_obj-9_root,obj-12,message,2,1,58.0,193.0,obj-9_root,standard,pause,pause
+291,obj-49_obj-1_obj-9_root,obj-49,inlet,0,1,820.5,65.0,obj-1_obj-9_root,standard,,inlet
+292,obj-48_obj-1_obj-9_root,obj-48,inlet,0,1,426.5,61.0,obj-1_obj-9_root,standard,,inlet
+293,obj-47_obj-1_obj-9_root,obj-47,inlet,0,1,139.0,61.0,obj-1_obj-9_root,standard,,inlet
+294,obj-45_obj-1_obj-9_root,obj-45,outlet,1,0,841.0,730.0,obj-1_obj-9_root,standard,,outlet
+295,obj-46_obj-1_obj-9_root,obj-46,outlet,1,0,806.0,730.0,obj-1_obj-9_root,standard,,outlet
+296,obj-43_obj-1_obj-9_root,obj-43,outlet,1,0,450.0,725.0,obj-1_obj-9_root,standard,,outlet
+297,obj-44_obj-1_obj-9_root,obj-44,outlet,1,0,415.0,725.0,obj-1_obj-9_root,standard,,outlet
+298,obj-42_obj-1_obj-9_root,obj-42,outlet,1,0,62.0,725.0,obj-1_obj-9_root,standard,,outlet
+299,obj-41_obj-1_obj-9_root,obj-41,outlet,1,0,27.0,725.0,obj-1_obj-9_root,standard,,outlet
+300,obj-40_obj-1_obj-9_root,obj-40,number,1,2,820.5,186.0,obj-1_obj-9_root,standard,,number
+301,obj-39_obj-1_obj-9_root,obj-39,number,1,2,426.5,186.0,obj-1_obj-9_root,standard,,number
+302,obj-32_obj-1_obj-9_root,obj-32,newobj,2,1,901.5,618.0,obj-1_obj-9_root,standard,+ 1,+ 1
+303,obj-33_obj-1_obj-9_root,obj-33,number,1,2,975.0,586.0,obj-1_obj-9_root,standard,,number
+304,obj-34_obj-1_obj-9_root,obj-34,newobj,2,2,975.0,556.0,obj-1_obj-9_root,standard,zl.len,zl.len
+305,obj-35_obj-1_obj-9_root,obj-35,newobj,1,1,975.0,526.0,obj-1_obj-9_root,standard,dict.unpack clips:,dict.unpack clips:
+306,obj-36_obj-1_obj-9_root,obj-36,newobj,2,1,901.5,589.0,obj-1_obj-9_root,standard,random 10,random 10
+307,obj-37_obj-1_obj-9_root,obj-37,button,1,1,899.5,558.0,obj-1_obj-9_root,standard,,button
+308,obj-38_obj-1_obj-9_root,obj-38,newobj,2,2,899.5,526.0,obj-1_obj-9_root,standard,sel done,sel done
+309,obj-25_obj-1_obj-9_root,obj-25,newobj,2,1,502.5,618.0,obj-1_obj-9_root,standard,+ 1,+ 1
+310,obj-26_obj-1_obj-9_root,obj-26,number,1,2,576.0,586.0,obj-1_obj-9_root,standard,,number
+311,obj-27_obj-1_obj-9_root,obj-27,newobj,2,2,576.0,556.0,obj-1_obj-9_root,standard,zl.len,zl.len
+312,obj-28_obj-1_obj-9_root,obj-28,newobj,1,1,576.0,526.0,obj-1_obj-9_root,standard,dict.unpack clips:,dict.unpack clips:
+313,obj-29_obj-1_obj-9_root,obj-29,newobj,2,1,502.5,589.0,obj-1_obj-9_root,standard,random 10,random 10
+314,obj-30_obj-1_obj-9_root,obj-30,button,1,1,500.5,558.0,obj-1_obj-9_root,standard,,button
+315,obj-31_obj-1_obj-9_root,obj-31,newobj,2,2,500.5,526.0,obj-1_obj-9_root,standard,sel done,sel done
+316,obj-24_obj-1_obj-9_root,obj-24,newobj,1,1,27.0,69.0,obj-1_obj-9_root,standard,deferlow,deferlow
+317,obj-23_obj-1_obj-9_root,obj-23,newobj,1,1,27.0,31.0,obj-1_obj-9_root,standard,loadbang,loadbang
+318,obj-22_obj-1_obj-9_root,obj-22,newobj,2,1,117.5,618.0,obj-1_obj-9_root,standard,+ 1,+ 1
+319,obj-20_obj-1_obj-9_root,obj-20,number,1,2,47.5,186.0,obj-1_obj-9_root,standard,,number
+320,obj-12_obj-1_obj-9_root,obj-12,message,2,1,27.0,101.0,obj-1_obj-9_root,standard,getcontent,getcontent
+321,obj-9_obj-1_obj-9_root,obj-9,number,1,2,191.0,586.0,obj-1_obj-9_root,standard,,number
+322,obj-8_obj-1_obj-9_root,obj-8,newobj,2,2,191.0,556.0,obj-1_obj-9_root,standard,zl.len,zl.len
+323,obj-10_obj-1_obj-9_root,obj-10,newobj,1,1,191.0,526.0,obj-1_obj-9_root,standard,dict.unpack clips:,dict.unpack clips:
+324,obj-7_obj-1_obj-9_root,obj-7,newobj,2,1,117.5,589.0,obj-1_obj-9_root,standard,random 10,random 10
+325,obj-6_obj-1_obj-9_root,obj-6,button,1,1,115.5,558.0,obj-1_obj-9_root,standard,,button
+326,obj-4_obj-1_obj-9_root,obj-4,newobj,2,2,115.5,526.0,obj-1_obj-9_root,standard,sel done,sel done
+327,obj-3_obj-1_obj-9_root,obj-3,playlist~,1,5,797.0,217.0,obj-1_obj-9_root,standard,,playlist~
+328,obj-2_obj-1_obj-9_root,obj-2,playlist~,1,5,410.0,217.0,obj-1_obj-9_root,standard,,playlist~
+329,obj-1_obj-1_obj-9_root,obj-1,playlist~,1,5,27.0,217.0,obj-1_obj-9_root,standard,,playlist~
+330,obj-1_obj-9_root,obj-1,newobj,3,6,58.0,286.0,obj-9_root,abstraction,lh.testPacks,lh.testPacks
+331,obj-9_root,obj-9,newobj,0,0,931.09762125,513.0,root,abstraction,lh.matcher,lh.matcher
+332,obj-8_root,obj-8,panel,1,0,922.0,655.0,root,standard,,panel
+333,obj-8_obj-6_root,obj-8,newobj,1,3,263.0,347.0,obj-6_root,standard,notein "Xkey Xkey  ",notein "Xkey Xkey  "
+334,obj-4_obj-6_root,obj-4,newobj,3,0,263.0,405.0,obj-6_root,standard,noteout "VoiceLive 2",noteout "VoiceLive 2"
+335,obj-7_obj-6_root,obj-7,outlet,1,0,-30.0,418.0,obj-6_root,standard,,outlet
+336,obj-10_obj-6_root,obj-10,newobj,0,1,100.0,403.0,obj-6_root,standard,r toVoiceLiveTempo,r toVoiceLiveTempo
+337,obj-6_obj-6_root,obj-6,number,1,2,165.0,148.0,obj-6_root,standard,,number
+338,obj-3_obj-6_root,obj-3,newobj,2,1,51.0,233.0,obj-6_root,standard,119,119
+339,obj-12_obj-6_root,obj-12,newobj,0,1,165.0,107.0,obj-6_root,standard,r harmHold,r harmHold
+340,obj-11_obj-6_root,obj-11,button,1,1,51.0,178.0,obj-6_root,standard,,button
+341,obj-5_obj-6_root,obj-5,newobj,2,1,51.0,300.0,obj-6_root,standard,pak i i,pak i i
+342,obj-2_obj-6_root,obj-2,newobj,7,2,51.0,372.0,obj-6_root,standard,midiformat,midiformat
+343,obj-1_obj-6_root,obj-1,newobj,1,0,51.0,439.0,obj-6_root,standard,midiout "VoiceLive 2",midiout "VoiceLive 2"
+344,obj-6_root,obj-6,newobj,0,1,222.0,518.5,root,abstraction,lh.voicelive2,lh.voicelive2
+345,obj-10_root,obj-10,matrixctrl,1,2,420.8476212500001,123.25,root,standard,,matrixctrl
+346,obj-5_root,obj-5,newobj,1,1,942.5976212500001,230.945557,root,standard,receive~ pulsarR,receive~ pulsarR
+347,obj-20_root,obj-20,newobj,1,1,862.5976212500001,185.945557,root,standard,receive~ pulsarL,receive~ pulsarL
+348,obj-2_root,obj-2,newobj,1,8,469.8476212500001,205.25,root,standard,adc~ 1 2 3 4 5 6 7 8,adc~ 1 2 3 4 5 6 7 8
+349,obj-289_root,obj-289,comment,1,0,250.333344,225.5,root,standard,no slices,no slices
+350,obj-277_root,obj-277,newobj,3,3,743.5571439999999,-284.0,root,standard,sel 0 127,sel 0 127
+351,obj-167_root,obj-167,message,2,1,785.8597494999999,-227.5,root,standard,0, 127 5000
+352,obj-99_root,obj-99,message,2,1,743.5571439999999,-257.0,root,standard,127, 0 2000
+353,obj-58_root,obj-58,newobj,3,2,743.5571439999999,-227.5,root,standard,line 1.,line 1.
+354,obj-283_root,obj-283,newobj,0,1,439.999985,-259.0,root,standard,r shimFilt2,r shimFilt2
+355,obj-378_root,obj-378,newobj,1,1,119.057143,-216.5,root,standard,mute~,mute~
+356,obj-377_root,obj-377,newobj,2,1,119.057143,-245.5,root,standard,== 0,== 0
+357,obj-369_root,obj-369,newobj,0,1,119.057143,-284.0,root,standard,r harmOnGran,r harmOnGran
+358,obj-371_root,obj-371,flonum,1,2,254.30714300000005,198.0,root,standard,,flonum
+359,obj-372_root,obj-372,toggle,1,1,200.057143,-223.5,root,standard,,toggle
+360,obj-370_root,obj-370,toggle,1,1,169.557143,-223.5,root,standard,,toggle
+361,obj-9_obj-367_root,obj-9,newobj,1,1,270.0,318.0,obj-367_root,standard,pass~,pass~
+362,obj-8_obj-367_root,obj-8,newobj,1,1,323.3333333333333,355.0,obj-367_root,standard,pass~,pass~
+363,obj-1_obj-367_root,obj-1,newobj,2,1,323.3333333333333,318.0,obj-367_root,standard,*~ 2,*~ 2
+364,obj-21_obj-367_root,obj-21,newobj,1,1,290.0,40.0,obj-367_root,standard,receive~ toHPSS,receive~ toHPSS
+365,obj-20_obj-367_root,obj-20,inlet,0,1,168.0,49.0,obj-367_root,standard,,inlet
+366,obj-19_obj-367_root,obj-19,inlet,0,1,102.0,49.0,obj-367_root,standard,,inlet
+367,obj-7_obj-367_root,obj-7,newobj,2,1,323.3333333333333,275.0,obj-367_root,standard,gate~,gate~
+368,obj-6_obj-367_root,obj-6,newobj,2,1,270.0,275.0,obj-367_root,standard,gate~,gate~
+369,obj-5_obj-367_root,obj-5,outlet,1,0,323.3333333333333,398.0,obj-367_root,standard,,outlet
+370,obj-4_obj-367_root,obj-4,outlet,1,0,270.0,398.0,obj-367_root,standard,,outlet
+371,obj-3_obj-367_root,obj-3,inlet,0,1,48.0,49.0,obj-367_root,standard,,inlet
+372,obj-2_obj-367_root,obj-2,comment,1,0,58.0,313.0,obj-367_root,standard,harmonic 1 percussion 2,harmonic 1 percussion 2
+373,obj-150_obj-367_root,obj-150,attrui,1,1,360.5,109.0,obj-367_root,standard,,attrui
+374,obj-156_obj-367_root,obj-156,newobj,1,4,290.0,203.0,obj-367_root,standard,fluid.hpss~ @percfiltersize 30,fluid.hpss~ @percfiltersize 30
+375,obj-367_root,obj-367,newobj,3,2,119.057143,-185.5,root,abstraction,lh.hpss~,lh.hpss~
+376,obj-53_root,obj-53,newobj,2,1,757.057144,-87.5,root,standard,== 0,== 0
+377,obj-307_root,obj-307,number,1,2,757.057144,-200.0,root,standard,,number
+378,obj-192_root,obj-192,newobj,1,0,757.057144,-25.0,root,standard,send~ toHPSS,send~ toHPSS
+379,obj-274_root,obj-274,newobj,1,0,638.5,-25.0,root,standard,send~ toHPSS,send~ toHPSS
+380,obj-4_obj-295_root,obj-4,newobj,1,1,476.0,16.0,obj-295_root,standard,loadmess 157,loadmess 157
+381,obj-3_obj-295_root,obj-3,newobj,1,1,289.0,16.0,obj-295_root,standard,loadmess 20,loadmess 20
+382,obj-2_obj-295_root,obj-2,inlet,0,1,35.0,138.0,obj-295_root,standard,,inlet
+383,obj-1_obj-295_root,obj-1,newobj,1,1,294.0,521.0,obj-295_root,standard,pass~,pass~
+384,obj-15_obj-295_root,obj-15,newobj,0,1,404.0,26.0,obj-295_root,standard,r eloop2,r eloop2
+385,obj-13_obj-295_root,obj-13,newobj,0,1,226.0,26.0,obj-295_root,standard,r speed2,r speed2
+386,obj-12_obj-295_root,obj-12,newobj,1,1,508.0,278.0,obj-295_root,standard,loadmess 0.05,loadmess 0.05
+387,obj-11_obj-295_root,obj-11,outlet,1,0,294.0,565.0,obj-295_root,standard,,outlet
+388,obj-10_obj-295_root,obj-10,comment,1,0,11.0,16.0,obj-295_root,standard,Pulsar synth plugs in here. Here is a demo example from roger.carruthers @c74,Pulsar synth plugs in here. Here is a demo example from roger.carruthers @c74
+389,obj-62_obj-295_root,obj-62,comment,1,0,508.0,325.0,obj-295_root,standard,slope,slope
+390,obj-52_obj-295_root,obj-52,newobj,2,1,348.0,370.0,obj-295_root,standard,sah~ 0.99,sah~ 0.99
+391,obj-53_obj-295_root,obj-53,flonum,1,2,444.0,325.0,obj-295_root,standard,,flonum
+392,obj-54_obj-295_root,obj-54,newobj,1,1,444.0,364.0,obj-295_root,standard,sig~ 0.8,sig~ 0.8
+393,obj-56_obj-295_root,obj-56,newobj,2,1,338.0,390.0,obj-295_root,standard,!-~ 1.,!-~ 1.
+394,obj-58_obj-295_root,obj-58,newobj,1,1,294.0,479.0,obj-295_root,standard,sinx~,sinx~
+395,obj-59_obj-295_root,obj-59,newobj,2,1,294.0,448.0,obj-295_root,standard,*~ 1.5,*~ 1.5
+396,obj-60_obj-295_root,obj-60,newobj,3,1,294.0,418.0,obj-295_root,standard,trapezoid~ 0.2 0.8,trapezoid~ 0.2 0.8
+397,obj-39_obj-295_root,obj-39,comment,1,0,355.0,56.0,obj-295_root,standard,width,width
+398,obj-40_obj-295_root,obj-40,comment,1,0,179.0,56.0,obj-295_root,standard,freq,freq
+399,obj-41_obj-295_root,obj-41,newobj,1,1,324.0,148.0,obj-295_root,standard,sig~,sig~
+400,obj-42_obj-295_root,obj-42,newobj,2,1,324.0,192.0,obj-295_root,standard,sah~ 0.001,sah~ 0.001
+401,obj-43_obj-295_root,obj-43,newobj,1,1,404.0,242.0,obj-295_root,standard,sig~,sig~
+402,obj-44_obj-295_root,obj-44,newobj,2,1,404.0,272.0,obj-295_root,standard,sah~ 0.001,sah~ 0.001
+403,obj-45_obj-295_root,obj-45,newobj,2,1,226.0,293.0,obj-295_root,standard,-~ 0.,-~ 0.
+404,obj-46_obj-295_root,obj-46,newobj,1,1,404.0,139.0,obj-295_root,standard,expr ($f1 - 1.),expr ($f1 - 1.)
+405,obj-47_obj-295_root,obj-47,newobj,3,1,226.0,319.0,obj-295_root,standard,clip~ 0. 1.,clip~ 0. 1.
+406,obj-48_obj-295_root,obj-48,flonum,1,2,404.0,56.0,obj-295_root,standard,,flonum
+407,obj-49_obj-295_root,obj-49,newobj,2,1,226.0,259.0,obj-295_root,standard,*~ 1.,*~ 1.
+408,obj-50_obj-295_root,obj-50,flonum,1,2,226.0,56.0,obj-295_root,standard,,flonum
+409,obj-51_obj-295_root,obj-51,newobj,2,1,226.0,139.0,obj-295_root,standard,phasor~ 2,phasor~ 2
+410,obj-295_root,obj-295,newobj,1,1,343.0,-236.5,root,abstraction,lh.pulsarDemo,lh.pulsarDemo
+411,obj-298_root,obj-298,newobj,2,1,510.942856,-259.0,root,standard,== 0,== 0
+412,obj-299_root,obj-299,newobj,0,1,510.942856,-284.0,root,standard,r pitchTrackerOn,r pitchTrackerOn
+413,obj-302_root,obj-302,message,2,1,510.942856,-200.0,root,standard,$1 1,$1 1
+414,obj-304_root,obj-304,toggle,1,1,510.942856,-227.0,root,standard,,toggle
+415,obj-305_root,obj-305,newobj,1,1,343.0,-264.5,root,standard,mute~,mute~
+416,obj-293_root,obj-293,comment,1,0,30.557142999999996,558.0,root,standard,slicerOn,slicerOn
+417,obj-261_root,obj-261,newobj,2,1,782.0,-139.0,root,standard,== 0,== 0
+418,obj-285_root,obj-285,toggle,1,1,757.057144,-139.0,root,standard,,toggle
+419,obj-286_root,obj-286,newobj,1,1,757.057144,-114.5,root,standard,mute~,mute~
+420,obj-247_root,obj-247,newobj,0,1,757.057144,-172.5,root,standard,r catStart,r catStart
+421,obj-5_obj-59_root,obj-5,comment,1,0,125.0,145.0,obj-59_root,standard,LFO generated to VCO Decay,LFO generated to VCO Decay
+422,obj-3_obj-59_root,obj-3,comment,1,0,125.0,94.0,obj-59_root,standard,gates -> RUN/STOP,gates -> RUN/STOP
+423,obj-2_obj-59_root,obj-2,comment,1,0,125.0,51.0,obj-59_root,standard,generally short clicks -> TRIGGER,generally short clicks -> TRIGGER
+424,obj-13_obj-59_root,obj-13,newobj,1,1,280.0,145.0,obj-59_root,standard,receive~ curve2,receive~ curve2
+425,obj-12_obj-59_root,obj-12,newobj,1,1,280.0,94.0,obj-59_root,standard,receive~ runstop,receive~ runstop
+426,obj-10_obj-59_root,obj-10,scope~,2,0,483.0,45.0,obj-59_root,standard,,scope~
+427,obj-4_obj-59_root,obj-4,newobj,1,1,280.0,49.0,obj-59_root,standard,receive~ triggeradv,receive~ triggeradv
+428,obj-9_obj-59_root,obj-9,scope~,2,0,483.0,177.0,obj-59_root,standard,,scope~
+429,obj-7_obj-59_root,obj-7,newobj,8,0,479.0,323.0,obj-59_root,standard,dac~ 5 6 7 8 9 10 11 12,dac~ 5 6 7 8 9 10 11 12
+430,obj-59_root,obj-59,newobj,0,0,369.33337400000005,576.0,root,abstraction,lh.CV~,lh.CV~
+431,obj-77_root,obj-77,newobj,1,1,23.81945799999994,711.707153,root,standard,loadmess 1,loadmess 1
+432,obj-273_root,obj-273,newobj,1,1,602.5976212500001,181.25,root,standard,receive~ toPanR,receive~ toPanR
+433,obj-254_root,obj-254,newobj,1,1,763.0,647.5,root,standard,loadmess 1.,loadmess 1.
+434,obj-153_root,obj-153,flonum,1,2,763.0,676.5,root,standard,,flonum
+435,obj-7_obj-272_root,obj-7,comment,1,0,301.0,550.0,obj-272_root,standard,limited before outputs,limited before outputs
+436,obj-514_obj-272_root,obj-514,newobj,0,1,30.0,30.0,obj-272_root,standard,r mainLev,r mainLev
+437,obj-22_obj-209_obj-272_root,obj-22,newobj,1,1,113.0,14.0,obj-209_obj-272_root,standard,loadmess 127,loadmess 127
+438,obj-1_obj-209_obj-272_root,obj-1,flonum,1,2,80.0,145.0,obj-209_obj-272_root,standard,,flonum
+439,obj-8_obj-2_obj-209_obj-272_root,obj-8,inlet,0,1,77.0,31.0,obj-2_obj-209_obj-272_root,standard,,inlet
+440,obj-7_obj-2_obj-209_obj-272_root,obj-7,outlet,1,0,77.0,162.0,obj-2_obj-209_obj-272_root,standard,,outlet
+441,obj-1_obj-2_obj-209_obj-272_root,obj-1,newobj,1,1,77.0,129.0,obj-2_obj-209_obj-272_root,standard,atodb,atodb
+442,obj-2_obj-2_obj-209_obj-272_root,obj-2,newobj,6,1,77.0,103.0,obj-2_obj-209_obj-272_root,standard,scale 0. 127. 0. 1. 1.071235,scale 0. 127. 0. 1. 1.071235
+443,obj-3_obj-2_obj-209_obj-272_root,obj-3,flonum,1,2,77.0,77.0,obj-2_obj-209_obj-272_root,standard,,flonum
+444,obj-6_obj-2_obj-209_obj-272_root,obj-6,comment,1,0,270.0,103.0,obj-2_obj-209_obj-272_root,standard,Converts gain to dB.,Converts gain to dB.
+445,obj-2_obj-209_obj-272_root,obj-2,newobj,1,1,136.0,307.0,obj-209_obj-272_root,abstraction,lh.atodb,lh.atodb
+446,obj-3_obj-209_obj-272_root,obj-3,outlet,1,0,78.0,221.0,obj-209_obj-272_root,standard,,outlet
+447,obj-4_obj-209_obj-272_root,obj-4,outlet,1,0,56.0,221.0,obj-209_obj-272_root,standard,,outlet
+448,obj-5_obj-209_obj-272_root,obj-5,inlet,0,1,83.0,12.0,obj-209_obj-272_root,standard,,inlet
+449,obj-6_obj-209_obj-272_root,obj-6,inlet,0,1,56.0,12.0,obj-209_obj-272_root,standard,,inlet
+450,obj-7_obj-209_obj-272_root,obj-7,meter~,1,1,121.0,57.0,obj-209_obj-272_root,standard,,meter~
+451,obj-8_obj-209_obj-272_root,obj-8,meter~,1,1,102.0,57.0,obj-209_obj-272_root,standard,,meter~
+452,obj-9_obj-209_obj-272_root,obj-9,newobj,1,1,130.0,224.0,obj-209_obj-272_root,standard,prepend set,prepend set
+453,obj-10_obj-209_obj-272_root,obj-10,gain~,2,2,79.0,57.0,obj-209_obj-272_root,standard,,gain~
+454,obj-11_obj-209_obj-272_root,obj-11,gain~,2,2,57.0,57.0,obj-209_obj-272_root,standard,,gain~
+455,obj-13_obj-209_obj-272_root,obj-13,comment,1,0,204.0,48.0,obj-209_obj-272_root,standard,slider for gain (output number shows dB) and meter,slider for gain (output number shows dB) and meter
+456,obj-209_obj-272_root,obj-209,bpatcher,2,2,62.0,212.0,obj-272_root,bpatcher,,bpatcher
+457,obj-9_obj-272_root,obj-9,newobj,1,1,504.0,27.0,obj-272_root,standard,receive~ toPanR,receive~ toPanR
+458,obj-8_obj-272_root,obj-8,newobj,1,1,361.0,27.0,obj-272_root,standard,receive~ toPanL,receive~ toPanL
+459,obj-2_obj-272_root,obj-2,newobj,2,1,493.0,193.0,obj-272_root,standard,*~ 0.1,*~ 0.1
+460,obj-3_obj-272_root,obj-3,newobj,2,1,377.75,167.0,obj-272_root,standard,*~ 0.1,*~ 0.1
+461,obj-21_obj-6_obj-272_root,obj-21,message,2,1,303.0,48.0,obj-6_obj-272_root,standard,write,write
+462,obj-19_obj-6_obj-272_root,obj-19,newobj,1,1,215.0,40.0,obj-6_obj-272_root,standard,loadbang,loadbang
+463,obj-18_obj-6_obj-272_root,obj-18,message,2,1,205.0,83.0,obj-6_obj-272_root,standard,read grmeq,read grmeq
+464,obj-16_obj-6_obj-272_root,obj-16,newobj,2,8,80.75,151.0,obj-6_obj-272_root,standard,vst~ "GRM Equalize Stereo",vst~ "GRM Equalize Stereo"
+465,obj-15_obj-6_obj-272_root,obj-15,newobj,1,1,529.0,109.0,obj-6_obj-272_root,standard,loadmess 0.5,loadmess 0.5
+466,obj-14_obj-6_obj-272_root,obj-14,inlet,0,1,125.0,72.0,obj-6_obj-272_root,standard,,inlet
+467,obj-13_obj-6_obj-272_root,obj-13,inlet,0,1,46.0,72.0,obj-6_obj-272_root,standard,,inlet
+468,obj-11_obj-6_obj-272_root,obj-11,outlet,1,0,46.0,436.0,obj-6_obj-272_root,standard,,outlet
+469,obj-7_obj-6_obj-272_root,obj-7,outlet,1,0,133.0,436.0,obj-6_obj-272_root,standard,,outlet
+470,obj-5_obj-6_obj-272_root,obj-5,newobj,6,1,119.0,393.0,obj-6_obj-272_root,standard,biquad~,biquad~
+471,obj-3_obj-6_obj-272_root,obj-3,newobj,1,1,295.0,93.0,obj-6_obj-272_root,standard,loadmess 5,loadmess 5
+472,obj-2_obj-6_obj-272_root,obj-2,newobj,1,1,475.0,83.0,obj-6_obj-272_root,standard,loadmess 6000,loadmess 6000
+473,obj-10_obj-6_obj-272_root,obj-10,message,2,1,609.0,174.5,obj-6_obj-272_root,standard,set $1,set $1
+474,obj-9_obj-6_obj-272_root,obj-9,message,2,1,529.0,174.5,obj-6_obj-272_root,standard,set $1,set $1
+475,obj-8_obj-6_obj-272_root,obj-8,message,2,1,434.0,174.5,obj-6_obj-272_root,standard,set $1,set $1
+476,obj-1_obj-6_obj-272_root,obj-1,comment,1,0,305.0,450.0,obj-6_obj-272_root,standard,produces a list of coefficients for the biquad~ object ,produces a list of coefficients for the biquad~ object 
+477,obj-4_obj-6_obj-272_root,obj-4,message,2,1,295.0,420.0,obj-6_obj-272_root,standard,0.910227 -1.076974 0.730681 -1.076974 0.640909,0.910227 -1.076974 0.730681 -1.076974 0.640909
+478,obj-71_obj-6_obj-272_root,obj-71,comment,1,0,596.5,160.0,obj-6_obj-272_root,standard,set Q or S,set Q or S
+479,obj-72_obj-6_obj-272_root,obj-72,flonum,1,2,609.0,210.0,obj-6_obj-272_root,standard,,flonum
+480,obj-74_obj-6_obj-272_root,obj-74,flonum,1,2,529.0,210.0,obj-6_obj-272_root,standard,,flonum
+481,obj-75_obj-6_obj-272_root,obj-75,flonum,1,2,439.0,210.0,obj-6_obj-272_root,standard,,flonum
+482,obj-81_obj-6_obj-272_root,obj-81,filtergraph~,8,7,295.0,247.5,obj-6_obj-272_root,standard,,filtergraph~
+483,obj-83_obj-6_obj-272_root,obj-83,comment,1,0,523.5,160.0,obj-6_obj-272_root,standard,set gain,set gain
+484,obj-24_obj-6_obj-272_root,obj-24,comment,1,0,125.0,280.0,obj-6_obj-272_root,standard,clear biquad~ if filter blows up,clear biquad~ if filter blows up
+485,obj-63_obj-6_obj-272_root,obj-63,message,2,1,75.0,290.5,obj-6_obj-272_root,standard,clear,clear
+486,obj-6_obj-6_obj-272_root,obj-6,newobj,6,1,12.5,365.0,obj-6_obj-272_root,standard,biquad~,biquad~
+487,obj-12_obj-6_obj-272_root,obj-12,attrui,1,1,295.0,196.5,obj-6_obj-272_root,standard,,attrui
+488,obj-6_obj-272_root,obj-6,newobj,2,2,386.0,78.0,obj-272_root,subpatcher,p filter,p filter
+489,obj-5_obj-272_root,obj-5,newobj,2,1,273.0,336.0,obj-272_root,standard,*~ 0.1,*~ 0.1
+490,obj-4_obj-272_root,obj-4,newobj,2,1,257.0,262.0,obj-272_root,standard,*~ 0.1,*~ 0.1
+491,obj-16_obj-272_root,obj-16,inlet,0,1,638.0,39.0,obj-272_root,standard,,inlet
+492,obj-21_obj-17_obj-272_root,obj-21,message,2,1,303.0,48.0,obj-17_obj-272_root,standard,write,write
+493,obj-19_obj-17_obj-272_root,obj-19,newobj,1,1,215.0,40.0,obj-17_obj-272_root,standard,loadbang,loadbang
+494,obj-18_obj-17_obj-272_root,obj-18,message,2,1,205.0,83.0,obj-17_obj-272_root,standard,read grmeq,read grmeq
+495,obj-16_obj-17_obj-272_root,obj-16,newobj,2,8,80.75,151.0,obj-17_obj-272_root,standard,vst~ "GRM Equalize Stereo",vst~ "GRM Equalize Stereo"
+496,obj-15_obj-17_obj-272_root,obj-15,newobj,1,1,529.0,109.0,obj-17_obj-272_root,standard,loadmess 0.5,loadmess 0.5
+497,obj-14_obj-17_obj-272_root,obj-14,inlet,0,1,125.0,72.0,obj-17_obj-272_root,standard,,inlet
+498,obj-13_obj-17_obj-272_root,obj-13,inlet,0,1,46.0,72.0,obj-17_obj-272_root,standard,,inlet
+499,obj-11_obj-17_obj-272_root,obj-11,outlet,1,0,46.0,436.0,obj-17_obj-272_root,standard,,outlet
+500,obj-7_obj-17_obj-272_root,obj-7,outlet,1,0,133.0,436.0,obj-17_obj-272_root,standard,,outlet
+501,obj-5_obj-17_obj-272_root,obj-5,newobj,6,1,119.0,393.0,obj-17_obj-272_root,standard,biquad~,biquad~
+502,obj-3_obj-17_obj-272_root,obj-3,newobj,1,1,295.0,93.0,obj-17_obj-272_root,standard,loadmess 5,loadmess 5
+503,obj-2_obj-17_obj-272_root,obj-2,newobj,1,1,475.0,83.0,obj-17_obj-272_root,standard,loadmess 6000,loadmess 6000
+504,obj-10_obj-17_obj-272_root,obj-10,message,2,1,609.0,174.5,obj-17_obj-272_root,standard,set $1,set $1
+505,obj-9_obj-17_obj-272_root,obj-9,message,2,1,529.0,174.5,obj-17_obj-272_root,standard,set $1,set $1
+506,obj-8_obj-17_obj-272_root,obj-8,message,2,1,434.0,174.5,obj-17_obj-272_root,standard,set $1,set $1
+507,obj-1_obj-17_obj-272_root,obj-1,comment,1,0,305.0,450.0,obj-17_obj-272_root,standard,produces a list of coefficients for the biquad~ object ,produces a list of coefficients for the biquad~ object 
+508,obj-4_obj-17_obj-272_root,obj-4,message,2,1,295.0,420.0,obj-17_obj-272_root,standard,0.910227 -1.076974 0.730681 -1.076974 0.640909,0.910227 -1.076974 0.730681 -1.076974 0.640909
+509,obj-71_obj-17_obj-272_root,obj-71,comment,1,0,596.5,160.0,obj-17_obj-272_root,standard,set Q or S,set Q or S
+510,obj-72_obj-17_obj-272_root,obj-72,flonum,1,2,609.0,210.0,obj-17_obj-272_root,standard,,flonum
+511,obj-74_obj-17_obj-272_root,obj-74,flonum,1,2,529.0,210.0,obj-17_obj-272_root,standard,,flonum
+512,obj-75_obj-17_obj-272_root,obj-75,flonum,1,2,439.0,210.0,obj-17_obj-272_root,standard,,flonum
+513,obj-81_obj-17_obj-272_root,obj-81,filtergraph~,8,7,295.0,247.5,obj-17_obj-272_root,standard,,filtergraph~
+514,obj-83_obj-17_obj-272_root,obj-83,comment,1,0,523.5,160.0,obj-17_obj-272_root,standard,set gain,set gain
+515,obj-24_obj-17_obj-272_root,obj-24,comment,1,0,125.0,280.0,obj-17_obj-272_root,standard,clear biquad~ if filter blows up,clear biquad~ if filter blows up
+516,obj-63_obj-17_obj-272_root,obj-63,message,2,1,75.0,290.5,obj-17_obj-272_root,standard,clear,clear
+517,obj-6_obj-17_obj-272_root,obj-6,newobj,6,1,12.5,365.0,obj-17_obj-272_root,standard,biquad~,biquad~
+518,obj-12_obj-17_obj-272_root,obj-12,attrui,1,1,295.0,196.5,obj-17_obj-272_root,standard,,attrui
+519,obj-17_obj-272_root,obj-17,newobj,2,2,257.0,175.0,obj-272_root,subpatcher,p filter,p filter
+520,obj-19_obj-272_root,obj-19,newobj,1,1,528.0,398.0,obj-272_root,standard,if $i1==91 then 2 else 1,if $i1==91 then 2 else 1
+521,obj-20_obj-272_root,obj-20,newobj,1,8,487.5,366.0,obj-272_root,standard,midiparse,midiparse
+522,obj-21_obj-272_root,obj-21,newobj,1,1,487.5,332.0,obj-272_root,standard,midiin "VoiceLive 2",midiin "VoiceLive 2"
+523,obj-22_obj-272_root,obj-22,number,1,2,528.0,498.0,obj-272_root,standard,,number
+524,obj-23_obj-272_root,obj-23,newobj,1,1,449.0,408.0,obj-272_root,standard,loadmess 1,loadmess 1
+525,obj-208_obj-272_root,obj-208,newobj,8,0,248.75,606.0,obj-272_root,standard,lh.dac~ 1 2 3 4 5 6 7 8,lh.dac~ 1 2 3 4 5 6 7 8
+526,obj-24_obj-272_root,obj-24,inlet,0,1,153.0,39.0,obj-272_root,standard,,inlet
+527,obj-25_obj-272_root,obj-25,inlet,0,1,252.75,27.0,obj-272_root,standard,,inlet
+528,obj-272_root,obj-272,newobj,3,0,704.0,707.0,root,subpatcher,p OUTPUTS,p OUTPUTS
+529,obj-157_root,obj-157,newobj,1,0,215.307143,141.0,root,standard,send~ knifeFinal,send~ knifeFinal
+530,obj-61_root,obj-61,button,1,1,141.0,1035.0,root,standard,,button
+531,obj-57_root,obj-57,newobj,2,1,141.0,1061.0,root,standard,0,0
+532,obj-50_root,obj-50,newobj,2,1,104.0,1036.0,root,standard,1,1
+533,obj-38_root,obj-38,toggle,1,1,104.0,1088.0,root,standard,,toggle
+534,obj-4_root,obj-4,newobj,2,2,104.0,1001.0,root,standard,sel 4,sel 4
+535,obj-26_root,obj-26,newobj,1,3,104.0,975.0,root,standard,change,change
+536,obj-27_root,obj-27,newobj,0,1,103.0,949.0,root,standard,r on5,r on5
+537,obj-25_obj-531_root,obj-25,newobj,2,1,475.0,737.5,obj-531_root,standard,gate~,gate~
+538,obj-22_obj-531_root,obj-22,newobj,1,1,475.0,698.5,obj-531_root,standard,if $i1==7 then 1 else 0,if $i1==7 then 1 else 0
+539,obj-17_obj-531_root,obj-17,newobj,0,1,475.0,663.0,obj-531_root,standard,r wherearewe,r wherearewe
+540,obj-8_obj-531_root,obj-8,newobj,1,0,475.0,777.0,obj-531_root,standard,send~ toBonk,send~ toBonk
+541,obj-86_obj-531_root,obj-86,button,1,1,19.0,49.0,obj-531_root,standard,,button
+542,obj-84_obj-531_root,obj-84,newobj,0,1,19.0,17.0,obj-531_root,standard,r reset,r reset
+543,obj-68_obj-531_root,obj-68,newobj,2,1,798.25,555.0,obj-531_root,standard,0,0
+544,obj-143_obj-531_root,obj-143,newobj,0,1,987.5,545.0,obj-531_root,standard,r gateCloseDrum,r gateCloseDrum
+545,obj-142_obj-531_root,obj-142,newobj,2,1,767.0,555.0,obj-531_root,standard,2,2
+546,obj-139_obj-531_root,obj-139,newobj,3,3,767.0,528.0,obj-531_root,standard,sel 3 2,sel 3 2
+547,obj-137_obj-531_root,obj-137,newobj,0,1,767.0,491.0,obj-531_root,standard,r wherearewe,r wherearewe
+548,obj-141_obj-531_root,obj-141,outlet,1,0,953.5,797.0,obj-531_root,standard,,outlet
+549,obj-129_obj-531_root,obj-129,newobj,1,1,893.0,767.0,obj-531_root,standard,pass~,pass~
+550,obj-128_obj-531_root,obj-128,newobj,1,1,762.0,767.0,obj-531_root,standard,pass~,pass~
+551,obj-122_obj-531_root,obj-122,outlet,1,0,893.0,797.0,obj-531_root,standard,,outlet
+552,obj-102_obj-531_root,obj-102,outlet,1,0,762.0,797.0,obj-531_root,standard,,outlet
+553,obj-125_obj-531_root,obj-125,number,1,2,767.0,608.0,obj-531_root,standard,,number
+554,obj-118_obj-531_root,obj-118,newobj,0,1,987.5,574.307495,obj-531_root,standard,r hitrecord,r hitrecord
+555,obj-62_obj-531_root,obj-62,newobj,0,1,852.0,491.0,obj-531_root,standard,r slicerNovOn,r slicerNovOn
+556,obj-126_obj-531_root,obj-126,message,2,1,19.0,84.5,obj-531_root,standard,clear,clear
+557,obj-124_obj-531_root,obj-124,newobj,1,0,498.5,411.0,obj-531_root,standard,s internalPlayer,s internalPlayer
+558,obj-7_obj-531_root,obj-7,newobj,1,2,19.0,113.5,obj-531_root,standard,buffer~ novVoice 5000,buffer~ novVoice 5000
+559,obj-138_obj-531_root,obj-138,button,1,1,987.5,608.0,obj-531_root,standard,,button
+560,obj-121_obj-531_root,obj-121,newobj,2,1,1109.0,564.0,obj-531_root,standard,+ 5000,+ 5000
+561,obj-120_obj-531_root,obj-120,newobj,2,1,1109.0,537.0,obj-531_root,standard,random 10000,random 10000
+562,obj-119_obj-531_root,obj-119,message,2,1,1109.0,594.0,obj-531_root,standard,0, 1 $1
+563,obj-117_obj-531_root,obj-117,newobj,3,2,1109.0,639.0,obj-531_root,standard,line 1.,line 1.
+564,obj-116_obj-531_root,obj-116,newobj,2,2,1109.0,508.0,obj-531_root,standard,sel 0,sel 0
+565,obj-115_obj-531_root,obj-115,newobj,1,1,1143.0,713.5,obj-531_root,standard,deferlow,deferlow
+566,obj-113_obj-531_root,obj-113,flonum,1,2,1109.0,743.5,obj-531_root,standard,,flonum
+567,obj-106_obj-531_root,obj-106,newobj,1,1,1143.0,685.5,obj-531_root,standard,loadmess 0,loadmess 0
+568,obj-8_obj-93_obj-531_root,obj-8,newobj,1,1,452.0,164.0,obj-93_obj-531_root,standard,expr sin($f1),expr sin($f1)
+569,obj-12_obj-93_obj-531_root,obj-12,newobj,6,1,367.0,121.0,obj-93_obj-531_root,standard,scale 0. 1. 0. 1.57075,scale 0. 1. 0. 1.57075
+570,obj-9_obj-93_obj-531_root,obj-9,newobj,1,1,367.0,164.0,obj-93_obj-531_root,standard,expr cos($f1),expr cos($f1)
+571,obj-7_obj-93_obj-531_root,obj-7,outlet,1,0,167.0,295.0,obj-93_obj-531_root,standard,,outlet
+572,obj-6_obj-93_obj-531_root,obj-6,outlet,1,0,117.0,295.0,obj-93_obj-531_root,standard,,outlet
+573,obj-5_obj-93_obj-531_root,obj-5,inlet,0,1,367.0,81.0,obj-93_obj-531_root,standard,,inlet
+574,obj-4_obj-93_obj-531_root,obj-4,inlet,0,1,269.0,152.0,obj-93_obj-531_root,standard,,inlet
+575,obj-3_obj-93_obj-531_root,obj-3,inlet,0,1,219.0,152.0,obj-93_obj-531_root,standard,,inlet
+576,obj-2_obj-93_obj-531_root,obj-2,inlet,0,1,167.0,152.0,obj-93_obj-531_root,standard,,inlet
+577,obj-1_obj-93_obj-531_root,obj-1,inlet,0,1,117.0,152.0,obj-93_obj-531_root,standard,,inlet
+578,obj-16_obj-93_obj-531_root,obj-16,newobj,2,1,269.0,244.0,obj-93_obj-531_root,standard,*~ 0.,*~ 0.
+579,obj-17_obj-93_obj-531_root,obj-17,newobj,2,1,219.0,244.0,obj-93_obj-531_root,standard,*~ 0.,*~ 0.
+580,obj-18_obj-93_obj-531_root,obj-18,newobj,2,1,167.0,244.0,obj-93_obj-531_root,standard,*~ 0.,*~ 0.
+581,obj-19_obj-93_obj-531_root,obj-19,newobj,2,1,117.0,244.0,obj-93_obj-531_root,standard,*~ 0.,*~ 0.
+582,obj-93_obj-531_root,obj-93,newobj,5,2,762.0,708.0,obj-531_root,abstraction,lh.crossFaderTrigsStereo~,lh.crossFaderTrigsStereo~
+583,obj-35_obj-51_obj-531_root,obj-35,comment,1,0,669.0,378.0,obj-51_obj-531_root,standard,want to get 20 slices,want to get 20 slices
+584,obj-26_obj-51_obj-531_root,obj-26,comment,1,0,11.0,20.0,obj-51_obj-531_root,standard,adapted from FluCoMa helpfiles/forum,adapted from FluCoMa helpfiles/forum
+585,obj-8_obj-51_obj-531_root,obj-8,number,1,2,30.5,211.0,obj-51_obj-531_root,standard,,number
+586,obj-124_obj-51_obj-531_root,obj-124,newobj,0,1,118.5,185.0,obj-51_obj-531_root,standard,r internalPlayer,r internalPlayer
+587,obj-23_obj-51_obj-531_root,obj-23,inlet,0,1,30.5,136.0,obj-51_obj-531_root,standard,,inlet
+588,obj-22_obj-51_obj-531_root,obj-22,inlet,0,1,274.0,20.0,obj-51_obj-531_root,standard,,inlet
+589,obj-15_obj-51_obj-531_root,obj-15,outlet,1,0,171.5,703.5,obj-51_obj-531_root,standard,,outlet
+590,obj-12_obj-51_obj-531_root,obj-12,outlet,1,0,102.5,703.5,obj-51_obj-531_root,standard,,outlet
+591,obj-24_obj-51_obj-531_root,obj-24,newobj,0,1,222.0,185.0,obj-51_obj-531_root,standard,r clickeroo,r clickeroo
+592,obj-13_obj-51_obj-531_root,obj-13,newobj,2,1,30.5,363.0,obj-51_obj-531_root,standard,random,random
+593,obj-11_obj-51_obj-531_root,obj-11,newobj,3,1,30.5,314.0,obj-51_obj-531_root,standard,switch,switch
+594,obj-50_obj-51_obj-531_root,obj-50,comment,1,0,809.0,598.0,obj-51_obj-531_root,standard,the number of iterations it took to reach that value,the number of iterations it took to reach that value
+595,obj-46_obj-51_obj-531_root,obj-46,comment,1,0,541.0,235.0,obj-51_obj-531_root,standard,threshold,threshold
+596,obj-27_obj-51_obj-531_root,obj-27,newobj,2,1,370.0,363.0,obj-51_obj-531_root,standard,- 1,- 1
+597,obj-14_obj-51_obj-531_root,obj-14,newobj,1,3,370.0,326.0,obj-51_obj-531_root,standard,getattr samps @listen 0,getattr samps @listen 0
+598,obj-48_obj-51_obj-531_root,obj-48,number,1,2,264.0,451.0,obj-51_obj-531_root,standard,,number
+599,obj-52_obj-51_obj-531_root,obj-52,newobj,1,2,537.0,635.5,obj-51_obj-531_root,standard,t f b,t f b
+600,obj-18_obj-51_obj-531_root,obj-18,newobj,2,1,537.0,703.5,obj-51_obj-531_root,standard,expr $f1 * (($f2 / 100000000.) + 0.999),expr $f1 * (($f2 / 100000000.) + 0.999)
+601,obj-16_obj-51_obj-531_root,obj-16,newobj,2,1,578.0,666.0,obj-51_obj-531_root,standard,random 200001,random 200001
+602,obj-10_obj-51_obj-531_root,obj-10,newobj,1,1,614.0,351.0,obj-51_obj-531_root,standard,loadmess 20,loadmess 20
+603,obj-6_obj-51_obj-531_root,obj-6,newobj,2,1,818.0,557.0,obj-51_obj-531_root,standard,< 100,< 100
+604,obj-3_obj-51_obj-531_root,obj-3,newobj,2,1,537.0,605.0,obj-51_obj-531_root,standard,gate,gate
+605,obj-2_obj-51_obj-531_root,obj-2,newobj,1,2,552.0,479.0,obj-51_obj-531_root,standard,t f b,t f b
+606,obj-1_obj-51_obj-531_root,obj-1,newobj,1,1,552.0,528.0,obj-51_obj-531_root,standard,deferlow,deferlow
+607,obj-53_obj-51_obj-531_root,obj-53,number,1,2,30.5,464.0,obj-51_obj-531_root,standard,,number
+608,obj-72_obj-51_obj-531_root,obj-72,newobj,2,2,171.5,553.0,obj-51_obj-531_root,standard,sel 0,sel 0
+609,obj-66_obj-51_obj-531_root,obj-66,newobj,1,1,102.5,620.0,obj-51_obj-531_root,standard,prepend start,prepend start
+610,obj-65_obj-51_obj-531_root,obj-65,newobj,2,1,102.5,590.0,obj-51_obj-531_root,standard,join 2 @triggers 1,join 2 @triggers 1
+611,obj-31_obj-51_obj-531_root,obj-31,newobj,1,2,102.5,654.0,obj-51_obj-531_root,standard,play~ novVoice,play~ novVoice
+612,obj-5_obj-20_obj-51_obj-531_root,obj-5,newobj,1,1,323.0,169.0,obj-20_obj-51_obj-531_root,standard,t b,t b
+613,obj-4_obj-20_obj-51_obj-531_root,obj-4,newobj,1,9,323.0,195.0,obj-20_obj-51_obj-531_root,standard,info~ slices,info~ slices
+614,obj-2_obj-20_obj-51_obj-531_root,obj-2,inlet,0,1,323.0,73.0,obj-20_obj-51_obj-531_root,standard,,inlet
+615,obj-3_obj-20_obj-51_obj-531_root,obj-3,newobj,2,1,220.0,226.0,obj-20_obj-51_obj-531_root,standard,expr $f1 * 1000. / $f2,expr $f1 * 1000. / $f2
+616,obj-24_obj-20_obj-51_obj-531_root,obj-24,outlet,1,0,259.5,367.0,obj-20_obj-51_obj-531_root,standard,,outlet
+617,obj-23_obj-20_obj-51_obj-531_root,obj-23,outlet,1,0,220.0,367.0,obj-20_obj-51_obj-531_root,standard,,outlet
+618,obj-18_obj-20_obj-51_obj-531_root,obj-18,newobj,2,1,180.0,146.0,obj-20_obj-51_obj-531_root,standard,+ 1,+ 1
+619,obj-1_obj-20_obj-51_obj-531_root,obj-1,inlet,0,1,180.0,73.0,obj-20_obj-51_obj-531_root,standard,,inlet
+620,obj-68_obj-20_obj-51_obj-531_root,obj-68,newobj,1,2,220.0,287.0,obj-20_obj-51_obj-531_root,standard,t l l,t l l
+621,obj-58_obj-20_obj-51_obj-531_root,obj-58,newobj,2,1,220.0,312.0,obj-20_obj-51_obj-531_root,standard,!- 0.,!- 0.
+622,obj-53_obj-20_obj-51_obj-531_root,obj-53,newobj,2,2,220.0,263.0,obj-20_obj-51_obj-531_root,standard,zl group 2,zl group 2
+623,obj-50_obj-20_obj-51_obj-531_root,obj-50,newobj,1,3,180.0,122.0,obj-20_obj-51_obj-531_root,standard,t i i b,t i i b
+624,obj-43_obj-20_obj-51_obj-531_root,obj-43,newobj,3,1,220.0,195.0,obj-20_obj-51_obj-531_root,standard,peek~ slices,peek~ slices
+625,obj-20_obj-51_obj-531_root,obj-20,newobj,2,2,30.5,498.0,obj-51_obj-531_root,subpatcher,p other query converted,p other query converted
+626,obj-47_obj-51_obj-531_root,obj-47,newobj,2,1,552.0,451.0,obj-51_obj-531_root,standard,/ 10.,/ 10.
+627,obj-43_obj-51_obj-531_root,obj-43,number,1,2,614.0,378.0,obj-51_obj-531_root,standard,,number
+628,obj-40_obj-51_obj-531_root,obj-40,button,1,1,370.0,451.0,obj-51_obj-531_root,standard,,button
+629,obj-38_obj-51_obj-531_root,obj-38,newobj,2,2,370.0,409.0,obj-51_obj-531_root,standard,if $i1 == $i2 then bang else out2 $i1,if $i1 == $i2 then bang else out2 $i1
+630,obj-36_obj-51_obj-531_root,obj-36,number,1,2,818.0,533.0,obj-51_obj-531_root,standard,,number
+631,obj-33_obj-51_obj-531_root,obj-33,newobj,1,2,370.0,116.0,obj-51_obj-531_root,standard,t 0.2 1,t 0.2 1
+632,obj-30_obj-51_obj-531_root,obj-30,newobj,5,4,818.0,509.0,obj-51_obj-531_root,standard,counter,counter
+633,obj-29_obj-51_obj-531_root,obj-29,newobj,1,2,438.5,167.0,obj-51_obj-531_root,standard,t b f,t b f
+634,obj-28_obj-51_obj-531_root,obj-28,newobj,3,1,438.5,211.0,obj-51_obj-531_root,standard,accum 0.2,accum 0.2
+635,obj-25_obj-51_obj-531_root,obj-25,flonum,1,2,438.5,235.0,obj-51_obj-531_root,standard,,flonum
+636,obj-21_obj-51_obj-531_root,obj-21,message,2,1,438.5,259.0,obj-51_obj-531_root,standard,threshold $1, bang
+637,obj-17_obj-51_obj-531_root,obj-17,button,1,1,370.0,56.0,obj-51_obj-531_root,standard,,button
+638,obj-9_obj-51_obj-531_root,obj-9,newobj,1,3,370.0,292.0,obj-51_obj-531_root,standard,fluid.bufnoveltyslice~ @source novVoice @indices slices @kernelsize 33 @filtersize 3 @blocking 0,fluid.bufnoveltyslice~ @source novVoice @indices slices @kernelsize 33 @filtersize 3 @blocking 0
+639,obj-5_obj-51_obj-531_root,obj-5,newobj,1,2,429.0,357.0,obj-51_obj-531_root,standard,buffer~ slices,buffer~ slices
+640,obj-51_obj-531_root,obj-51,newobj,2,2,827.5,654.5,obj-531_root,abstraction,lh.noveltySliceNumber,lh.noveltySliceNumber
+641,obj-81_obj-531_root,obj-81,newobj,1,1,377.0,154.0,obj-531_root,standard,deferlow,deferlow
+642,obj-80_obj-531_root,obj-80,newobj,3,1,284.0,389.0,obj-531_root,standard,record~ novVoice,record~ novVoice
+643,obj-57_obj-531_root,obj-57,message,2,1,429.0,206.0,obj-531_root,standard,append 1,append 1
+644,obj-96_obj-531_root,obj-96,newobj,1,1,377.0,125.0,obj-531_root,standard,loadbang,loadbang
+645,obj-24_obj-531_root,obj-24,newobj,0,1,937.0,491.0,obj-531_root,standard,r openCat,r openCat
+646,obj-65_obj-531_root,obj-65,newobj,1,3,937.0,521.0,obj-531_root,standard,change,change
+647,obj-67_obj-531_root,obj-67,newobj,2,1,937.0,550.307495,obj-531_root,standard,/ 127.,/ 127.
+648,obj-66_obj-531_root,obj-66,newobj,2,1,661.0,102.0,obj-531_root,standard,* 6,* 6
+649,obj-63_obj-531_root,obj-63,newobj,2,1,661.0,76.0,obj-531_root,standard,% 12,% 12
+650,obj-61_obj-531_root,obj-61,newobj,2,1,661.0,196.0,obj-531_root,standard,!/ 1.,!/ 1.
+651,obj-58_obj-531_root,obj-58,newobj,1,1,661.0,136.0,obj-531_root,standard,expr pow(2.\,$f1/12)
+652,obj-60_obj-531_root,obj-60,flonum,1,2,661.0,165.0,obj-531_root,standard,,flonum
+653,obj-56_obj-531_root,obj-56,newobj,1,3,661.0,42.0,obj-531_root,standard,notein "Xkey Xkey  ",notein "Xkey Xkey  "
+654,obj-10_obj-531_root,obj-10,newobj,6,1,540.0,260.0,obj-531_root,standard,scale 100. 1000. 1. 0.00625,scale 100. 1000. 1. 0.00625
+655,obj-6_obj-531_root,obj-6,newobj,1,1,544.0,15.0,obj-531_root,standard,loadmess 0.1,loadmess 0.1
+656,obj-43_obj-531_root,obj-43,newobj,1,0,475.0,621.0,obj-531_root,standard,send~ toSlice,send~ toSlice
+657,obj-28_obj-531_root,obj-28,flonum,1,2,544.0,49.0,obj-531_root,standard,,flonum
+658,obj-40_obj-531_root,obj-40,newobj,1,4,659.0,15.0,obj-531_root,standard,autopattr,autopattr
+659,obj-100_obj-531_root,obj-100,newobj,1,2,498.5,380.692505,obj-531_root,standard,edge~,edge~
+660,obj-99_obj-531_root,obj-99,newobj,2,1,498.5,352.692505,obj-531_root,standard,<~ 0.,<~ 0.
+661,obj-98_obj-531_root,obj-98,newobj,1,1,498.5,321.5,obj-531_root,standard,delta~,delta~
+662,obj-50_obj-531_root,obj-50,newobj,2,1,498.5,290.0,obj-531_root,standard,rate~ 0.5,rate~ 0.5
+663,obj-44_obj-531_root,obj-44,newobj,2,1,584.0,389.0,obj-531_root,standard,*~ 1.,*~ 1.
+664,obj-3_obj-531_root,obj-3,newobj,0,1,540.0,226.0,obj-531_root,standard,r playbackVoc,r playbackVoc
+665,obj-19_obj-531_root,obj-19,newobj,1,3,525.0,114.0,obj-531_root,standard,change,change
+666,obj-16_obj-531_root,obj-16,toggle,1,1,525.0,171.0,obj-531_root,standard,,toggle
+667,obj-14_obj-531_root,obj-14,newobj,2,2,584.0,327.0,obj-531_root,standard,line~,line~
+668,obj-13_obj-531_root,obj-13,message,2,1,326.0,206.0,obj-531_root,standard,loop 1,loop 1
+669,obj-9_obj-531_root,obj-9,toggle,1,1,525.0,142.0,obj-531_root,standard,,toggle
+670,obj-20_obj-531_root,obj-20,message,2,1,377.0,206.0,obj-531_root,standard,reset,reset
+671,obj-5_obj-531_root,obj-5,newobj,1,1,284.0,121.0,obj-531_root,standard,receive~ in3,receive~ in3
+672,obj-38_obj-531_root,obj-38,newobj,2,1,525.0,84.0,obj-531_root,standard,> 0.1,> 0.1
+673,obj-37_obj-531_root,obj-37,flonum,1,2,451.0,47.0,obj-531_root,standard,,flonum
+674,obj-35_obj-531_root,obj-35,newobj,2,1,451.0,15.0,obj-531_root,standard,peakamp~ 10,peakamp~ 10
+675,obj-2_obj-531_root,obj-2,newobj,3,1,288.0,352.692505,obj-531_root,standard,record~ shortVoice,record~ shortVoice
+676,obj-1_obj-531_root,obj-1,newobj,1,2,19.0,142.0,obj-531_root,standard,buffer~ shortVoice 2000,buffer~ shortVoice 2000
+677,obj-21_obj-531_root,obj-21,message,2,1,584.0,296.0,obj-531_root,standard,10, 210 200
+678,obj-23_obj-531_root,obj-23,newobj,1,2,584.0,359.0,obj-531_root,standard,play~ shortVoice,play~ shortVoice
+679,obj-531_root,obj-531,newobj,0,3,636.0,-259.0,root,abstraction,lh.techno2,lh.techno2
+680,obj-5_obj-525_root,obj-5,inlet,0,1,59.0,30.0,obj-525_root,standard,,inlet
